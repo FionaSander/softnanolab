@@ -1,12 +1,16 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "The Team"
+    url: https://FionaSander.github.io/softnanolab/theteam/
+  - title: "Research"
+    url: https://FionaSander.github.io/softnanolab/research/
+  - title: "Publications"
+    url: https://FionaSander.github.io/softnanolab/publications/
+  - title: "News"
+    url: https://FionaSander.github.io/softnanolab/news/
+  - title: "Facilities"
+    url: https://FionaSander.github.io/softnanolab/facilities/
+  - title: "Vacancies"
+    url: https://FionaSander.github.io/softnanolab/vacancies/
+  - title: "Contact"
+    url: https://FionaSander.github.io/softnanolab/contact/
