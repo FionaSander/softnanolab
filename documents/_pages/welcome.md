@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-header:
+header: SoftNanoLab
   overlay_color: "#5e616c"
   overlay_image: /_images/34.tif
   actions:
