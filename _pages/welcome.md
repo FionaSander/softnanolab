@@ -2,8 +2,8 @@
 layout: splash
 permalink: /
 header: SoftNanoLab
-  overlay_color: "#5e616c"
-  overlay_image: softnanolab/_images/34.tif
+  overlay_color: "#000" #5e616c
+  overlay_image:  /assets/images/unsplash-image-1.jpg #softnanolab/_images/34.tif
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/"
