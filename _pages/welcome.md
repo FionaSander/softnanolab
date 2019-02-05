@@ -1,4 +1,5 @@
 ---
+title: welcome
 layout: splash
 permalink: /
 header: SoftNanoLab
