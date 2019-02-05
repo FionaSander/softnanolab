@@ -1,6 +1,6 @@
 #---
 #layout: splash
-#permalink: /
+#permalink: /theteam/
 #header: The Team
 #  overlay_color: "#5e616c"
 #  overlay_image: softnanolab/_images/34.tif
