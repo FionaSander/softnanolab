@@ -1,3 +1,5 @@
 source "https://rubygems.org"
-gemspec
-gem "jekyll-theme-minimal"
+
+gem "jekyll", "~> 3.5"
+gem "minimal-mistakes-jekyll"
+
