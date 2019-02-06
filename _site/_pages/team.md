@@ -2,13 +2,13 @@
 #layout: splash
 #permalink: /theteam/
 #header: The Team
-#  overlay_color: "#5e616c"
-#  overlay_image: softnanolab/_images/34.tif
-#  actions:
- #   - label: "<i class='fas fa-download'></i> Install now"
- #     url: "/theteam/"
+#overlay_color: "#5e616c"
+#overlay_image: softnanolab/_images/34.tif
+#actions:
+# - label: "<i class='fas fa-download'></i> Install now"
+# -  url: "/theteam/"
 # excerpt: >
-# Simulation of Softmatter systems at nanoscale for application in cancer therapy, sensoring and drug delivery
+# Simulation of Softmatter systems at nanoscale for application in cancer therapy, sensoring and drug delivery##
 
 #{% include figure 
 #image_path="/_images/0.jpeg" 
@@ -18,28 +18,27 @@
 #%}
 
 ---
-title: "Splash Page"
 layout: splash
-permalink: /splash-page/
+permalink: /theteam/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Learn More"
+      url: "/terms/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
