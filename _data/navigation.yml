@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Welcome"
+    url: https://FionaSander.github.io/softnanolab/
   - title: "The Team"
     url: https://FionaSander.github.io/softnanolab/theteam/
   - title: "Research"
