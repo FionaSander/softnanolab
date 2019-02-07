@@ -58,7 +58,7 @@ feature_row5:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:
- -  image_path: /assets/images/0.jpeg
+  - image_path: /assets/images/0.jpeg
     alt: "William S. Morton"
     title: "William Morton"
     excerpt: 'Some stuff about William'
@@ -66,7 +66,7 @@ feature_row6:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row7:
- -  image_path: /assets/images/0.jpeg
+  - image_path: /assets/images/0.jpeg
     alt: "Shuang"
     title: "Shuang"
     excerpt: 'Some stuff about Shuang'
@@ -74,7 +74,7 @@ feature_row7:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row8:
- -  image_path: /assets/images/0.jpeg
+  - image_path: /assets/images/0.jpeg
     alt: "Yuong Kim Ung"
     title: "Yuong Kim Ung"
     excerpt: 'Some stuff about Yuong'
@@ -82,7 +82,7 @@ feature_row8:
     btn_label: "Read More"
     btn_class: "btn--primary"
  feature_row9:
- -  image_path: /assets/images/0.jpeg
+  - image_path: /assets/images/0.jpeg
     alt: "Yuong Kim Ung"
     title: "Yuong Kim Ung"
     excerpt: 'Some stuff about Yuong'
