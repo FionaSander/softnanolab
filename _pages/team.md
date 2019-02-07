@@ -46,10 +46,18 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
-    alt: "Fiona Sander"
-    title: "Fiona Sander"
-    excerpt: 'Stuff about Fiona'
+  - image_path: /assets/images/Kaiye.jpeg
+    alt: "Kaiye Xie"
+    title: "Kaiye Xie"
+    excerpt: 'Stuff about Kaiye'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row6:
+  - image_path: /assets/images/Will.jpeg
+    alt: "William Morton"
+    title: "William Morton"
+    excerpt: 'Stuff about William'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -66,3 +74,5 @@ feature_row5:
 {% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="left" %}
