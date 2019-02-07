@@ -1,14 +1,4 @@
-#---
-#layout: splash
-#permalink: /theteam/
-#header: The Team
-#overlay_color: "#5e616c"
-#overlay_image: softnanolab/assets/images/34.tif
-#actions:
-# - label: "<i class='fas fa-download'></i> Install now"
-# -  url: "/theteam/"
-# excerpt: >
-# Simulation of Softmatter systems at nanoscale for application in cancer therapy, sensoring and drug delivery##
+
 
 #{% include figure 
 #image_path="/_images/0.jpeg" 
@@ -24,7 +14,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/34.tif
   actions:
     - label: "Learn More"
       url: "https://FionaSander.github.io"  #"/terms/"
