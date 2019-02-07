@@ -40,7 +40,7 @@ feature_row5:
   - image_path: /assets/images/kaiye.jpg
     alt: "Kaiye Xie"
     title: "Kaiye Xie"
-    excerpt: 'some stuff about Kaiye'
+    excerpt: 'Kaiye received his bachelor degree in Polymeric Materials Science, then continues his Msc study in Imperial College, under supervision of Dr. Stefano Angioletti-Uberti. Currently he is doing PhD in the same group, with the topic of simulating nanocomposite bioadhesives. '
 feature_row6:
   - image_path: /assets/images/0.jpeg
     alt: "William S. Morton"
