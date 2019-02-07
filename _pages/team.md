@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/34.tif
+  overlay_image: /assets/images/group_picture.jpeg
   actions:
     - label: "Learn More"
       url: "https://FionaSander.github.io"  #"/terms/"
