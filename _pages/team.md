@@ -21,6 +21,7 @@ feature_row:
     alt: "Stefano Angioletti-Uberti"
     title: "Stefano Angioletti-Uberti"
     excerpt: "stuff about Stefano"
+"PhD Students"
 feature_row2:
   - image_path: /assets/images/debesh.jpeg
     alt: "Debesh Mandal"
