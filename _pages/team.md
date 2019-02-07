@@ -77,6 +77,14 @@ feature_row8:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row9:
+  - image_path: /assets/images/0.jpeg
+    alt: "Jan Kraszewski"
+    title: "Jan Kraszewski"
+    excerpt: 'Stuff about Jan'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -96,3 +104,5 @@ feature_row8:
 {% include feature_row id="feature_row7" type="left" %}
 
 {% include feature_row id="feature_row8" type="left" %}
+
+{% include feature_row id="feature_row9" type="left" %}
