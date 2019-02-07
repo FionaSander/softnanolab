@@ -1,13 +1,5 @@
-
-
-#{% include figure 
-#image_path="/_images/0.jpeg" 
-#alt="" 
-#caption="Yuong Ung Kim"
-#excerpt=description of Yuongs CV and skills
-#%}
-
 ---
+title: "The team"
 layout: splash
 permalink: /theteam/
 date: 2016-03-23T11:48:41-04:00
@@ -73,3 +65,4 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
+
