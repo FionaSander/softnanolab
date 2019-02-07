@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     alt: "Stefano Angioletti-Uberti"
     title: "Stefano Angioletti-Uberti"
-    excerpt: 'some stuff about Stefano'
+    excerpt: "some stuff about Stefano"
 feature_row2:
   - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
     alt: "Sara Bandera"
