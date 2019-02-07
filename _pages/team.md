@@ -63,7 +63,7 @@ feature_row8:
     excerpt: 'Some stuff about Yuong'
 ---
 
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row" type="left" %}
 
