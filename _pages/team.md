@@ -25,8 +25,6 @@ feature_row1:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
----
-PhD Students
 feature_row2:
   - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
     alt: "Sara Bandera"
@@ -59,8 +57,6 @@ feature_row5:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
----
-MSc and MEng Students
 feature_row6:
  -  image_path: /assets/images/0.jpeg
     alt: "William S. Morton"
