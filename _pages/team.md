@@ -70,7 +70,7 @@ feature_row7:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row8:
-  - image_path: /assets/images/0.jpeg
+  - image_path: /assets/images/shuang.jpg
     alt: "Shuang"
     title: "Shuang"
     excerpt: 'Stuff about Shuang'
