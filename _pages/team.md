@@ -16,12 +16,30 @@ blablablablablablablabalbalabalbal
 blablablablablablablabalbalabalbal
 "
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'This is us'
 feature_row2:
   - image_path: /assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     alt: "Stefano Angioletti-Uberti"
     title: "Stefano Angioletti-Uberti"
     excerpt: 'some stuff about Stefano'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+---
+PhD Students
+feature_row3:
+  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
+    alt: "Sara Bandera"
+    title: "Sara Bandera"
+    excerpt: 'some stuff about Sara'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
+    alt: "Debesh Mandal"
+    title: "Debesh Mandal"
+    excerpt: 'some stuff about Debesh'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -33,11 +51,45 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
+    alt: "Kaiye Xie"
+    title: "Kaiye Xie"
+    excerpt: 'some stuff about Kaiye'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+---
+MSc and MEng Students
 feature_row4:
  -  image_path: /assets/images/0.jpeg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    alt: "William S. Morton"
+    title: "William Morton"
+    excerpt: 'Some stuff about William'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+ -  image_path: /assets/images/0.jpeg
+    alt: "Shuang"
+    title: "Shuang"
+    excerpt: 'Some stuff about Shuang'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+ -  image_path: /assets/images/0.jpeg
+    alt: "Yuong Kim Ung"
+    title: "Yuong Kim Ung"
+    excerpt: 'Some stuff about Yuong'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+ feature_row4:
+ -  image_path: /assets/images/0.jpeg
+    alt: "Yuong Kim Ung"
+    title: "Yuong Kim Ung"
+    excerpt: 'Some stuff about Yuong'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
