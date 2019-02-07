@@ -27,7 +27,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "Learn More"
-      url: "/terms/"
+      url: "https://FionaSander.github.io"  #"/terms/"
   caption: "Photo credit: Fiona Sander"
 excerpt: "Simulation of Softmatter systems at nanoscale for application in cancer therapy, sensoring and drug delivery"
 intro: 
