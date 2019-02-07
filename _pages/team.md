@@ -17,7 +17,7 @@ blablablablablablablabalbalabalbal
 "
 intro: 
   - excerpt: 'This is us'
-feature_row2:
+feature_row1:
   - image_path: /assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     alt: "Stefano Angioletti-Uberti"
     title: "Stefano Angioletti-Uberti"
@@ -27,7 +27,7 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 PhD Students
-feature_row3:
+feature_row2:
   - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
     alt: "Sara Bandera"
     title: "Sara Bandera"
@@ -43,7 +43,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row4:
   - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
     alt: "Fiona Sander"
     title: "Fiona Sander"
@@ -51,7 +51,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row5:
   - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
     alt: "Kaiye Xie"
     title: "Kaiye Xie"
@@ -61,7 +61,7 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 MSc and MEng Students
-feature_row4:
+feature_row6:
  -  image_path: /assets/images/0.jpeg
     alt: "William S. Morton"
     title: "William Morton"
@@ -69,7 +69,7 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row7:
  -  image_path: /assets/images/0.jpeg
     alt: "Shuang"
     title: "Shuang"
@@ -77,7 +77,7 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row8:
  -  image_path: /assets/images/0.jpeg
     alt: "Yuong Kim Ung"
     title: "Yuong Kim Ung"
@@ -85,7 +85,7 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
- feature_row4:
+ feature_row9:
  -  image_path: /assets/images/0.jpeg
     alt: "Yuong Kim Ung"
     title: "Yuong Kim Ung"
@@ -97,9 +97,20 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
+{% include feature_row id="feature_row1" type="left" %}
+
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="left" %}
 
+{% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="left" %}
+
+{% include feature_row id="feature_row7" type="left" %}
+
+{% include feature_row id="feature_row8" type="left" %}
+
+{% include feature_row id="feature_row9" type="left" %}
