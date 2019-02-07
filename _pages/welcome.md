@@ -11,9 +11,9 @@ header:
     - label: "Download"
       url: "https://FionaSander.github.io" #"https://github.com/FionaSander/softnanolab/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "What we are doing"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'some more stuff about what we are doing'
 feature_row:
   - image_path: /assets/images/0.jpeg #assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -58,39 +58,3 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-#---
-#layout: splash
-#permalink: /
-#header: SoftNanoLab
-#  overlay_color: "#000" #5e616c
-#  overlay_image:  /assets/images/unsplash-image-1.jpg #softnanolab/_images/34.tif
-#  actions:
-#    - label: "<i class='fas fa-download'></i> Install now"
-#      url: "/"
-#excerpt: >
-#Simulation of Softmatter systems at nanoscale for application in cancer therapy, sensoring and drug delivery
-#feature_row:
-#  - image_path: /assets/images/mm-customizable-feature.png
-#    alt: "customizable"
-#    title: "Video of the Month"
-#    excerpt: "bliblabla description"
-#    url: "/videoofthemonth/"
-#    btn_class: "btn--primary"
-#    btn_label: "Previous videos"
- # - image_path: /assets/images/mm-responsive-feature.png
- #   alt: "fully responsive"
- #   title: "Responsive layouts"
- #   excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
- #   url: "/docs/layouts/"
- #   btn_class: "btn--primary"
- #   btn_label: "Learn more"
- # - image_path: /assets/images/mm-free-feature.png
- #   alt: "100% free"
- #   title: "100% free"
- #   excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
- #   url: "/docs/license/"
- #   btn_class: "btn--primary"
- #   btn_label: "Learn more"      
-#---
-
-#{% include feature_row %}
