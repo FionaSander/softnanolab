@@ -11,7 +11,13 @@ header:
     - label: "Learn More"
       url: "https://FionaSander.github.io"  #"/terms/"
   caption: "Photo credit: Fiona Sander"
-excerpt: "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+excerpt: "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
@@ -31,26 +37,26 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/0.jpeg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+  - image_path: /assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
+    alt: "Stefano Angioletti-Uberti"
+    title: "Stefano Angioletti-Uberti"
+    excerpt: 'some stuff about Stefano'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
+    alt: "Fiona Sander"
+    title: "Fiona Sander"
+    excerpt: 'some stuff about Fiona'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
+ -  image_path: /assets/images/0.jpeg
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
