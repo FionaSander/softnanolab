@@ -37,7 +37,7 @@ feature_row4:
     title: "Fiona Sander"
     excerpt: 'some stuff about Fiona'
 feature_row5:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
+  - image_path: /assets/images/kaiye.jpg
     alt: "Kaiye Xie"
     title: "Kaiye Xie"
     excerpt: 'some stuff about Kaiye'
@@ -48,8 +48,8 @@ feature_row6:
     excerpt: 'Some stuff about William'
 feature_row7:
   - image_path: /assets/images/0.jpeg
-    alt: "Shuang"
-    title: "Shuang"
+    alt: "Shuang Zhao"
+    title: "Shuang Zhao"
     excerpt: 'Some stuff about Shuang'
 feature_row8:
   - image_path: /assets/images/0.jpeg
