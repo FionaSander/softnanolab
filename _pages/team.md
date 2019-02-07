@@ -22,45 +22,48 @@ feature_row:
     title: "Stefano Angioletti-Uberti"
     excerpt: "some stuff about Stefano"
 feature_row2:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
+  - image_path: /assets/images/sara_resized.jpg
     alt: "Sara Bandera"
     title: "Sara Bandera"
     excerpt: 'some stuff about Sara'
 feature_row3:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
+  - image_path: /assets/images/debesh.jpg
     alt: "Debesh Mandal"
     title: "Debesh Mandal"
     excerpt: 'some stuff about Debesh'
 feature_row4:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
+  - image_path: /assets/images/fiona_resized.jpg
     alt: "Fiona Sander"
     title: "Fiona Sander"
     excerpt: 'some stuff about Fiona'
 feature_row5:
-  - image_path: /assets/images/kaiye.jpg
+  - image_path: /assets/images/kaiye_resized.jpg
     alt: "Kaiye Xie"
     title: "Kaiye Xie"
     excerpt: 'Kaiye received his bachelor degree in Polymeric Materials Science, then continues his Msc study in Imperial College, under supervision of Dr. Stefano Angioletti-Uberti. Currently he is doing PhD in the same group, with the topic of simulating nanocomposite bioadhesives. '
 feature_row6:
-  - image_path: /assets/images/0.jpeg
+  - image_path: /assets/images/will_resized.jpeg
     alt: "William S. Morton"
     title: "William Morton"
     excerpt: 'Some stuff about William'
 feature_row7:
-  - image_path: /assets/images/0.jpeg
+  - image_path: /assets/images/shuang_resized.jpeg
     alt: "Shuang Zhao"
     title: "Shuang Zhao"
     excerpt: 'Some stuff about Shuang'
 feature_row8:
-  - image_path: /assets/images/0.jpeg
+  - image_path: /assets/images/lucas_resized.jpeg
     alt: "Yuong Kim Ung"
     title: "Yuong Kim Ung"
     excerpt: 'Some stuff about Yuong'
- feature_row9:
-  - image_path: /assets/images/0.jpeg
-    alt: "Yuong Kim Ung"
-    title: "Yuong Kim Ung"
-    excerpt: 'Some stuff about Yuong'
+feature_row9:
+  - image_path: /assets/images/jan_resized.jpeg
+    alt: "Jan Kraszewski"
+    title: "Jan Kraszewski"
+    excerpt: 'Stuff about Jan'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
