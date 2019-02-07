@@ -37,10 +37,10 @@ feature_row4:
     title: "Fiona Sander"
     excerpt: 'some stuff about Fiona'
 feature_row5:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
+  - image_path: /assets/images/kaiye.jpg
     alt: "Kaiye Xie"
     title: "Kaiye Xie"
-    excerpt: 'some stuff about Kaiye'
+    excerpt: 'Kaiye received his bachelor degree in Polymeric Materials Science, then continues his Msc study in Imperial College, under supervision of Dr. Stefano Angioletti-Uberti. Currently he is doing PhD in the same group, with the topic of simulating nanocomposite bioadhesives. '
 feature_row6:
   - image_path: /assets/images/0.jpeg
     alt: "William S. Morton"
@@ -48,8 +48,8 @@ feature_row6:
     excerpt: 'Some stuff about William'
 feature_row7:
   - image_path: /assets/images/0.jpeg
-    alt: "Shuang"
-    title: "Shuang"
+    alt: "Shuang Zhao"
+    title: "Shuang Zhao"
     excerpt: 'Some stuff about Shuang'
 feature_row8:
   - image_path: /assets/images/0.jpeg
