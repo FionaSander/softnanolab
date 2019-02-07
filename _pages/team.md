@@ -17,7 +17,7 @@ blablablablablablablabalbalabalbal
 "
 intro: 
   - excerpt: 'This is us'
-feature_row1:
+feature_row:
   - image_path: /assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     alt: "Stefano Angioletti-Uberti"
     title: "Stefano Angioletti-Uberti"
@@ -93,7 +93,7 @@ feature_row8:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
