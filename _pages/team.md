@@ -13,8 +13,7 @@ blablablablablablablabalbalabalbal
 blablablablablablablabalbalabalbal
 blablablablablablablabalbalabalbal
 blablablablablablablabalbalabalbal
-blablablablablablablabalbalabalbal
-"
+blablablablablablablabalbalabalbal"
 intro: 
   - excerpt: 'This is us'
 feature_row:
