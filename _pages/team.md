@@ -11,16 +11,18 @@ header:
     - label: "Learn More"
       url: "https://FionaSander.github.io"  #"/terms/"
   caption: "Photo credit: Fiona Sander"
-excerpt: "
-
-
-
-
-
-
-
-
-"
+excerpt: "bla
+bla
+vla
+bla
+bla
+bla
+bla
+bla
+bla
+bla
+bla
+bla"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
