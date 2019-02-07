@@ -22,7 +22,7 @@ feature_row:
     title: "Stefano Angioletti-Uberti"
     excerpt: "stuff about Stefano"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/debesh.jpeg
     alt: "Debesh Mandal"
     title: "Debesh Mandal"
     excerpt: 'stuff about Debesh'
@@ -30,7 +30,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/sara.jpeg
     alt: "Sara Bandera"
     title: "Sara Bandera"
     excerpt: 'stuff about Sara'
@@ -78,7 +78,7 @@ feature_row8:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row9:
-  - image_path: /assets/images/0.jpeg
+  - image_path: /assets/images/jan.jpeg
     alt: "Jan Kraszewski"
     title: "Jan Kraszewski"
     excerpt: 'Stuff about Jan'
