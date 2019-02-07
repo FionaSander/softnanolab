@@ -57,4 +57,5 @@ feature_row4:
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% include feature_row %}
 
