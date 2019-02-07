@@ -61,6 +61,22 @@ feature_row6:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row7:
+  - image_path: /assets/images/0.jpeg
+    alt: "Yuong Kim Ung"
+    title: "Yuong Kim Ung"
+    excerpt: 'Stuff about Yuong'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row8:
+  - image_path: /assets/images/0.jpeg
+    alt: "Shuang"
+    title: "Shuang"
+    excerpt: 'Stuff about Shuang'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -76,3 +92,7 @@ feature_row6:
 {% include feature_row id="feature_row5" type="left" %}
 
 {% include feature_row id="feature_row6" type="left" %}
+
+{% include feature_row id="feature_row7" type="left" %}
+
+{% include feature_row id="feature_row8" type="left" %}
