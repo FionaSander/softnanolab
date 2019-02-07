@@ -26,41 +26,6 @@ feature_row2:
     alt: "Sara Bandera"
     title: "Sara Bandera"
     excerpt: 'some stuff about Sara'
-feature_row3:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
-    alt: "Debesh Mandal"
-    title: "Debesh Mandal"
-    excerpt: 'some stuff about Debesh'
-feature_row4:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
-    alt: "Fiona Sander"
-    title: "Fiona Sander"
-    excerpt: 'some stuff about Fiona'
-feature_row5:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
-    alt: "Kaiye Xie"
-    title: "Kaiye Xie"
-    excerpt: 'some stuff about Kaiye'
-feature_row6:
-  - image_path: /assets/images/0.jpeg
-    alt: "William S. Morton"
-    title: "William Morton"
-    excerpt: 'Some stuff about William'
-feature_row7:
-  - image_path: /assets/images/0.jpeg
-    alt: "Shuang"
-    title: "Shuang"
-    excerpt: 'Some stuff about Shuang'
-feature_row8:
-  - image_path: /assets/images/0.jpeg
-    alt: "Yuong Kim Ung"
-    title: "Yuong Kim Ung"
-    excerpt: 'Some stuff about Yuong'
- feature_row9:
-  - image_path: /assets/images/0.jpeg
-    alt: "Yuong Kim Ung"
-    title: "Yuong Kim Ung"
-    excerpt: 'Some stuff about Yuong'
 ---
 
 {% include feature_row id="intro" type="left" %}
@@ -69,16 +34,16 @@ feature_row8:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+#{% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+#{% include feature_row id="feature_row4" type="left" %}
 
-{% include feature_row id="feature_row5" type="left" %}
+#{% include feature_row id="feature_row5" type="left" %}
 
-{% include feature_row id="feature_row6" type="left" %}
+#{% include feature_row id="feature_row6" type="left" %}
 
-{% include feature_row id="feature_row7" type="left" %}
+#{% include feature_row id="feature_row7" type="left" %}
 
-{% include feature_row id="feature_row8" type="left" %}
+#{% include feature_row id="feature_row8" type="left" %}
 
-{% include feature_row id="feature_row9" type="left" %}
+#{% include feature_row id="feature_row9" type="left" %}
