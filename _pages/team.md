@@ -17,7 +17,7 @@ blablablablablablablabalbalabalbal"
 intro: 
   - excerpt: 'This is us.'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     alt: "Stefano Angioletti-Uberti"
     title: "Stefano Angioletti-Uberti"
     excerpt: "stuff about Stefano"
@@ -38,7 +38,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
     alt: "Fiona Sander"
     title: "Fiona Sander"
     excerpt: 'Stuff about Fiona'
@@ -46,7 +46,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
     alt: "Fiona Sander"
     title: "Fiona Sander"
     excerpt: 'Stuff about Fiona'
