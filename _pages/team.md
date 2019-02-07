@@ -20,54 +20,50 @@ feature_row:
   - image_path: /assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     alt: "Stefano Angioletti-Uberti"
     title: "Stefano Angioletti-Uberti"
-    excerpt: "some stuff about Stefano"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
     alt: "Sara Bandera"
     title: "Sara Bandera"
-    excerpt: 'some stuff about Sara'
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
-    alt: "Debesh Mandal"
-    title: "Debesh Mandal"
-    excerpt: 'some stuff about Debesh'
+  - image_path: /assets/images/0.jpeg
+    alt: "Yuong Kim Ung"
+    title: "Yuong Kim Ung"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
-    alt: "Fiona Sander"
-    title: "Fiona Sander"
-    excerpt: 'some stuff about Fiona'
-feature_row5:
-  - image_path: /assets/images/IMG-20170228-WA0014 2.jpg
-    alt: "Kaiye Xie"
-    title: "Kaiye Xie"
-    excerpt: 'some stuff about Kaiye'
-feature_row6:
   - image_path: /assets/images/0.jpeg
-    alt: "William S. Morton"
-    title: "William Morton"
-    excerpt: 'Some stuff about William'
-feature_row7:
-  - image_path: /assets/images/0.jpeg
-    alt: "Shuang"
-    title: "Shuang"
-    excerpt: 'Some stuff about Shuang'
-feature_row8:
-  - image_path: /assets/images/0.jpeg
-    alt: "Yuong Kim Ung"
-    title: "Yuong Kim Ung"
-    excerpt: 'Some stuff about Yuong'
- feature_row9:
-  - image_path: /assets/images/0.jpeg
-    alt: "Yuong Kim Ung"
-    title: "Yuong Kim Ung"
-    excerpt: 'Some stuff about Yuong'
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
+
+
+
+#{% include feature_row id="intro" type="center" %}
+
+#{% include feature_row id="feature_row" type="left" %}
+
+#{% include feature_row id="feature_row2" type="left" %}
 
 #{% include feature_row id="feature_row3" type="left" %}
 
