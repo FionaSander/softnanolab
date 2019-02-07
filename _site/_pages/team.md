@@ -3,7 +3,7 @@
 #permalink: /theteam/
 #header: The Team
 #overlay_color: "#5e616c"
-#overlay_image: softnanolab/_images/34.tif
+#overlay_image: softnanolab/assets/images/34.tif
 #actions:
 # - label: "<i class='fas fa-download'></i> Install now"
 # -  url: "/theteam/"
