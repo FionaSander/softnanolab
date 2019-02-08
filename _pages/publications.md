@@ -8,12 +8,9 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/stefano-publication2.jpeg
   caption: "Image credit: Stefano Angioletti-Uberti"
-excerpt: "blablablablablablablabalbalabalbal
-blablablablablablablabalbalabalbal
-blablablablablablablabalbalabalbal
-blablablablablablablabalbalabalbal
-blablablablablablablabalbalabalbal
-blablablablablablablabalbalabalbal"
+excerpt: "
+
+"
 intro: 
   - excerpt: 'Publications.'
 feature_row:
