@@ -15,21 +15,15 @@ excerpt: "What we are doing"
 intro: 
   - excerpt: 'some more stuff about what we are doing'
 feature_row:
-  - image_path: /assets/images/0.jpeg #assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/0.jpeg #assets/images/chitinrods.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is very interesting."
   - image_path: /assets/images/forwebpage.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    image_caption: "Image credit: Kaiye Xie"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is really cool."
+  - image_path: /assets/images/stefanopublication.png
+    excerpt: "This is also quite cool."
 feature_row2:
   - image_path: "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
     image_caption: "Video of the month"
