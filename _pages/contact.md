@@ -5,7 +5,7 @@ permalink: contact/
 
 ---
 
-### we are looking for nice people
+###### we are looking for nice people
 
 ---
 
