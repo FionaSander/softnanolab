@@ -33,7 +33,6 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Video of the month"
-    alt: "Video of the month"
     title: "Video of the month"
     excerpt: 'the video of the month is showing truely amazing things indeed'
     url: "#test-link"
@@ -59,5 +58,5 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row2" type="left" %}
 
