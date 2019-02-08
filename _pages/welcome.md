@@ -31,11 +31,11 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-    image_caption: "Video of the month"
+  - ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+    caption: "Video of the month"
     excerpt: 'the video of the month is showing truely amazing things indeed'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "More cat videos"
     btn_class: "btn--info"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
