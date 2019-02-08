@@ -32,6 +32,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "Video of the month"
     alt: "Video of the month"
     title: "Video of the month"
     excerpt: 'the video of the month is showing truely amazing things indeed'
