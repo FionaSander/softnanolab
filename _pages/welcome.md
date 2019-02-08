@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/34.tif
+  overlay_image: /assets/images/opal.jpg
   actions:
     - label: "Download"
       url: "https://FionaSander.github.io" #"https://github.com/FionaSander/softnanolab/"
