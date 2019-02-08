@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layout: home
+layout: archive
 permalink: publications/
 date: 2016-03-23T11:48:41-04:00
 header:
@@ -26,16 +26,14 @@ intro:
    * Publication third most most recent
 
 ## 2018
-
-      * Publication most recent
-      * Publication second most most recent
-      * Publication third most most recent
-
+---
+   * Publication second most most recent, Publication second most most recent, Publication second most most recent, Publication second most most recent
+   * Publication third most most recent
+   
 ## 2017
-
-      * Publication most recent
-      * Publication second most most recent
-      * Publication third most most recent
+---
+   * Publication second most most recent, Publication second most most recent, Publication second most most recent, Publication second most most recent
+   * Publication third most most recent
 
 ## 2016
 
