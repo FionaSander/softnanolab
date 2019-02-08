@@ -62,7 +62,7 @@ feature_row5:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:
-  - image_path: /assets/images/will_resized.jpeg
+  - image_path: /assets/images/will_resized.jpg
     alt: "William S. Morton"
     width: "450" 
     height:"450"
@@ -72,7 +72,7 @@ feature_row6:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row7:
-  - image_path: /assets/images/shuang_resized.jpeg
+  - image_path: /assets/images/shuang_resized.jpg
     alt: "Shuang Zhao"
     title: "Shuang Zhao"
     width: "450" 
@@ -82,7 +82,7 @@ feature_row7:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row8:
-  - image_path: /assets/images/lucas_resized.jpeg
+  - image_path: /assets/images/lucas_resized.jpg
     alt: "Yuong Kim Ung"
     width: "450" 
     height:"450"
@@ -92,7 +92,7 @@ feature_row8:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row9:
-  - image_path: /assets/images/jan_resized.jpeg
+  - image_path: /assets/images/jan_resized.jpg
     alt: "Jan Kraszewski"
     width: "450" 
     height:"450"
