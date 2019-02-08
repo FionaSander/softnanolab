@@ -24,7 +24,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/debesh.jpeg
     alt: "Debesh Mandal"
-    style= "width:450px;height:450px;"
+    style: "width:450px;height:450px;"
     title: "Debesh Mandal"
     excerpt: 'stuff about Debesh'
     url: "#test-link"
@@ -33,7 +33,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/sara_resized.jpg
     alt: "Sara Bandera"
-    style= "width:450px;height:450px;"
+    style: "width:450px;height:450px;"
     title: "Sara Bandera"
     excerpt: 'some stuff about Sara'
     url: "#test-link"
@@ -42,7 +42,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/fiona_resized.jpg
     alt: "Fiona Sander"
-    style= "width:450px;height:450px;"
+    style: "width:450px;height:450px;"
     title: "Fiona Sander"
     excerpt: 'Stuff about Fiona'
     url: "#test-link"
@@ -51,7 +51,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/kaiye_resized.jpg
     alt: "Kaiye Xie"
-    style= "width:450px;height:450px;"
+    style: "width:450px;height:450px;"
     title: "Kaiye Xie"
     excerpt: 'Kaiye received his bachelor degree in Polymeric Materials Science, then continues his Msc study in Imperial College, under supervision of Dr. Stefano Angioletti-Uberti. Currently he is doing PhD in the same group, with the topic of simulating nanocomposite bioadhesives.'
     url: "#test-link"
@@ -60,7 +60,7 @@ feature_row5:
 feature_row6:
   - image_path: /assets/images/will_resized.jpg
     alt: "William S. Morton"
-    style= "width:450px;height:450px;"
+    style: "width:450px;height:450px;"
     title: "William Morton"
     excerpt: 'Stuff about William'
     url: "#test-link"
@@ -70,7 +70,7 @@ feature_row7:
   - image_path: /assets/images/shuang_resized.jpg
     alt: "Shuang Zhao"
     title: "Shuang Zhao"
-    style= "width:450px;height:450px;"
+    style: "width:450px;height:450px;"
     excerpt: 'Some stuff about Shuang'
     url: "#test-link"
     btn_label: "Read More"
@@ -78,7 +78,7 @@ feature_row7:
 feature_row8:
   - image_path: /assets/images/lucas_resized.jpg
     alt: "Yuong Kim Ung"
-    style= "width:450px;height:450px;"
+    style: "width:450px;height:450px;"
     title: "Yuong Kim Ung"
     excerpt: 'Some stuff about Yuong'
     url: "#test-link"
@@ -87,7 +87,7 @@ feature_row8:
 feature_row9:
   - image_path: /assets/images/jan_resized.jpg
     alt: "Jan Kraszewski"
-    style= "width:450px;height:450px;"
+    style: "width:450px;height:450px;"
     title: "Jan Kraszewski"
     excerpt: 'Stuff about Jan'
     url: "#test-link"
