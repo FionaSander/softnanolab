@@ -31,7 +31,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  - (https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
     caption: "Video of the month"
     excerpt: 'the video of the month is showing truely amazing things indeed'
     url: "#test-link"
