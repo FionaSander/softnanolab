@@ -25,7 +25,7 @@ feature_row2:
   - image_path: /assets/images/debesh.jpeg
     alt: "Debesh Mandal"
     width: "450" 
-    height:"450"
+    height: "450"
     title: "Debesh Mandal"
     excerpt: 'stuff about Debesh'
     url: "#test-link"
@@ -35,7 +35,7 @@ feature_row3:
   - image_path: /assets/images/sara_resized.jpg
     alt: "Sara Bandera"
     width: "450" 
-    height:"450"
+    height: "450"
     title: "Sara Bandera"
     excerpt: 'some stuff about Sara'
     url: "#test-link"
@@ -45,7 +45,7 @@ feature_row4:
   - image_path: /assets/images/fiona_resized.jpg
     alt: "Fiona Sander"
     width: "450" 
-    height:"450"
+    height: "450"
     title: "Fiona Sander"
     excerpt: 'Stuff about Fiona'
     url: "#test-link"
@@ -55,7 +55,7 @@ feature_row5:
   - image_path: /assets/images/kaiye_resized.jpg
     alt: "Kaiye Xie"
     width: "450" 
-    height:"450"
+    height: "450"
     title: "Kaiye Xie"
     excerpt: 'Kaiye received his bachelor degree in Polymeric Materials Science, then continues his Msc study in Imperial College, under supervision of Dr. Stefano Angioletti-Uberti. Currently he is doing PhD in the same group, with the topic of simulating nanocomposite bioadhesives.'
     url: "#test-link"
@@ -65,7 +65,7 @@ feature_row6:
   - image_path: /assets/images/will_resized.jpg
     alt: "William S. Morton"
     width: "450" 
-    height:"450"
+    height: "450"
     title: "William Morton"
     excerpt: 'Stuff about William'
     url: "#test-link"
@@ -76,7 +76,7 @@ feature_row7:
     alt: "Shuang Zhao"
     title: "Shuang Zhao"
     width: "450" 
-    height:"450"
+    height: "450"
     excerpt: 'Some stuff about Shuang'
     url: "#test-link"
     btn_label: "Read More"
@@ -85,7 +85,7 @@ feature_row8:
   - image_path: /assets/images/lucas_resized.jpg
     alt: "Yuong Kim Ung"
     width: "450" 
-    height:"450"
+    height: "450"
     title: "Yuong Kim Ung"
     excerpt: 'Some stuff about Yuong'
     url: "#test-link"
@@ -95,7 +95,7 @@ feature_row9:
   - image_path: /assets/images/jan_resized.jpg
     alt: "Jan Kraszewski"
     width: "450" 
-    height:"450"
+    height: "450"
     title: "Jan Kraszewski"
     excerpt: 'Stuff about Jan'
     url: "#test-link"
