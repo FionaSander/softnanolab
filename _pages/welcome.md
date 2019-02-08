@@ -31,7 +31,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" />
+  - image_path: "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
     image_caption: "Video of the month"
     excerpt: 'the video of the month is showing truely amazing things indeed'
     url: "#test-link"
