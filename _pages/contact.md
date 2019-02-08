@@ -6,7 +6,7 @@ permalink: contact/
 ---
 
 <address>
-  Imperial College London<br /> South Kensington Campus<br /> London SW7 2AZ<br
+  Imperial College London<br /> South Kensington Campus<br /> London SW7 2AZ
 </address>
   
 ---
