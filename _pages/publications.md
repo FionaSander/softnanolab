@@ -22,6 +22,7 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 2019
+excerpt: "bliblablub publicationnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"
 
 2018
 
