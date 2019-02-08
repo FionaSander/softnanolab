@@ -22,7 +22,7 @@ feature_row:
     title: "Stefano Angioletti-Uberti"
     excerpt: "stuff about Stefano"
 feature_row2:
-  - image_path: /assets/images/debesh.jpg
+  - image_path: /assets/images/debesh.jpeg
     alt: "Debesh Mandal"
     title: "Debesh Mandal"
     excerpt: 'stuff about Debesh'
