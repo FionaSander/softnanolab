@@ -1,7 +1,7 @@
 ---
-title: "Contact"
+title: "Publications"
 layout: archive
-permalink: contact/
+permalink: publications/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
@@ -16,6 +16,5 @@ blablablablabalbalablaba
 blablablablabalbalablaba
 "
 intro: 
-  - excerpt: 'Contact us!'
+  - excerpt: 'Publications.'
 ---
-
