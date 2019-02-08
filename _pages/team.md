@@ -47,7 +47,7 @@ feature_row4:
     width: "450" 
     height: "450"
     title: "Fiona Sander"
-    excerpt: 'Stuff about Fiona'
+    excerpt: 'Fiona obtained her BEng in Composite Engineering in Germany being funded by a scholarship of Airbus Operations GmbH in 2017. She then finished her MSc at Imperial College London Materials Science and Engineering. She is currently doing a PhD funded by the Materials Department of Imperial College  in the field of Liquid Crystal Elastomers.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
