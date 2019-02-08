@@ -1,12 +1,12 @@
 ---
-title: "The Team"
+title: "Publications"
 layout: single
 permalink: publications/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/stefano_publication.png
+  overlay_image: /assets/images/stefano-publication.jpeg
   caption: "Image credit: Stefano Angioletti-Uberti"
 excerpt: "blablablablablablablabalbalabalbal
 blablablablablablablabalbalabalbal
@@ -15,7 +15,7 @@ blablablablablablablabalbalabalbal
 blablablablablablablabalbalabalbal
 blablablablablablablabalbalabalbal"
 intro: 
-  - excerpt: 'This is us.'
+  - excerpt: 'Publications.'
 feature_row:
   - image_path: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     alt: "Stefano Angioletti-Uberti"
