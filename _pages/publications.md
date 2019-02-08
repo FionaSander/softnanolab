@@ -6,8 +6,8 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/group_picture.jpeg
-  caption: "Photo credit: xxx"
+  overlay_image: /assets/images/stefano_publication.png
+  caption: "Image credit: Stefano Angioletti-Uberti"
 excerpt: "blablablablablablablabalbalabalbal
 blablablablablablablabalbalabalbal
 blablablablablablablabalbalabalbal
