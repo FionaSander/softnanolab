@@ -16,6 +16,6 @@ blablablablabalbalablaba
 blablablablabalbalablaba
 "
 intro: 
-  - excerpt: 'Publications.'
+  - excerpt: 'Contact us!'
 ---
 
