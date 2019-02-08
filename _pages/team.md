@@ -54,7 +54,7 @@ feature_row5:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:
-  - image_path: /assets/images/will_resized.jpeg
+  - image_path: /assets/images/will_resized.jpg
     alt: "William S. Morton"
     title: "William Morton"
     excerpt: 'Stuff about William'
@@ -62,7 +62,7 @@ feature_row6:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row7:
-  - image_path: /assets/images/shuang_resized.jpeg
+  - image_path: /assets/images/shuang_resized.jpg
     alt: "Shuang Zhao"
     title: "Shuang Zhao"
     excerpt: 'Some stuff about Shuang'
@@ -70,7 +70,7 @@ feature_row7:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row8:
-  - image_path: /assets/images/lucas_resized.jpeg
+  - image_path: /assets/images/lucas_resized.jpg
     alt: "Yuong Kim Ung"
     title: "Yuong Kim Ung"
     excerpt: 'Some stuff about Yuong'
@@ -78,7 +78,7 @@ feature_row8:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row9:
-  - image_path: /assets/images/jan_resized.jpeg
+  - image_path: /assets/images/jan_resized.jpg
     alt: "Jan Kraszewski"
     title: "Jan Kraszewski"
     excerpt: 'Stuff about Jan'
