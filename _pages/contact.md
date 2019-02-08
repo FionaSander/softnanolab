@@ -1,6 +1,6 @@
 ---
 title: "Contact us"
-layout: archive
+layout: home
 permalink: contact/
 
 ---
