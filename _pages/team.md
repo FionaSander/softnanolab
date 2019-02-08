@@ -1,6 +1,6 @@
 ---
 title: "The Team"
-layout: archive
+layout: taxonomy
 permalink: theteam/
 date: 2016-03-23T11:48:41-04:00
 header:
@@ -18,8 +18,8 @@ intro:
   - excerpt: 'This is us.'
 feature_row:
   - image_path: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
-    alt: "Stefano Angioletti-Uberti"
-    title: "Stefano Angioletti-Uberti"
+    alt: "Dr. Stefano Angioletti-Uberti"
+    title: "Dr. Stefano Angioletti-Uberti"
     excerpt: "stuff about Stefano"
 feature_row2:
   - image_path: /assets/images/debesh.jpeg
