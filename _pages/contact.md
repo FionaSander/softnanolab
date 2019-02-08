@@ -1,10 +1,10 @@
 ---
-title: "Contact"
+title: "Contact us"
 layout: archive
 permalink: contact/
 
 ---
 
 <address>
-  1 Exhibition Road<br /> Cupertino, CA 95014<br /> United States
+  South Kensington Campus<br /> London SW7 2AZ<br
 </address>
