@@ -19,20 +19,28 @@ intro:
   - excerpt: 'Publications.'
 ---
 
-# 2019
+## 2019
 
-  * Publication most recent
-  * Publication second most most recent
+      * Publication most recent
+      * Publication second most most recent
+      * Publication third most most recent
 
 ## 2018
 
-# 2017
+      * Publication most recent
+      * Publication second most most recent
+      * Publication third most most recent
 
-# 2016
+## 2017
 
-# 2015
+      * Publication most recent
+      * Publication second most most recent
+      * Publication third most most recent
 
-Make any link standout more when applying the `.btn` class.
+## 2016
+
+## 2015
+
 
 [Primary Button](#){: .btn}
 [Success Button](#){: .btn .btn--success}
