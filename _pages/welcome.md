@@ -33,7 +33,6 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/test.jpeg
     image_caption: "Video of the month"
-    title: "Video of the month"
     excerpt: 'the video of the month is showing truely amazing things indeed'
     url: "#test-link"
     btn_label: "Read More"
