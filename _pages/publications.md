@@ -23,14 +23,9 @@ intro:
 
 2019
 
-feature_row:
-  - image_path: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
-    alt: "Stefano Angioletti-Uberti"
-    title: "Stefano Angioletti-Uberti"
-    excerpt: "stuff about Stefano"
+- stuff about publications
 ---
 
-{% include feature_row id="feature_row" type="left" %}
 
 2018
 
