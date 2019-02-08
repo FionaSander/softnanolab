@@ -22,7 +22,12 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 2019
-excerpt: "bliblablub publicationnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"
+
+feature_row:
+  - excerpt: "bliblablub publicationnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"
+---
+
+{% include feature_row id="feature_row" type="center" %}
 
 2018
 
