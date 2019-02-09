@@ -26,7 +26,7 @@ feature_row2:
     alt: "Debesh Mandal"
     width: "450" 
     height:"450"
-    title: "Debesh Mandal"
+    title: "Debesh Mandal, PhD"
     excerpt: 'stuff about Debesh'
     url: "#test-link"
     btn_label: "Read More"
@@ -36,7 +36,7 @@ feature_row3:
     alt: "Sara Bandera"
     width: "450" 
     height:"450"
-    title: "Sara Bandera"
+    title: "Sara Bandera, PhD"
     excerpt: 'some stuff about Sara'
     url: "#test-link"
     btn_label: "Read More"
@@ -46,7 +46,7 @@ feature_row4:
     alt: "Fiona Sander"
     width: "450" 
     height:"450"
-    title: "Fiona Sander"
+    title: "Fiona Sander, PhD"
     excerpt: 'Stuff about Fiona'
     url: "#test-link"
     btn_label: "Read More"
@@ -56,7 +56,7 @@ feature_row5:
     alt: "Kaiye Xie"
     width: "450" 
     height:"450"
-    title: "Kaiye Xie"
+    title: "Kaiye Xie, PhD"
     excerpt: 'Kaiye received his bachelor degree in Polymeric Materials Science, then continues his Msc study in Imperial College, under supervision of Dr. Stefano Angioletti-Uberti. Currently he is doing PhD in the same group, with the topic of simulating nanocomposite bioadhesives.'
     url: "#test-link"
     btn_label: "Read More"
@@ -66,7 +66,7 @@ feature_row6:
     alt: "William S. Morton"
     width: "450" 
     height:"450"
-    title: "William Morton"
+    title: "William Morton, MSc"
     excerpt: 'Stuff about William'
     url: "#test-link"
     btn_label: "Read More"
@@ -74,7 +74,7 @@ feature_row6:
 feature_row7:
   - image_path: /assets/images/shuang_resized.jpg
     alt: "Shuang Zhao"
-    title: "Shuang Zhao"
+    title: "Shuang Zhao, Msc"
     width: "450" 
     height:"450"
     excerpt: 'Some stuff about Shuang'
@@ -86,7 +86,7 @@ feature_row8:
     alt: "Yuong Kim Ung"
     width: "450" 
     height:"450"
-    title: "Yuong Kim Ung"
+    title: "Yuong Kim Ung, MEng"
     excerpt: 'Some stuff about Yuong'
     url: "#test-link"
     btn_label: "Read More"
@@ -96,7 +96,7 @@ feature_row9:
     alt: "Jan Kraszewski"
     width: "450" 
     height:"450"
-    title: "Jan Kraszewski"
+    title: "Jan Kraszewski, MEng"
     excerpt: 'Stuff about Jan'
     url: "#test-link"
     btn_label: "Read More"
