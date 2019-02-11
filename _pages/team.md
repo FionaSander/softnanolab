@@ -68,7 +68,7 @@ feature_row6:
     width: "450" 
     height: "450"
     title: "William Morton"
-    excerpt: 'Stuff about William'
+    excerpt: 'Effects of Nanoparticle Surface Features on Gel-Gel AdhesionThere  are  already  systems  designed  to  adhere  two  hydrogels,  whether  they  have  similar  or mismatched lattices. Experiments have even been done to show that nanoparticles are successful at  adhering  hydrogels,  and  promoting  wound  healing.  This  project  does  not aim  to  find  a  new phenomenon  that  can  be  used  to  promote  wound  healing  but  instead  attempts  to  explain  the physics behind how just one aspect of it can be enhanced. Although these adherents already exist, a  deeper  physical  understanding  is  necessary  to  utilise  this  technology.  Determining  the interplay  between  surfaces  of  nanoparticles  and  hydrogel  properties  can  help  to  improve adhesion or even allow for more widespread use throughout the body One ratio from this project could be the key to creating a variety of wound healing systems for surgeons and the rest of the world to use. Imagine an era where timely access to medical attention is not as critical for the treatment of open wounds, because a small medical kit containing a nanoparticle spray can help to  keep  a  hydrogel  plaster  in  place:  minimal  blood  loss,  lower  chances  of  infection,  and  a hydrated area that is more prone to healing. The described research aims to help others create, in the long term, this widely available system that sounds inspired by science fiction.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -106,7 +106,10 @@ feature_row9:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row" type="left" %}
-## PhD Students {% include feature_row id="feature_row2" type="left" %}
+## PhD Students
+
+
+{% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
 {% include feature_row id="feature_row4" type="left" %}
 {% include feature_row id="feature_row5" type="left" %}
