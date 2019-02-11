@@ -21,6 +21,12 @@ feature_row:
     alt: "Dr. Stefano Angioletti-Uberti"
     title: "Dr. Stefano Angioletti-Uberti"
     excerpt: "stuff about Stefano"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row" type="left" %}
+
 feature_row2:
   - image_path: /assets/images/debesh.jpeg
     alt: "Debesh Mandal"
@@ -102,10 +108,6 @@ feature_row9:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="feature_row" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
