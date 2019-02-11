@@ -234,7 +234,7 @@
 .feature__item {
   position: relative;
   margin-bottom: 2em;
-  font-size: 1.125em;
+  font-size: 1.0em;
 
   @include breakpoint($small) {
     float: left;
