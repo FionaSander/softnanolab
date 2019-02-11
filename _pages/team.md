@@ -104,7 +104,7 @@ feature_row9:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row" type="left" %}
-PhD Students
+# PhD Students
 
 
 {% include feature_row id="feature_row2" type="left" %}
