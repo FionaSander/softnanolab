@@ -4,4 +4,4 @@ layout: home
 classes: wide
 permalink: stefano/
 
-
+---
