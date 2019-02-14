@@ -11,15 +11,15 @@ header:
 excerpt: "What we are doing"
 intro: 
   - excerpt: 'some more stuff about what we are doing'
-gallery:
+feature_row:
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: /assets/images/clay_particles.jpg 
     alt: "placeholder image 1"
-    title: "This is very interesting."
+    excerpt: "This is very interesting."
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: /assets/images/forwebpage.png
     alt: "placeholder image 2"
-    title: "This is really cool."
+    excerpt: "This is really cool."
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: /assets/images/chitinrods.jpeg
     excerpt: "This is also quite cool."
@@ -38,7 +38,7 @@ feature_row2:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery id="gallery" type="center"%}
+{% include feature_row id="feature_row" type="center"%}
 
 {% include feature_row id="feature_row2" type="left" %}
 
