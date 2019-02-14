@@ -64,6 +64,8 @@ feature_row6:
 feature_row7:
   - url: https://FionaSander.github.io/softnanolab/shuang/
     image_path: /assets/images/shuang_resized.jpg
+    width: "450" 
+    height: "450"
     alt: "Shuang Zhao"
     title: "Shuang Zhao"
     width: "450" 
@@ -106,6 +108,3 @@ feature_row9:
 
 {% include feature_row id="feature_row8" type="left" %}
 {% include feature_row id="feature_row9" type="left" %}
-
-
-{% include figure image_path="/assets/images/fiona_resized.jpg" alt="this is Fiona" caption="this is Fiona" type="left" %}
