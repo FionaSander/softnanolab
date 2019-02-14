@@ -11,7 +11,7 @@ header:
 excerpt: "What we are doing"
 intro: 
   - excerpt: 'some more stuff about what we are doing'
-gallery:
+feature_row:
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: /assets/images/clay_particles.jpg 
     excerpt: "This is very interesting."
@@ -36,15 +36,7 @@ feature_row2:
 
 {% include feature_row id="intro" type="center" %}
 
-
-<figure class="forth">
-	<img src="/assets/images/clay_particles.jpg ">
-	<img src="/assets/images/forwebpage.png">
-	<img src="/assets/images/chitinrods.jpeg">
-        <img src="/assets/images/clay_particles.jpg ">
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
-
+{% include feature_row id="feature_row" type="center" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
