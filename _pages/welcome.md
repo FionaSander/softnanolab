@@ -12,15 +12,19 @@ excerpt: "What we are doing"
 intro: 
   - excerpt: 'some more stuff about what we are doing'
 gallery:
-  - image_path: /assets/images/clay_particles.jpg 
+  - url: https://fionasander.github.io/softnanolab/research/
+    image_path: /assets/images/clay_particles.jpg 
     alt: "placeholder image 1"
     title: "This is very interesting."
-  - image_path: /assets/images/forwebpage.png
+  - url: https://fionasander.github.io/softnanolab/research/
+    image_path: /assets/images/forwebpage.png
     alt: "placeholder image 2"
     title: "This is really cool."
-  - image_path: /assets/images/chitinrods.jpeg
+  - url: https://fionasander.github.io/softnanolab/research/
+    image_path: /assets/images/chitinrods.jpeg
     excerpt: "This is also quite cool."
-  - image_path: /assets/images/clay_particles.jpg 
+  - url: https://fionasander.github.io/softnanolab/research/
+    image_path: /assets/images/clay_particles.jpg 
     alt: "placeholder image 1"
     title: "This is very interesting."
 feature_row2:
