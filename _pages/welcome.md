@@ -41,7 +41,7 @@ feature_row2:
 	<img src="/assets/images/clay_particles.jpg ">
 	<img src="/assets/images/forwebpage.png">
 	<img src="/assets/images/chitinrods.jpeg">
-  <img src="/assets/images/clay_particles.jpg ">
+        <img src="/assets/images/clay_particles.jpg ">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
 
