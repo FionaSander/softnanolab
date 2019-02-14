@@ -36,11 +36,9 @@ feature_row2:
     btn_class: "btn--info"
 ---
 
-#{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="center" %}
 
-{% include gallery id="intro" %}
-{% include gallery id="gallery" %}
-{% include gallery id="feature_row2" %}
+{% include gallery id="gallery" type="center"%}
 
 #{% include feature_row id="feature_row2" type="left" %}
 
