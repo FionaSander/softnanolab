@@ -22,7 +22,8 @@ feature_row:
     title: "Dr. Stefano Angioletti-Uberti"
     excerpt: "stuff about Stefano"
 feature_row2:
-  - image_path: /assets/images/debesh.jpeg
+  - https://FionaSander.github.io/softnanolab/debesh/
+    image_path: /assets/images/debesh.jpeg
     alt: "Debesh Mandal"
     width: "450" 
     height: "450"
@@ -32,7 +33,8 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/sara_resized.jpg
+  - https://FionaSander.github.io/softnanolab/sara/
+    image_path: /assets/images/sara_resized.jpg
     alt: "Sara Bandera"
     width: "450" 
     height: "450"
@@ -42,7 +44,8 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/fiona_resized.jpg
+  - url: https://FionaSander.github.io/softnanolab/fiona/
+    image_path: /assets/images/fiona_resized.jpg
     alt: "Fiona Sander"
     width: "450" 
     height: "450"
@@ -52,7 +55,8 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/images/kaiye_resized.jpg
+  - https://FionaSander.github.io/softnanolab/kaiye/
+    image_path: /assets/images/kaiye_resized.jpg
     alt: "Kaiye Xie"
     width: "450" 
     height: "450"
@@ -62,7 +66,8 @@ feature_row5:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:
-  - image_path: /assets/images/will_resized.jpg
+  - https://FionaSander.github.io/softnanolab/william/
+    image_path: /assets/images/will_resized.jpg
     alt: "William S. Morton"
     width: "450" 
     height: "450"
@@ -72,7 +77,8 @@ feature_row6:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row7:
-  - image_path: /assets/images/shuang_resized.jpg
+  - https://FionaSander.github.io/softnanolab/shuang/
+    image_path: /assets/images/shuang_resized.jpg
     alt: "Shuang Zhao"
     title: "Shuang Zhao"
     width: "450" 
@@ -82,7 +88,8 @@ feature_row7:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row8:
-  - image_path: /assets/images/lucas_resized.jpg
+  - https://FionaSander.github.io/softnanolab/yeong/
+    image_path: /assets/images/lucas_resized.jpg
     alt: "Yuong Kim Ung"
     width: "450" 
     height: "450"
@@ -92,7 +99,8 @@ feature_row8:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row9:
-  - image_path: /assets/images/jan_resized.jpg
+  - https://FionaSander.github.io/softnanolab/jan/
+    image_path: /assets/images/jan_resized.jpg
     alt: "Jan Kraszewski"
     width: "450" 
     height: "450"
