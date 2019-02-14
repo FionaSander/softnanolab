@@ -18,11 +18,9 @@ feature_row:
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: /assets/images/forwebpage.png
     excerpt: "This is really cool."
-  - url: https://fionasander.github.io/softnanolab/research/
-    image_path: /assets/images/chitinrods.jpeg
+  - image_path: /assets/images/chitinrods.jpeg
     excerpt: "This is also quite cool."
-  - url: https://fionasander.github.io/softnanolab/research/
-    image_path: /assets/images/clay_particles.jpg 
+  - image_path: /assets/images/clay_particles.jpg 
     alt: "nice stuff"
     excerpt: "This is very interesting."
 feature_row2:
