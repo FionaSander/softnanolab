@@ -107,3 +107,5 @@ feature_row9:
 {% include feature_row id="feature_row8" type="left" %}
 {% include feature_row id="feature_row9" type="left" %}
 
+
+{% include figure image_path="/assets/images/fiona_resized.jpg" alt="this is Fiona" caption="this is Fiona" type="left" %}
