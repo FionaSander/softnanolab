@@ -1,6 +1,6 @@
 ---
 title: "SoftNanoLab"
-layout: single
+layout: splash
 classes: wide
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -8,10 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/opal.jpg
-  actions:
-    - label: "Download"
-      url: "https://FionaSander.github.io" #"https://github.com/FionaSander/softnanolab/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Fiona Sander**](https://fionasander.github.io/softnanolab/fiona/)"
 excerpt: "What we are doing"
 intro: 
   - excerpt: 'some more stuff about what we are doing'
