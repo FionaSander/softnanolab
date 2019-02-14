@@ -11,7 +11,7 @@ header:
 excerpt: "What we are doing"
 intro: 
   - excerpt: 'some more stuff about what we are doing'
-feature_row:
+gallery:
   - image_path: /assets/images/clay_particles.jpg 
     alt: "blabla"
     title: "blabla"
@@ -39,7 +39,7 @@ feature_row2:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="left" %}
+{% include gallery id="gallery" layout="fourth" caption="This is a half gallery layout example." %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
