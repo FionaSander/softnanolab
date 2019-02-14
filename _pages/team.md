@@ -55,7 +55,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - https://FionaSander.github.io/softnanolab/kaiye/
+  - url: https://FionaSander.github.io/softnanolab/kaiye/
     image_path: /assets/images/kaiye_resized.jpg
     alt: "Kaiye Xie"
     width: "450" 
@@ -66,7 +66,7 @@ feature_row5:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:
-  - https://FionaSander.github.io/softnanolab/william/
+  - url: https://FionaSander.github.io/softnanolab/william/
     image_path: /assets/images/will_resized.jpg
     alt: "William S. Morton"
     width: "450" 
@@ -77,7 +77,7 @@ feature_row6:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row7:
-  - https://FionaSander.github.io/softnanolab/shuang/
+  - url: https://FionaSander.github.io/softnanolab/shuang/
     image_path: /assets/images/shuang_resized.jpg
     alt: "Shuang Zhao"
     title: "Shuang Zhao"
@@ -88,7 +88,7 @@ feature_row7:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row8:
-  - https://FionaSander.github.io/softnanolab/yeong/
+  - url: https://FionaSander.github.io/softnanolab/yeong/
     image_path: /assets/images/lucas_resized.jpg
     alt: "Yuong Kim Ung"
     width: "450" 
@@ -99,7 +99,7 @@ feature_row8:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row9:
-  - https://FionaSander.github.io/softnanolab/jan/
+  - url: https://FionaSander.github.io/softnanolab/jan/
     image_path: /assets/images/jan_resized.jpg
     alt: "Jan Kraszewski"
     width: "450" 
