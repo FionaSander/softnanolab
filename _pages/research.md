@@ -1,7 +1,7 @@
 ---
-title: "Contact us"
+title: "Research"
 layout: home
 classes: wide
-permalink: contact/
+permalink: research/
 
 ---
