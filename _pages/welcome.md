@@ -27,7 +27,6 @@ feature_row:
   - image_path: /assets/images/clay_particles.jpg 
     alt: "blabla"
     title: "blabla"
-    alt: "nice stuff"
     excerpt: "This is very interesting."
 feature_row2:
   - image_path: "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
