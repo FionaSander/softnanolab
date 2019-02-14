@@ -36,7 +36,15 @@ feature_row2:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery id="gallery" type="center"%}
+
+<figure class="forth">
+	<img src="/assets/images/clay_particles.jpg ">
+	<img src="/assets/images/forwebpage.png">
+	<img src="/assets/images/chitinrods.jpeg">
+  <img src="/assets/images/clay_particles.jpg ">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
 
 {% include feature_row id="feature_row2" type="left" %}
 
