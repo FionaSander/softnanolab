@@ -13,8 +13,12 @@ intro:
   - excerpt: 'some more stuff about what we are doing'
 feature_row:
   - image_path: /assets/images/clay_particles.jpg 
+    alt:
+    title:
     excerpt: "This is very interesting."
   - image_path: /assets/images/forwebpage.png
+    alt:
+    title:
     excerpt: "This is really cool."
   - image_path: /assets/images/chitinrods.jpeg
     excerpt: "This is also quite cool."
