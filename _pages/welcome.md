@@ -39,7 +39,7 @@ feature_row2:
 
 {% include feature_row id="intro" type="center" %}
 
-{% raw %}{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}{% endraw %}
+{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
