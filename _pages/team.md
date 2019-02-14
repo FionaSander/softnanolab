@@ -22,7 +22,7 @@ feature_row:
     title: "Dr. Stefano Angioletti-Uberti"
     excerpt: "stuff about Stefano"
 feature_row2:
-  - https://FionaSander.github.io/softnanolab/debesh/
+  - url: https://FionaSander.github.io/softnanolab/debesh/
     image_path: /assets/images/debesh.jpeg
     alt: "Debesh Mandal"
     width: "450" 
@@ -33,7 +33,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - https://FionaSander.github.io/softnanolab/sara/
+  - url: https://FionaSander.github.io/softnanolab/sara/
     image_path: /assets/images/sara_resized.jpg
     alt: "Sara Bandera"
     width: "450" 
