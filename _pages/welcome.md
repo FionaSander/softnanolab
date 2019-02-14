@@ -22,7 +22,7 @@ feature_row:
     image_caption: "Image credit: Kaiye Xie"
     alt: "placeholder image 2"
     excerpt: "This is really cool."
-  - image_path: /assets/images/stefanopublication.png
+  - image_path: /assets/images/chitinrods.jpeg
     excerpt: "This is also quite cool."
   - image_path: /assets/images/clay_particles.jpg 
     alt: "placeholder image 1"
