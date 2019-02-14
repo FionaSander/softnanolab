@@ -17,6 +17,8 @@ intro:
   - excerpt: 'some more stuff about what we are doing'
 feature_row:
   - image_path: /assets/images/clay_particles.jpg 
+    width: "450" 
+    height: "450"
     alt: "placeholder image 1"
     excerpt: "This is very interesting."
   - image_path: /assets/images/forwebpage.png
