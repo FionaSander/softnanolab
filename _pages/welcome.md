@@ -12,7 +12,7 @@ header:
 excerpt: "What we are doing"
 intro: 
   - excerpt: 'some more stuff about what we are doing'
-feature_row:
+gallery:
   - image_path: /assets/images/clay_particles.jpg 
     width: "450" 
     height: "450"
@@ -34,26 +34,10 @@ feature_row2:
     url: "#test-link"
     btn_label: "More cat videos"
     btn_class: "btn--info"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row %}
+{% raw %}{% include gallery caption="some things we are doing which look nice and are also quite interesting" %}{% endraw %}
 {% include feature_row id="feature_row2" type="left" %}
 
 
