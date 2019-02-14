@@ -37,7 +37,9 @@ feature_row2:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
 {% raw %}{% include gallery id="gallery" %}{% endraw %}
+
 {% include feature_row id="feature_row2" type="left" %}
 
 
