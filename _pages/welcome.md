@@ -36,10 +36,12 @@ feature_row2:
     btn_class: "btn--info"
 ---
 
-{% include feature_row id="intro" type="center" %}
+#{% include feature_row id="intro" type="center" %}
 
+{% raw %}{% include gallery id="intro" %}{% endraw %}
 {% raw %}{% include gallery id="gallery" %}{% endraw %}
+{% raw %}{% include gallery id="feature_row2" %}{% endraw %}
 
-{% include feature_row id="feature_row2" type="left" %}
+#{% include feature_row id="feature_row2" type="left" %}
 
 
