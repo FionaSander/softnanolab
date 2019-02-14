@@ -16,7 +16,8 @@ blablablablablablablabalbalabalbal"
 intro: 
   - excerpt: 'This is us.'
 feature_row:
-  - image_path: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
+  - url: 
+    image_path: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     alt: "Dr. Stefano Angioletti-Uberti"
     title: "Dr. Stefano Angioletti-Uberti"
     excerpt: "stuff about Stefano"
