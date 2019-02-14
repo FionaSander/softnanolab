@@ -12,19 +12,24 @@ excerpt: "What we are doing"
 intro: 
   - excerpt: 'some more stuff about what we are doing'
 gallery:
-  - image_path: /assets/images/clay_particles.jpg 
+  - url: https://fionasander.github.io/softnanolab/research/
+    image_path: /assets/images/clay_particles.jpg 
+    cpation: "nice one"
     alt: "blabla"
     title: "blabla"
     excerpt: "This is very interesting."
-  - image_path: /assets/images/forwebpage.png
+  - url: https://fionasander.github.io/softnanolab/research/
+    image_path: /assets/images/forwebpage.png
     alt: "blabla"
     title: "blabla"
     excerpt: "This is really cool."
-  - image_path: /assets/images/chitinrods.jpeg
+  - url: https://fionasander.github.io/softnanolab/research/
+    image_path: /assets/images/chitinrods.jpeg
     alt: "blabla"
     title: "blabla"
     excerpt: "This is also quite cool."
-  - image_path: /assets/images/clay_particles.jpg 
+  - url: https://fionasander.github.io/softnanolab/research/
+    image_path: /assets/images/clay_particles.jpg 
     alt: "blabla"
     title: "blabla"
     excerpt: "This is very interesting."
@@ -39,7 +44,7 @@ feature_row2:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery id="gallery" layout="forth" caption="This is a half gallery layout example." %}
+{% include gallery id="gallery" layout="forth" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
