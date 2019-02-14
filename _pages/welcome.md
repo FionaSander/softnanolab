@@ -15,7 +15,7 @@ excerpt: "What we are doing"
 intro: 
   - excerpt: 'some more stuff about what we are doing'
 feature_row:
-  - image_path: /assets/images/0.jpeg #assets/images/chitinrods.png
+  - image_path: /assets/images/clay_particles.jpg 
     alt: "placeholder image 1"
     excerpt: "This is very interesting."
   - image_path: /assets/images/forwebpage.png
