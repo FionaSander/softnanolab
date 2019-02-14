@@ -16,7 +16,7 @@ blablablablablablablabalbalabalbal"
 intro: 
   - excerpt: 'This is us.'
 feature_row:
-  - url: 
+  - url: https://FionaSander.github.io/softnanolab/stefano/
     image_path: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     alt: "Dr. Stefano Angioletti-Uberti"
     title: "Dr. Stefano Angioletti-Uberti"
