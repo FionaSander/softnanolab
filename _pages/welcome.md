@@ -24,6 +24,9 @@ feature_row:
     excerpt: "This is really cool."
   - image_path: /assets/images/stefanopublication.png
     excerpt: "This is also quite cool."
+  - image_path: /assets/images/clay_particles.jpg 
+    alt: "placeholder image 1"
+    excerpt: "This is very interesting."
 feature_row2:
   - image_path: "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
     image_caption: "Video of the month"
