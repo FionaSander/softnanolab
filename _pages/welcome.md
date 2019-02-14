@@ -23,6 +23,7 @@ gallery:
     excerpt: "This is also quite cool."
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: /assets/images/clay_particles.jpg 
+    alt: "nice stuff"
     excerpt: "This is very interesting."
 feature_row2:
   - image_path: "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
