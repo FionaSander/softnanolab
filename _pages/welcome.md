@@ -38,9 +38,9 @@ feature_row2:
 
 #{% include feature_row id="intro" type="center" %}
 
-{% raw %}{% include gallery id="intro" %}{% endraw %}
-{% raw %}{% include gallery id="gallery" %}{% endraw %}
-{% raw %}{% include gallery id="feature_row2" %}{% endraw %}
+{% include gallery id="intro" %}
+{% include gallery id="gallery" %}
+{% include gallery id="feature_row2" %}
 
 #{% include feature_row id="feature_row2" type="left" %}
 
