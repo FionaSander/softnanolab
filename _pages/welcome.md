@@ -14,19 +14,16 @@ intro:
   - excerpt: 'some more stuff about what we are doing'
 gallery:
   - image_path: /assets/images/clay_particles.jpg 
-    width: "450" 
-    height: "450"
     alt: "placeholder image 1"
-    excerpt: "This is very interesting."
+    title: "This is very interesting."
   - image_path: /assets/images/forwebpage.png
-    image_caption: "Image credit: Kaiye Xie"
     alt: "placeholder image 2"
-    excerpt: "This is really cool."
+    title: "This is really cool."
   - image_path: /assets/images/chitinrods.jpeg
     excerpt: "This is also quite cool."
   - image_path: /assets/images/clay_particles.jpg 
     alt: "placeholder image 1"
-    excerpt: "This is very interesting."
+    title: "This is very interesting."
 feature_row2:
   - image_path: "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
     image_caption: "Video of the month"
@@ -40,6 +37,6 @@ feature_row2:
 
 {% include gallery id="gallery" type="center"%}
 
-#{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
 
 
