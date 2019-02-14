@@ -12,11 +12,9 @@ excerpt: "What we are doing"
 intro: 
   - excerpt: 'some more stuff about what we are doing'
 feature_row:
-  - url: https://fionasander.github.io/softnanolab/research/
-    image_path: /assets/images/clay_particles.jpg 
+  - image_path: /assets/images/clay_particles.jpg 
     excerpt: "This is very interesting."
-  - url: https://fionasander.github.io/softnanolab/research/
-    image_path: /assets/images/forwebpage.png
+  - image_path: /assets/images/forwebpage.png
     excerpt: "This is really cool."
   - image_path: /assets/images/chitinrods.jpeg
     excerpt: "This is also quite cool."
