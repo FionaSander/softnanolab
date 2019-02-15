@@ -8,8 +8,8 @@ sidebar:
   - title: "Title"
     image: assets/images/fiona_resized.jpg
     image_alt: "image"
-    text: "Some text here."
-  - actions:
+    text: "other text."
+  - links:
     label: "More Info"
     url: "https://unsplash.com"
     icon: "fas fa-fw fa-link"
