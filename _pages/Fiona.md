@@ -8,8 +8,7 @@ sidebar:
     image: assets/images/fiona_resized.jpg
     image_alt: "image"
     text: "Some text here."
-links:
-  - label: "blibla"
+    label: "blibla"
     icon: "fas fa-fw fa-link"
     
 ---
