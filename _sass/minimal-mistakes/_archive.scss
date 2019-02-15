@@ -279,7 +279,7 @@
   &--left {
     position: relative;
     float: left;
-    margin-left: 0;
+    margin-left: 100px;
     margin-right: 0;
     width: 100%;
     clear: both;
@@ -296,7 +296,7 @@
     a.btn::before {
       content: '';
       position: absolute;
-      left: 100px;
+      left: 0;
       top: 0;
       right: 0;
       bottom: 0;
