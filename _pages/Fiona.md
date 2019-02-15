@@ -9,6 +9,8 @@ sidebar:
     image: assets/images/fiona_resized.jpg
     image_alt: "image"
     text: "other text."
+  - title: "Title2"
+    text: "more text."
   - links:
      - label: "More Info"
        url: "https://unsplash.com"
