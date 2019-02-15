@@ -24,7 +24,7 @@
 
 .archive__subtitle {
   margin: 1.414em 0 0;
-  padding-bottom: 1.0em;
+  padding-bottom: 0.5em;
   font-size: $type-size-8;
   color: $muted-text-color;
   border-bottom: 1px solid $border-color;
@@ -35,7 +35,7 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 1.0em;
   font-family: $sans-serif-narrow;
   line-height: initial;
   overflow: hidden;
