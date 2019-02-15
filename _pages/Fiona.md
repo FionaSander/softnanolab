@@ -10,9 +10,9 @@ sidebar:
     image_alt: "image"
     text: "other text."
   - links:
-    label: "More Info"
-    url: "https://unsplash.com"
-    icon: "fas fa-fw fa-link"
-    icon: "fab fa-fw fa-twitter-square"
+     - label: "More Info"
+       url: "https://unsplash.com"
+       icon: "fas fa-fw fa-link"
+       icon: "fab fa-fw fa-twitter-square"
     
 ---
