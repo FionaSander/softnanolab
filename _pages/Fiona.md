@@ -9,7 +9,7 @@ sidebar:
     image: assets/images/fiona_resized.jpg
     image_alt: "image"
     text: "Imperial College London"
-  - title: "BSc in Composite Engineering"
+  - title: "BEng in Composite Engineering"
     text: "PFH Goettingen (Germany) and Airbus Operations GmbH"
   - title: "Current Position"
     text: "PhD Student"
