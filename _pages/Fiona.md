@@ -6,6 +6,7 @@ permalink: fiona/
 author_profile: false
 sidebar:
   - title: "Title"
+    icon: "fas fa-fw fa-link"
     image: assets/images/fiona_resized.jpg
     image_alt: "image"
     text: "Some text here."
