@@ -91,6 +91,7 @@ feature_row9:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row" type="left" %}
+---
 # PhD Students
 
 
@@ -98,11 +99,13 @@ feature_row9:
 {% include feature_row id="feature_row3" type="left" %}
 {% include feature_row id="feature_row4" type="left" %}
 {% include feature_row id="feature_row5" type="left" %}
+---
 # MSc Students
 
 
 {% include feature_row id="feature_row6" type="left" %}
 {% include feature_row id="feature_row7" type="left" %}
+---
 # MEng Students
 
 
