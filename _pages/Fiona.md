@@ -1,6 +1,6 @@
 ---
 title: "Fiona Sander"
-layout: home
+layout: single
 classes: wide
 permalink: fiona/
 
