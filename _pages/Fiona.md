@@ -11,7 +11,6 @@ sidebar:
     text: "Imperial College London"
   - title: "BEng in Composite Engineering"
     text: "PFH Goettingen (Germany) and Airbus Operations GmbH"
-    ---
   - title: "Current Position"
     text: "PhD Student"
   - title: "Current Projects"
@@ -23,3 +22,7 @@ sidebar:
        icon: "fab fa-fw fa-twitter-square"
     
 ---
+
+<a class="social-btn" href="tel:123456" target="_blank" rel="noopener noreferrer">
+  <i class="fa fa-fw fa-phone"></i>
+</a>
