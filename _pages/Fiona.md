@@ -21,7 +21,6 @@ links:
     icon: "fas fa-fw fa-envelope-square"
   - label: "Website"
     icon: "fas fa-fw fa-link"
-    # url: "https://your-website.com"
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     # url: "https://twitter.com/"
