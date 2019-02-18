@@ -37,3 +37,5 @@ links:
 ---
 
   <i class="fa fa-fw fa-phone"></i>
+  <i class="fas fa-fw fa-envelope-square"></i>
+  <i class="fab fa-fw fa-github"></i> 
