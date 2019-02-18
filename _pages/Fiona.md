@@ -23,6 +23,4 @@ sidebar:
     
 ---
 
-<a class="social-btn" href="tel:123456" target="_blank" rel="noopener noreferrer">
   <i class="fa fa-fw fa-phone"></i>
-</a>
