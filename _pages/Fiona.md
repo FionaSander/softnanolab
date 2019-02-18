@@ -36,17 +36,15 @@ links:
       
 ---
 
-## **MSc** in Materials Science and Engineering
-
+### **MSc** in Materials Science and Engineering
 Imperial College London
 
-## **BEng** in Composite Engineering
-
+### **BEng** in Composite Engineering
 PFH Goettingen (Germany) and Airbus Operations GmbH
 
-## Current Position
+### Current Position
 
-## Current Projects
+### Current Projects
 
 
   <i class="fa fa-fw fa-phone" url="https://facebook.com/"></i>
