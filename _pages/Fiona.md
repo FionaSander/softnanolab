@@ -3,7 +3,7 @@ title: "Fiona Sander"
 layout: single
 classes: wide
 permalink: fiona/
-author_profile: true
+author_profile: false
 sidebar:
   - title: "MSc in Materials Science and Engineering"
     image: assets/images/fiona_resized.jpg
@@ -16,7 +16,7 @@ sidebar:
   - title: "Current Projects"
     text: "Liquid Crystal Elastomers"
 links:
-    - label: "Email"
+    - label: "fiona.sander@ewetel.net"
       icon: "fas fa-fw fa-envelope-square"
     - label: "Website"
       icon: "fas fa-fw fa-link"
