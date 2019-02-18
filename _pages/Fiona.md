@@ -3,7 +3,7 @@ title: "Fiona Sander"
 layout: single
 classes: wide
 permalink: theteam/fiona/
-author_profile: true
+author_profile: false
 sidebar:
   - title: "MSc in Materials Science and Engineering"
     image: assets/images/fiona_resized.jpg
