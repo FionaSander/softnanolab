@@ -1,5 +1,4 @@
 ---
-title: #"William S. Morton"
 layout: single
 classes: wide
 permalink: william/
