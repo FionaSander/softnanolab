@@ -10,7 +10,7 @@ sidebar:
     image_alt: "image"
     text: "Imperial College London"
   - title: "BEng in Composite Engineering"
-    text: "{% include figure image_path="/assets/images/unsplash-image-10.jpg" alt="this is a placeholder image" %} PFH Goettingen (Germany) and Airbus Operations GmbH"
+    text: "PFH Goettingen (Germany) and Airbus Operations GmbH"
   - title: "Current Position"
     text: "PhD Student"
   - title: "Current Projects"
