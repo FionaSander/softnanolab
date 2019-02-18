@@ -5,7 +5,7 @@ classes: wide
 permalink: fiona/
 author_profile: false
 sidebar:
-  - title: "<i class="fas fa-fw fa-link"></i> MSc in Materials Science and Engineering"
+  - title: "MSc in Materials Science and Engineering"
     image: assets/images/fiona_resized.jpg
     image_alt: "image"
     text: "Imperial College London"
