@@ -35,6 +35,23 @@ links:
     # url: "https://instagram.com/" 
       
 ---
+links:
+  - label: "fiona.sander@ewetel.net"
+    icon: "fas fa-fw fa-envelope-square"
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    # url: "https://twitter.com/"
+  - label: "Facebook"
+    icon: "fab fa-fw fa-facebook-square"
+    # url: "https://facebook.com/"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    # url: "https://github.com/"
+  - label: "Instagram"
+    icon: "fab fa-fw fa-instagram"
+    # url: "https://instagram.com/" 
 
   <i class="fa fa-fw fa-phone"></i>
   <i class="fas fa-fw fa-envelope-square"></i>
