@@ -112,7 +112,7 @@ author:
   location         : #"Somewhere"
   email            : fiona.sander17@imperial.ac.uk
   links:
-    - label: "Email"
+    - label: "fiona.sander17@imperial.ac.uk"
       icon: "fas fa-fw fa-envelope-square"
     - label: "Website"
       icon: "fas fa-fw fa-link"
