@@ -42,7 +42,7 @@
 
   > * {
     margin-top: 1em;
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
   }
 
   h2,
@@ -127,7 +127,7 @@
   }
 
   img {
-    max-width: 110px;
+    max-width: 130px;
     border-radius: 50%;
 
     @include breakpoint($large) {
