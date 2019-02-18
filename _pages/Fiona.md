@@ -9,7 +9,7 @@ sidebar:
     image: assets/images/fiona_resized.jpg
     image_alt: "image"
     text: "Imperial College London"
-  - title: "<i class="fa fa-fw fa-phone"></i>"
+  - text: "<i class="fa fa-fw fa-phone"></i>"
   - title: "BEng in Composite Engineering"
     text: "PFH Goettingen (Germany) and Airbus Operations GmbH"
   - title: "Current Position"
