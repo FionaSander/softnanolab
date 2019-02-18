@@ -36,6 +36,6 @@ links:
       
 ---
 
-  <i class="fa fa-fw fa-phone" label="telephone"></i>
+  <i class="fa fa-fw fa-phone" caption="telephone"></i>
   <i class="fas fa-fw fa-envelope-square"></i>
   <i class="fab fa-fw fa-github"></i> 
