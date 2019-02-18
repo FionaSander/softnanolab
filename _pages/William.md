@@ -1,6 +1,6 @@
 ---
 title: "William S. Morton"
-layout: archive
+layout: single
 classes: wide
 permalink: william/
 
