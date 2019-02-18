@@ -3,7 +3,7 @@ title: "William S. Morton"
 layout: single
 classes: wide
 permalink: william/
-figure:
+feature_row:
    - image_path: /assets/images/william_research.png
    - alt: "this is a placeholder image"
    - caption: "nanoparticle"
@@ -15,7 +15,7 @@ There  are  already  systems  designed  to  adhere  two  hydrogels,  whether  th
 
 ---
 
-{% include figure %}
+{% include feature_row %}
 
 
 #{% include figure image_path="/assets/images/william_research.png" alt="this is a placeholder image" caption="nanoparticle" width=400px %}
