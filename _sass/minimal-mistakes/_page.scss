@@ -126,7 +126,7 @@
 
 .page__hero {
   position: relative;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
   @include clearfix;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -135,7 +135,7 @@
 
   &--overlay {
     position: relative;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
     padding: 3em 0;
     @include clearfix;
     background-size: cover;
