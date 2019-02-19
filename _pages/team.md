@@ -1,5 +1,4 @@
 ---
-title: "The Team"
 layout: single
 classes: wide
 permalink: theteam/
@@ -83,11 +82,12 @@ feature_row9:
     title: "Jan Kraszewski"
     excerpt: 'Jan is doing an MSc in Materials Science and Engineering at Imperial College London.'
 ---
+# The Team
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row" type="left" %}
 ---
-# PhD Students
+## PhD Students
 
 
 {% include feature_row id="feature_row2" type="left" %}
@@ -95,13 +95,13 @@ feature_row9:
 {% include feature_row id="feature_row4" type="left" %}
 {% include feature_row id="feature_row5" type="left" %}
 ---
-# MSc Students
+## MSc Students
 
 
 {% include feature_row id="feature_row6" type="left" %}
 {% include feature_row id="feature_row7" type="left" %}
 ---
-# MEng Students
+## MEng Students
 
 
 {% include feature_row id="feature_row8" type="left" %}
