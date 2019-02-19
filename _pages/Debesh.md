@@ -2,7 +2,7 @@
 title: "Debesh Mandal"
 layout: home
 classes: wide
-permalink: debesh/
+permalink: theteam/debesh/
 author_profile: false
 sidebar:
   - title: "title"
