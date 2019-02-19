@@ -6,6 +6,6 @@ permalink: theteam/yeong/
 author_profile: false
 sidebar:
   - title: "title"
-    image: assets/images/fiona_resized.jpg
+    image: assets/images/yeong_resized.jpg
     text: "text"
 ---
