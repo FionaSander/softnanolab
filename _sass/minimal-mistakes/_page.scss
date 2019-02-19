@@ -296,8 +296,8 @@
 }
 
 .taxonomy__section {
-  margin-bottom: 1em;
-  padding-bottom: 0.5em;
+  margin-bottom: 2em;
+  padding-bottom: 1em;
 
   &:not(:last-child) {
     border-bottom: solid 1px $border-color;
@@ -313,7 +313,7 @@
   }
 
   + .taxonomy__section {
-    margin-top: 2em;
+    margin-top: 1em;
   }
 }
 
