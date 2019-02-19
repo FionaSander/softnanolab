@@ -12,6 +12,7 @@ intro:
 feature_row:
   - url: https://FionaSander.github.io/softnanolab/theteam/stefano/
     btn_label: "Read More"
+    btn_class: "btn--inverse"
     image_path: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     alt: "Dr. Stefano Angioletti-Uberti"
     title: "Dr. Stefano Angioletti-Uberti"
