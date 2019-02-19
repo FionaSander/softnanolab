@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : #"Fiona Sander"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/fiona_resized.jpg"
   bio              : #"I am an amazing person."
   location         : #"Somewhere"
   email            : fiona.sander17@imperial.ac.uk
