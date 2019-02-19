@@ -6,6 +6,6 @@ permalink: theteam/shuang/
 author_profile: false
 sidebar:
   - title: "title"
-    image: assets/images/fiona_resized.jpg
+    image: assets/images/shuang_resized.jpg
     text: "text"
 ---
