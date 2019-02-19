@@ -29,6 +29,6 @@ PFH Goettingen (Germany) and Airbus Operations GmbH
 ### Current Projects
 
 
-  <i class="fas fa-fw fa-envelope-square"></i> iuhiuhiuhui
+  <i class="fas fa-fw fa-envelope-square"></i> fiona.sander17@imperial.ac.uk
   
-  <i class="fab fa-fw fa-github"></i> 
+  <i class="fab fa-fw fa-github"></i> https://github.com/FionaSander
