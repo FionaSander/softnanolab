@@ -31,7 +31,7 @@ PFH Goettingen (Germany) and Airbus Operations GmbH
   
 <i class="fab fa-fw fa-github"></i> https://github.com/FionaSander
 
-<i class="icon"></i> 
+<i class="icon"></i> Imperial College London
 
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
