@@ -9,7 +9,7 @@ sidebar:
     image: assets/images/fiona_resized.jpg
     text: "Imperial College London"
   - title: "BEng in Composite Engineering"
-    text: "<i class="fas fa-fw fa-envelope-square"></i> fiona.sander17@imperial.ac.uk"
+    text: "class="fas fa-fw fa-envelope-square" fiona.sander17@imperial.ac.uk"
   - title: "BEng in Composite Engineering"
     text: "PFH Goettingen (Germany) and Airbus Operations GmbH"
   - title: "Current Position"
