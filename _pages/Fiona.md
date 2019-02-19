@@ -9,13 +9,13 @@ sidebar:
     image: assets/images/fiona_resized.jpg
     text: "Imperial College London"
   - title: "BEng in Composite Engineering"
-    class: "fas fa-fw fa-envelope-square"
-  - title: "BEng in Composite Engineering"
     text: "PFH Goettingen (Germany) and Airbus Operations GmbH"
   - title: "Current Position"
     text: "PhD Student"
   - title: "Current Projects"
     text: "Liquid Crystal Elastomers"  
+    <i class="fas fa-fw fa-envelope-square"></i> fiona.sander17@imperial.ac.uk
+    <i class="fab fa-fw fa-github"></i> https://github.com/FionaSander
 ---
 
 ### **MSc** in Materials Science and Engineering
