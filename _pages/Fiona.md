@@ -9,7 +9,7 @@ sidebar:
     image: assets/images/fiona_resized.jpg
     text: "Imperial College London"
   - title: "BEng in Composite Engineering"
-    text: "fas fa-fw fa-envelope-square"
+    class: "fas fa-fw fa-envelope-square"
   - title: "BEng in Composite Engineering"
     text: "PFH Goettingen (Germany) and Airbus Operations GmbH"
   - title: "Current Position"
