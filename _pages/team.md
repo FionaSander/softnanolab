@@ -23,7 +23,7 @@ feature_row2:
     width: "450" 
     height: "450"
     title: "Debesh Mandal"
-    excerpt: 'stuff about Debesh'
+    excerpt: 'Currently PhD Student in the Department of Materials working on xxx. He obtained his MEng in Materials Science and Engineering at Imperial College in 2017. '
 feature_row3:
   - url: https://FionaSander.github.io/softnanolab/theteam/sara/
     image_path: /assets/images/sara_resized.jpg
@@ -31,7 +31,7 @@ feature_row3:
     width: "450" 
     height: "450"
     title: "Sara Bandera"
-    excerpt: 'xx'
+    excerpt: 'Sara is currently doing her PhD in Geotechnical Engineering. She obtained her Laurea Magistrale in Civil Enginnering in 2017 at Università di Pavia.'
 feature_row4:
   - url: https://FionaSander.github.io/softnanolab/theteam/fiona/
     image_path: /assets/images/fiona_resized.jpg
@@ -55,7 +55,7 @@ feature_row6:
     width: "450" 
     height: "450"
     title: "William Morton"
-    excerpt: 'xx'
+    excerpt: 'William is currently doing his MSc in Materials Science and Engineering at Imperial College London focussing on xxx. In October he will start a PhD also at Imperial College London.'
 feature_row7:
   - url: https://FionaSander.github.io/softnanolab/theteam/shuang/
     image_path: /assets/images/shuang_resized.jpg
@@ -65,15 +65,15 @@ feature_row7:
     title: "Shuang Zhao"
     width: "450" 
     height: "450"
-    excerpt: 'Some stuff about Shuang'
+    excerpt: 'Shuang is doing an MSc in Materials Science and Engineering at Imperial College London.'
 feature_row8:
   - url: https://FionaSander.github.io/softnanolab/theteam/yeong/
     image_path: /assets/images/lucas_resized.jpg
     alt: "Yuong Kim Ung"
     width: "450" 
     height: "450"
-    title: "Yuong Kim Ung"
-    excerpt: 'Some stuff about Yuong'
+    title: "Yuong Kim (Lucas) Ung"
+    excerpt: 'Lucas is doing an MSc in Materials Science and Engineering at Imperial College London.'
 feature_row9:
   - url: https://FionaSander.github.io/softnanolab/theteam/jan/
     image_path: /assets/images/jan_resized.jpg
@@ -81,7 +81,7 @@ feature_row9:
     width: "450" 
     height: "450"
     title: "Jan Kraszewski"
-    excerpt: 'Stuff about Jan'
+    excerpt: 'Jan is doing an MSc in Materials Science and Engineering at Imperial College London.'
 ---
 
 {% include feature_row id="intro" type="center" %}
