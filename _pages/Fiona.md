@@ -14,8 +14,6 @@ sidebar:
     text: "PhD Student"
   - title: "Current Projects"
     text: "Liquid Crystal Elastomers"  
-    <i class="fas fa-fw fa-envelope-square"></i> fiona.sander17@imperial.ac.uk
-    <i class="fab fa-fw fa-github"></i> https://github.com/FionaSander
 ---
 
 ### **MSc** in Materials Science and Engineering
