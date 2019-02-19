@@ -5,7 +5,7 @@ permalink: theteam/william/
 author_profile: false
 sidebar:
   - title: "title"
-    image: assets/images/fiona_resized.jpg
+    image: assets/images/will_resized.jpg
     text: "text"
 feature_row:
    - image_path: /assets/images/william_research.png
