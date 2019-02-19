@@ -7,11 +7,11 @@ author_profile: false
 sidebar:
   - title: "MSc in Materials Science and Engineering"
     image: assets/images/fiona_resized.jpg
-    image_alt: "image"
     text: "Imperial College London"
   - title: "BEng in Composite Engineering"
+    text: "<i class="fas fa-fw fa-envelope-square"></i> fiona.sander17@imperial.ac.uk"
+  - title: "BEng in Composite Engineering"
     text: "PFH Goettingen (Germany) and Airbus Operations GmbH"
-    icon: "fab fa-fw fa-facebook-square"
   - title: "Current Position"
     text: "PhD Student"
   - title: "Current Projects"
