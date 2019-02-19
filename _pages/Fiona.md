@@ -47,6 +47,6 @@ PFH Goettingen (Germany) and Airbus Operations GmbH
 ### Current Projects
 
 
-  <i class="fa fa-fw fa-phone" url="https://facebook.com/"></i>
+  <i class="fa fa-fw fa-phone" url="https://facebook.com/" label="fiona.sander17@imperial.ac.uk"></i>  
   <i class="fas fa-fw fa-envelope-square"></i>
   <i class="fab fa-fw fa-github"></i> 
