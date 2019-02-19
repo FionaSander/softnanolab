@@ -31,4 +31,4 @@ PFH Goettingen (Germany) and Airbus Operations GmbH
   
 <i class="fab fa-fw fa-github"></i> https://github.com/FionaSander
 
-<i class="apple-touch-icon"></i> #sizes="180x180" href="/assets/images/apple-touch-icon.png">
+<i class="icon"></i> 
