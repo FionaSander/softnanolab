@@ -42,12 +42,16 @@ Applications from prospective postgraduate students and highly motivated researc
   
   <div style="text-align: center;">
     <div style="display: inline-block; text-align: left;">
-        Centered<br />
-        Content<br />
-        That<br />
-        Is<br />
-        Left<br />
-        Aligned
+Email:
+  {: .text-justify}
+  s.angioletti-uberti07@imperial.ac.uk<br />
+    
+  Phone:
+  {: .text-justify} <br />
+  
+  Adress:
+  {: .text-justify}
+  Imperial College London, South Kensington Campus, London SW7 2AZ
     </div>
 </div>
 
