@@ -1,7 +1,6 @@
 ---
 title: "Contact us!"
 layout: splash
-classes: wide
 permalink: contact/
 intro: 
   - excerpt: 'Applications from prospective postgraduate students and highly motivated researchers are welcome at any time and can be submitted by email'
