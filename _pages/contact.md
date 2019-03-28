@@ -20,7 +20,7 @@ header:
 <blockquote title="Blockquote title">
   <p>Email: <a href="mailto:s.angioletti-uberti07@imperial.ac.uk" style="text-decoration:none;"><span style="color:blue">s.angioletti-uberti07@imperial.ac.uk</span></a> <br />
     
-  Phone:<br />
+  <strong>Phone:</strong> +44 (0)20 7594 7351 <br />
   
   
   Adress: Imperial College London, South Kensington Campus, London SW7 2AZ
