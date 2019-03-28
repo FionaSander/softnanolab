@@ -8,17 +8,15 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/opal.jpg
   caption: "Photo credit: [**Fiona Sander**](https://fionasander.github.io/softnanolab/fiona/)"
-excerpt: "xxx"
-intro: 
-  - excerpt: 'Applications from prospective postgraduate students and highly motivated researchers are welcome at any time and can be submitted by email'
 
 ---
 
-###### Applications from prospective postgraduate students and highly motivated researchers are welcome at any time and can be submitted by email.
+###### Applications from prospective postgraduate students and highly motivated researchers are welcome at any time and can be submitted by email. {: .text-center}
 
 ###### Email: s.angioletti-uberti07@imperial.ac.uk
 ###### Phone: 
 ###### Adress:
+{: .text-center}
 
 ###### Imperial College London<br /> South Kensington Campus<br /> London SW7 2AZ
   {: .text-center}
