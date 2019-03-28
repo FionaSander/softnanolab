@@ -11,23 +11,23 @@ header:
 
 ---
 
-## Applications from prospective postgraduate students and highly motivated researchers are welcome at any time and can be submitted by email. 
+# Applications from prospective postgraduate students and highly motivated researchers are welcome at any time and can be submitted by email. 
 {: .text-center}
 
 <blockquote title="Blockquote title">
-  <p>Email: s.angioletti-uberti07@imperial.ac.uk<br />
+  <p>Email:{: .text-justify} s.angioletti-uberti07@imperial.ac.uk<br />
     
-  Phone: <br />
+  Phone:{: .text-justify} <br />
   
-  Adress: Imperial College London, South Kensington Campus, London SW7 2AZ
+  Adress:{: .text-justify} Imperial College London, South Kensington Campus, London SW7 2AZ
   </p>
 </blockquote>{: .text-center}
 
-<p class="c1 c2" id="id" title="title">Email: s.angioletti-uberti07@imperial.ac.uk<br />
+<p class="c1 c2" id="id" title="title">Email:{: .text-justify} s.angioletti-uberti07@imperial.ac.uk<br />
     
-  Phone: <br />
+  Phone:{: .text-justify} <br />
   
-  Adress: Imperial College London, South Kensington Campus, London SW7 2AZ</p>{: .text-center}
+  Adress:{: .text-justify} Imperial College London, South Kensington Campus, London SW7 2AZ</p>{: .text-center}
 
 ---
 
