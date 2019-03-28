@@ -18,11 +18,10 @@ header:
   <div style="text-align: center;">
     <div style="display: inline-block; text-align: left;">
 <blockquote title="Blockquote title">
-  <p>Email: <a href="mailto:s.angioletti-uberti07@imperial.ac.uk"><span style="color:blue">s.angioletti-uberti07@imperial.ac.uk</span></a> 
+  <p>Email: <a href="mailto:s.angioletti-uberti07@imperial.ac.uk" class="btn"><span style="color:blue">s.angioletti-uberti07@imperial.ac.uk</span></a> <br />
     
   Phone:<br />
   
-  <span style="color:blue">some <em>blue</em> text</span>.
   
   Adress: Imperial College London, South Kensington Campus, London SW7 2AZ
   </p>
