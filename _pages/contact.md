@@ -18,7 +18,7 @@ header:
   <div style="text-align: center;">
     <div style="display: inline-block; text-align: left;">
 <blockquote title="Blockquote title">
-  <p>Email: <a href="mailto:s.angioletti-uberti07@imperial.ac.uk" class="btn btn--info">s.angioletti-uberti07@imperial.ac.uk</a> 
+  <p>Email: <a href="mailto:s.angioletti-uberti07@imperial.ac.uk" class="btn">s.angioletti-uberti07@imperial.ac.uk</a> 
     
    <a href="#" class="btn btn--info">s.angioletti-uberti07@imperial.ac.uk</a> <br />
     
