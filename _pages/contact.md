@@ -1,6 +1,6 @@
 ---
 title: "Contact us!"
-layout: home
+layout: splash
 classes: wide
 permalink: contact/
 
