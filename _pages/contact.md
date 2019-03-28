@@ -21,13 +21,13 @@ header:
   
   Adress: Imperial College London, South Kensington Campus, London SW7 2AZ
   </p>
-</blockquote>{: .align-center}
+</blockquote>{: .text-center}
 
 <p class="c1 c2" id="id" title="title">Email: s.angioletti-uberti07@imperial.ac.uk<br />
     
   Phone: <br />
   
-  Adress: Imperial College London, South Kensington Campus, London SW7 2AZ</p>{: .align-center}
+  Adress: Imperial College London, South Kensington Campus, London SW7 2AZ</p>{: .text-center}
 
 ---
 
