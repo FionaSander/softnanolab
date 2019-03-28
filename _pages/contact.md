@@ -23,13 +23,11 @@ header:
   </p>
 </blockquote>
 
-{:refdef: .c1 #id .c2 title="title"}
-Email: s.angioletti-uberti07@imperial.ac.uk<br />
+<p class="c1 c2" id="id" title="title">Email: s.angioletti-uberti07@imperial.ac.uk<br />
     
   Phone: <br />
   
-  Adress: Imperial College London, South Kensington Campus, London SW7 2AZ
-{: refdef}
+  Adress: Imperial College London, South Kensington Campus, London SW7 2AZ</p>
 
 
 ##### Email: s.angioletti-uberti07@imperial.ac.uk
