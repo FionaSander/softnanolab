@@ -20,9 +20,9 @@ header:
 <blockquote title="Blockquote title">
   <p>Email: <a href="mailto:s.angioletti-uberti07@imperial.ac.uk" class="btn">s.angioletti-uberti07@imperial.ac.uk</a> 
     
-   <a href="#" class="btn btn--info">s.angioletti-uberti07@imperial.ac.uk</a> <br />
-    
   Phone:<br />
+  
+  <span style="color:blue">some <em>blue</em> text</span>.
   
   Adress: Imperial College London, South Kensington Campus, London SW7 2AZ
   </p>
