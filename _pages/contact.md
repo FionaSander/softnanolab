@@ -2,8 +2,16 @@
 title: "Contact us!"
 layout: splash
 permalink: contact/
+date: 2019-03-28
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/opal.jpg
+  caption: "Photo credit: [**Fiona Sander**](https://fionasander.github.io/softnanolab/fiona/)"
+excerpt: ""
 intro: 
   - excerpt: 'Applications from prospective postgraduate students and highly motivated researchers are welcome at any time and can be submitted by email'
+
 ---
 
 ###### Applications from prospective postgraduate students and highly motivated researchers are welcome at any time and can be submitted by email.
