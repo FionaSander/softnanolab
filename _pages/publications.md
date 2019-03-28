@@ -18,14 +18,17 @@ intro:
 ## 2019
    * Publication second most most recent, Publication second most most recent, Publication second most most recent, Publication second most most recent
    * Publication third most most recent
+   {: .text-center}
 
 ## 2018
    * Publication second most most recent, Publication second most most recent, Publication second most most recent, Publication second most most recent
    * Publication third most most recent
+   {: .text-center}
    
 ## 2017
    * Publication second most most recent, Publication second most most recent, Publication second most most recent, Publication second most most recent
    * Publication third most most recent
+   {: .text-center}
 
 ## 2016
 
