@@ -1,18 +1,18 @@
 ---
-title: "Contact us"
+title: "Contact us!"
 layout: home
 classes: wide
 permalink: contact/
 
 ---
 
-###### we are looking for nice people
+###### Applications from prospective postgraduate students and highly motivated researchers are welcome at any time and can be submitted by email.
 
----
+###### Email: s.angioletti-uberti07@imperial.ac.uk
+###### Phone: 
+###### Adress:
 
-<address>
-  Imperial College London<br /> South Kensington Campus<br /> London SW7 2AZ
-</address>
+###### Imperial College London<br /> South Kensington Campus<br /> London SW7 2AZ
   
 ---
 
