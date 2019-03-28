@@ -15,19 +15,25 @@ header:
 {: .text-center}
 
 <blockquote title="Blockquote title">
-  <p>Email:{: .text-justify} s.angioletti-uberti07@imperial.ac.uk<br />
+  <p>Email:{: .text-justify} 
+    s.angioletti-uberti07@imperial.ac.uk<br />
     
-  Phone:{: .text-justify} <br />
+  Phone:{: .text-justify}
+  <br />
   
-  Adress:{: .text-justify} Imperial College London, South Kensington Campus, London SW7 2AZ
+  Adress:{: .text-justify}
+  Imperial College London, South Kensington Campus, London SW7 2AZ
   </p>
 </blockquote>{: .text-center}
 
-<p class="c1 c2" id="id" title="title">Email:{: .text-justify} s.angioletti-uberti07@imperial.ac.uk<br />
+<p class="c1 c2" id="id" title="title">Email:{: .text-justify}
+  s.angioletti-uberti07@imperial.ac.uk<br />
     
-  Phone:{: .text-justify} <br />
+  Phone:
+  {: .text-justify} <br />
   
-  Adress:{: .text-justify} Imperial College London, South Kensington Campus, London SW7 2AZ</p>{: .text-center}
+  Adress:{: .text-justify}
+  Imperial College London, South Kensington Campus, London SW7 2AZ</p>{: .text-center}
 
 ---
 
