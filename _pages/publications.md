@@ -11,7 +11,7 @@ header:
   caption: "Image credit: Stefano Angioletti-Uberti"
 excerpt: ""
 intro: 
-  - excerpt: '
+  - excerpt: ''
 ---
 
 
