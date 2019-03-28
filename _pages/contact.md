@@ -15,12 +15,11 @@ header:
 {: .text-center}
 
 <blockquote title="Blockquote title">
-  <p>Email: s.angioletti-uberti07@imperial.ac.uk
+  <p>Email: s.angioletti-uberti07@imperial.ac.uk<br />
     
-  Phone:
+  Phone: <br />
   
-  Adress: 
-  Imperial College London<br /> South Kensington Campus<br /> London SW7 2AZ
+  Adress: Imperial College London, South Kensington Campus, London SW7 2AZ
   </p>
 </blockquote>
 
