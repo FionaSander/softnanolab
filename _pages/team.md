@@ -5,10 +5,7 @@ permalink: theteam/
 date: 2016-03-23T11:48:41-04:00
 header:
   image: /assets/images/group_picture.jpeg
-  caption: "Photo credit: somebody"
-excerpt: "What we are doing"
-intro: 
-  - excerpt: ''
+  caption: ""
 feature_row:
   - url: https://FionaSander.github.io/softnanolab/theteam/stefano/
     image_path: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
