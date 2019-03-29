@@ -1,7 +1,6 @@
 ---
 title: "Publications"
-layout: posts
-classes: wide
+layout: home
 permalink: publications/
 date: 2016-03-23T11:48:41-04:00
 header:
@@ -14,7 +13,7 @@ intro:
   - excerpt: ''
 ---
 
-  ## 2019
+## 2019
    * Publication second most most recent, Publication second most most recent, <br /> Publication second most most recent, Publication second most most recent
    * Publication third most most recent
 
