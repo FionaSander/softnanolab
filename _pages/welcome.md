@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/opal.jpg
-  caption: "Photo credit: [**Fiona Sander**](https://fionasander.github.io/softnanolab/fiona/)"
+  caption: ""
 excerpt: "What we are doing"
 intro: 
   - excerpt: 'some more stuff about what we are doing'
@@ -36,7 +36,7 @@ gallery:
 feature_row2:
   - image_path: "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
     image_caption: "Video of the month"
-    excerpt: 'the video of the month is showing truely amazing things indeed'
+    excerpt: 'the video of the month is showing amazing things'
     url: "#test-link"
     btn_label: "More cat videos"
     btn_class: "btn--info"
