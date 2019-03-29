@@ -14,7 +14,7 @@ intro:
 ---
 
 ## 2019
-   * Publication second most most recent, Publication second most most recent, <br /> Publication second most most recent, Publication second most most recent
+   * Publication second most most recent, Publication second most most recent, Publication second most most recent, Publication second most most recent
    * Publication third most most recent
 
 ## 2018
