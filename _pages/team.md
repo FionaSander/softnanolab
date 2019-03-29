@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 permalink: theteam/
-date: 2016-03-23T11:48:41-04:00
+date: 2019-03-29
 header:
   image: /assets/images/group_picture.jpeg
   caption: ""
