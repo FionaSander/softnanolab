@@ -23,9 +23,11 @@ intro:
 </div>  
   
 
-## 2019
+<center> 
+  
+  ## 2019
    * Publication second most most recent, Publication second most most recent, <br /> Publication second most most recent, Publication second most most recent
-   * Publication third most most recent
+   * Publication third most most recent </center>
 
 ## 2018
    * Publication second most most recent, Publication second most most recent, Publication second most most recent, Publication second most most recent
