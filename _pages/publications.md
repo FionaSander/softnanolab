@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layout: splash
+layout: posts
 classes: wide
 permalink: publications/
 date: 2016-03-23T11:48:41-04:00
