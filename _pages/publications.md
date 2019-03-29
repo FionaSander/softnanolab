@@ -16,7 +16,7 @@ intro:
 <div style="text-align: center;">
     <div style="display: inline-block; text-align: left;">
 
-## 2019
+## 2019 {: .text-center}
    * Publication second most most recent, Publication second most most recent, Publication second most most recent, Publication second most most recent
    * Publication third most most recent
 
