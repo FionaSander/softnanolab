@@ -14,16 +14,15 @@ intro:
 ---
 
 ## 2019
-   * Publication second most most recent, Publication second most most recent, Publication second most most recent, Publication second most most recent
-   * Publication third most most recent
+   * Publication most most recent, 
+   * Publication second most most recent, 
+    * Publication third most most recent
 
 ## 2018
-   * Publication second most most recent, Publication second most most recent, Publication second most most recent, Publication second most most recent
-   * Publication third most most recent
+
    
 ## 2017
-   * Publication second most most recent, Publication second most most recent, Publication second most most recent, Publication second most most recent
-   * Publication third most most recent
+
 
 ## 2016
 
