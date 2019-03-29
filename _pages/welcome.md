@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/opal.jpg
   caption: "Photo credit: [**Fiona Sander**](https://fionasander.github.io/softnanolab/fiona/)"
-excerpt: "What we are doing some more stuff about what we are doing some more stuff about what we are doing some more stuff about what we are doing some more stuff about what we are doing some more stuff about what we are doing some more stuff about what we are doing some more stuff about what we are doing"
+excerpt: "What we are doing"
 intro: 
   - excerpt: 'some more stuff about what we are doing'
 gallery:
