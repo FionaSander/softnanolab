@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layout: splash
+layout: archive-taxonomy
 classes: wide
 permalink: publications/
 date: 2016-03-23T11:48:41-04:00
@@ -13,21 +13,10 @@ excerpt: ""
 intro: 
   - excerpt: ''
 ---
-  <div style="text-align: center;">
-    <div style="display: inline-block; text-align: left;">
-2019
-* Publication second most most recent, Publication second most most recent, <br />
-      Publication second most most recent, Publication second most most recent
-* Publication third most most recent
-    </div>
-</div>  
-  
 
-<center> 
-  
   ## 2019
    * Publication second most most recent, Publication second most most recent, <br /> Publication second most most recent, Publication second most most recent
-   * Publication third most most recent </center>
+   * Publication third most most recent
 
 ## 2018
    * Publication second most most recent, Publication second most most recent, Publication second most most recent, Publication second most most recent
