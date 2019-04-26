@@ -8,6 +8,13 @@ sidebar:
   - title: "title"
     image: assets/images/sara_resized.jpg
     text: "text"
+feature_row:
+  - image_path: "assets/images/sara_resized.jpg"
+    image_caption: "Video of the month"
+    excerpt: 'the video of the month is showing amazing things'
+    url: "#test-link"
+    btn_label: "More cat videos"
+    btn_class: "btn--info"
 ---
 
 
@@ -19,4 +26,6 @@ Funding: The Leverhulme Trust
 
 Clay is the most abundant type of soil on the Earth’s surface. According to the British Geological Survey (2016), clay minerals constitute an estimated 16% of the total volume of soil. Unlike cohesionless materials (e.g. sand), clay is challenging to study because the influence of the structure (i.e. particle arrangement and inter-particle forces) on its behaviour cannot be neglected. 
 This research aims to improve the understanding of the response of clay to applied loads and deformations by explicitly simulating the interactions between three-dimensional clay particles using the Molecular Dynamics (MD) technique. In this project, clay particles are represented by flat ellipsoids interacting via the Gay-Berne (GB) potential (modified form of the Lennard-Jones potential for aspherical particles). 
+
+
 
