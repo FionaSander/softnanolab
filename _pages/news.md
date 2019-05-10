@@ -14,10 +14,10 @@ intro:
   - excerpt: ''
 feature_row:
   - image_path: "/assets/images/IMG_1733.jpeg"
-    excerpt: 'BSc and MSc in Materials Science at Universita degli Studi di Milano-Bicocca. PhD at Imperial College London in Materials Science. From 2010 to 2013 Research Asscoiate at Univeristy of Cambridge working on development of theory and simulations to describe DNA-coated colloids and their self-assembly.'
+    excerpt: 'MSc graduation of Kaiye and Fiona who finished their MSc in Advanced Materials Science and Engineering at Imperial College and continued doing PhDs in the SoftNanoLab group.'
 ---
 
-## 08/05/2019
+## MSc Graduation 
 
 {% include feature_row id="feature_row" type="center" %}
 
