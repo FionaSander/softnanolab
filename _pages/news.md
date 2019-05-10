@@ -15,10 +15,10 @@ intro:
 feature_row:
   - image_path: "/assets/images/IMG_1733.jpeg"
     excerpt: 'Congratulations to Kaiye and Fiona who graduated from the MSc in Advanced Materials Science and Engineering at Imperial College and continue doing PhDs in the SoftNanoLab group.'
-    
+---
     
 
-## 08/05/2019
+## 08/05/2019 
 {% include feature_row id="feature_row" type="right" %}
 
 
