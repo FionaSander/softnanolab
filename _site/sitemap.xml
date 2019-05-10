@@ -31,9 +31,12 @@
 <loc>http://localhost:4000/softnanolab/theteam/kaiye/</loc>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/softnanolab/news/</loc>
 </url>
 <url>
+=======
+>>>>>>> a9040e942f2f715b9a62a8df6daa3d35e4b76cc5
 <loc>http://localhost:4000/softnanolab/publications/</loc>
 </url>
 <url>
