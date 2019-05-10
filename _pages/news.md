@@ -17,8 +17,7 @@ feature_row:
     excerpt: 'MSc graduation of Kaiye and Fiona who finished their MSc in Advanced Materials Science and Engineering at Imperial College and continued doing PhDs in the SoftNanoLab group.'
 ---
 
-## MSc Graduation 
-
+## 08/05/2019
 {% include feature_row id="feature_row" type="center" %}
 
 
