@@ -22,6 +22,7 @@ feature_row:
 
 ## 08/05/2019
 
+{% include feature_row id="feature_row" type="center" %}
 
 
 
