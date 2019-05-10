@@ -11,11 +11,18 @@ header:
 excerpt: ""
 intro: 
   - excerpt: ''
+feature_row:
+  - image_path: "/assets/images/IMG_1733.jpeg"
+    image_caption: "Video of the month"
+    excerpt: 'the video of the month is showing amazing things'
+    url: "#test-link"
+    btn_label: "More cat videos"
+    btn_class: "btn--info"
 ---
 
 ## 08/05/2019
 
-IMG_1733.jpeg
+
 
 
 
