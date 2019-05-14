@@ -10,9 +10,10 @@ sidebar:
     text: "text"
 feature_row:
   - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    image_path: /assets/images/Kaiye_project.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
 
 Kaiyes research and stuff
+
