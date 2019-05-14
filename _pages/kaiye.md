@@ -17,3 +17,4 @@ feature_row:
 
 Kaiyes research and stuff
 
+{% include feature_row id="feature_row" type="center" %}
