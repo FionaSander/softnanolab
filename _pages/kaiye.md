@@ -14,4 +14,5 @@ gallery:
 
 Kaiyes research and stuff
 
-{% include gallery id="gallery" type="left" %}
+
+{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
