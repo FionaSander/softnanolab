@@ -6,14 +6,13 @@ permalink: theteam/sara/
 author_profile: false
 sidebar:
   - title: "title"
-    image: assets/images/sara_resized.jpg
+    image: assets/images/Sara_profile_picture.jpg
     text: "text"
 feature_row:
-  - image_path: "assets/images/sara_resized.jpg"
-    image_caption: "Video of the month"
-    excerpt: 'the video of the month is showing amazing things'
+  - image_path: "assets/images/clay1.png"
+    excerpt: ''
     url: "#test-link"
-    btn_label: "More cat videos"
+    btn_label: "Research"
     btn_class: "btn--info"
 ---
 
