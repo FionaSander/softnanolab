@@ -24,7 +24,7 @@ feature_row2:
     btn_class: "btn--light-outline"
 feature_row3:
   - url: https://FionaSander.github.io/softnanolab/theteam/sara/
-    image_path: /assets/images/sara_resized.jpg
+    image_path: /assets/images/Sara_profile_picture.jpg
     alt: "Sara Bandera"
     width: "450" 
     height: "450"
