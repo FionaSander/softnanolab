@@ -89,6 +89,7 @@ feature_row9:
     btn_class: "btn--light-outline"
 ---
 # The Team
+
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row" type="left" %}
 ---
