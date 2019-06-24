@@ -28,11 +28,6 @@ gallery:
     alt: "blabla"
     title: "blabla"
     excerpt: "This is also quite cool."
-  - url: https://fionasander.github.io/softnanolab/research/
-    image_path: /assets/images/clay_particles.jpg 
-    alt: "blabla"
-    title: "blabla"
-    excerpt: "This is very interesting."
 feature_row2:
   - image_path: "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
     image_caption: "Video of the month"
@@ -44,7 +39,7 @@ feature_row2:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery id="gallery" layout="forth" %}
+{% include gallery id="gallery" layout="third" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
