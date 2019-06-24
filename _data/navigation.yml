@@ -1,12 +1,12 @@
 # main links
 main:
+  - title: "News"
+    url: https://FionaSander.github.io/softnanolab/news/
   - title: "The Team"
     url: https://FionaSander.github.io/softnanolab/theteam/
   - title: "Research"
     url: https://FionaSander.github.io/softnanolab/research/
   - title: "Publications"
     url: https://FionaSander.github.io/softnanolab/publications/
-  - title: "News"
-    url: https://FionaSander.github.io/softnanolab/news/
   - title: "Contact"
     url: https://FionaSander.github.io/softnanolab/contact/
