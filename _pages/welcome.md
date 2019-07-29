@@ -16,7 +16,7 @@ gallery:
     image_path: /assets/images/clay_particles.jpg 
     cpation: "nice one"
     alt: "blabla"
-    title: "blabla"
+    title: "There should be a title here "
     excerpt: "This is very interesting."
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: /assets/images/forwebpage.png
