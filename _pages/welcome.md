@@ -47,10 +47,12 @@ feature_row3:
     title: "Hydrogel"
     excerpt: "what is this about"
     url: https://fionasander.github.io/softnanolab/research/
+    btn_class: "btn--light-outline"
   - image_path: /assets/images/chitinrods.jpeg
     title: "Liquid crystals"
     excerpt: "what is this about"
     url: https://fionasander.github.io/softnanolab/research/
+    btn_class: "btn--light-outline"
 ---
 
 {% include feature_row id="intro" type="center" %}
