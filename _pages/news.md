@@ -3,7 +3,7 @@ title: "News"
 layout: single
 style: wide
 permalink: news/
-date: 2016-03-23T11:48:41-04:00
+date: today
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
