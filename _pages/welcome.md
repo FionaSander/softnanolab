@@ -66,7 +66,7 @@ feature_row4:
 
 ---
 
-{% include feature_row id="feature_row3" %}
+{% include gallery id="gallery" type="third" %}
 
 
 {% include feature_row id="feature_row2" type="left" %}
