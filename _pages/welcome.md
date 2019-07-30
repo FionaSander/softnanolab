@@ -53,6 +53,13 @@ feature_row3:
     excerpt: "what is this about"
     url: https://fionasander.github.io/softnanolab/research/
     btn_class: "btn--light-outline"
+feature_row4:
+  - image_path: /assets/images/group_picture.jpeg
+    alt: "Clay"
+    title: "Clay"
+    excerpt: "what is this about"
+    url: https://fionasander.github.io/softnanolab/research/
+    btn_class: "btn--light-outline"
 ---
 
 
