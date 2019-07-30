@@ -13,18 +13,18 @@ intro:
   - excerpt: 'some more stuff about what we are doing'
 gallery:
   - url: https://fionasander.github.io/softnanolab/research/
-    image_path: /assets/images/clay_particles.jpg 
+    image_path: /assets/images/star.png
     cpation: "nice one"
     alt: "blabla"
     title: "There should be a title here "
     excerpt: "This is very interesting."
   - url: https://fionasander.github.io/softnanolab/research/
-    image_path: /assets/images/forwebpage.png
+    image_path: /assets/images/protein.png
     alt: "blabla"
     title: "blabla"
     excerpt: "This is really cool."
   - url: https://fionasander.github.io/softnanolab/research/
-    image_path: /assets/images/chitinrods.jpeg
+    image_path: /assets/images/temperature.jpeg
     alt: "blabla"
     title: "blabla"
     excerpt: "This is also quite cool."
