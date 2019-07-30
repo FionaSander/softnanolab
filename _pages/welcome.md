@@ -53,7 +53,17 @@ feature_row3:
     excerpt: "what is this about"
     url: https://fionasander.github.io/softnanolab/research/
     btn_class: "btn--light-outline"
+ feature_row4:
+  - image_path:  /assets/images/group_picture.jpeg
+    alt: "xx"
+    title: "xx"
+    excerpt: "what is this about what is this about what is this about what is this about what is this about what is this  about what is this about what is this about what is this about what is this about what is this about what is this about what is this about what is this about what is this about what is this about what is this about"
 ---
+
+
+{% include feature_row id="feature_row4" type="left" %}
+
+
 
 {% include feature_row id="intro" type="center" %}
 
