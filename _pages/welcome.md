@@ -57,9 +57,10 @@ feature_row4:
   - image_path: /assets/images/group_picture_small.jpeg
     alt: "Stuff"
     title: "some more stuff about what we are doing"
-    excerpt: "So-called 'Soft Matter' encompasses a wide range of systems, from nanoparticles to proteins, from membranes to synthetic polymers. In general, soft materials are highly responsive and their behaviour can be tuned by changing their local environment. At the SoftNanoLab, we are interested in using a combination of theory, computer simulations and experiments to unravel the design principles that allow to obtain a specific response, tayloring it towards a specific application. From systems that can selectively deliver drugs only to specific targets to polymers-based biosensors that change colour upon the presence of certain molecules, from nanoreactors that can enhance specific reactions to polymers that can glue tissues together, our group is willing to push the boundaries of materials science to discover the materials of tomorrow. Read more about our exciting projects in the research page."
+    excerpt: "So-called 'Soft Matter' encompasses a wide range of systems, from nanoparticles to proteins, from membranes to synthetic polymers. In general, soft materials are highly responsive and their behaviour can be tuned by changing their local environment. At the SoftNanoLab, we are interested in using a combination of theory, computer simulations and experiments to unravel the design principles that allow to obtain a specific response, tayloring it towards a specific application. From systems that can selectively deliver drugs only to specific targets to polymers-based biosensors that change colour upon the presence of certain molecules, from nanoreactors that can enhance specific reactions to polymers that can glue tissues together, our group is willing to push the boundaries of materials science to discover the materials of tomorrow. "
     url: https://fionasander.github.io/softnanolab/research/
-    btn_class: "btn--light-outline"
+    btn_label: "Read more about our exciting projects on the research page"
+    btn_class: "btn--info"
 ---
 
 {% include feature_row id="feature_row4" type="left" %}
