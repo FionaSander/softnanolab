@@ -60,8 +60,17 @@ feature_row4:
     excerpt: "what is this about"
     url: https://fionasander.github.io/softnanolab/research/
     btn_class: "btn--light-outline"
+feature_row5:
+  - url: https://FionaSander.github.io/softnanolab/theteam/stefano/
+    image_path: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
+    alt: "Dr. Stefano Angioletti-Uberti"
+    title: "Dr. Stefano Angioletti-Uberti"
+    excerpt: "BSc and MSc in Materials Science at Universita' degli Studi di Milano-Bicocca. PhD at Imperial College London in Materials Science. From 2010 to 2013 Research Asscoiate at Univeristy of Cambridge working on development of theory and simulations to describe DNA-coated colloids and their self-assembly. Alexander-vom-Humboldt Fellow at Hemholtz Zentrum Berlin from 2013 to 2015 in development of theoretical models for protein adsorption on nanoparticles and describtion of kinetic processes in nanoreactors. 2015 to present Professor for Soft Matter at Beijing University of Chemical Technology. 2016 to present Lecturer for Theory and Simulation of Materials at Imperial College London."
+    btn_class: "btn--light-outline"
 ---
 
+
+{% include feature_row id="feature_row5" type="left" %}
 
 {% include feature_row id="feature_row4" type="left" %}
 
