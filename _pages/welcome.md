@@ -63,9 +63,9 @@ feature_row4:
     btn_class: "btn"
 ---
 
-![image-left](/assets/images/group_picture_small.jpeg){: .align-left}
 
-This is just for fun and indeed I can feel myself quite uplifted!
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/group_picture_small.jpeg){: .align-left} This is just for fun and indeed I can feel myself quite uplifted!
 
 
 {% include feature_row id="feature_row4" type="left" %}
