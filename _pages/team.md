@@ -4,7 +4,7 @@ classes: wide
 permalink: theteam/
 date: 2019-03-29
 header:
-  image: /assets/images/group_picture.jpeg
+  image: /assets/images/1-3.jpeg
   caption: ""
 feature_row:
   - url: https://FionaSander.github.io/softnanolab/theteam/stefano/
