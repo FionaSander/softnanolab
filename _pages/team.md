@@ -87,6 +87,24 @@ feature_row9:
     title: "Jan Kraszewski"
     excerpt: 'Jan is doing an MSc in Materials Science and Engineering at Imperial College London.'
     btn_class: "btn--light-outline"
+feature_row10:
+  - url: https://FionaSander.github.io/softnanolab/theteam/jan/
+    image_path: /assets/images/jan_resized.jpg
+    alt: "Sotiris Samatas"
+    width: "450" 
+    height: "450"
+    title: "Sotiris Samatas"
+    excerpt: 'Sotiris is doing a PhD.'
+    btn_class: "btn--light-outline"
+feature_row11:
+  - url: https://FionaSander.github.io/softnanolab/theteam/jan/
+    image_path: /assets/images/jan_resized.jpg
+    alt: "Mohamed Abdelbar"
+    width: "450" 
+    height: "450"
+    title: "Mohamed Abdelbar"
+    excerpt: 'Mohamedis doing a PhD.'
+    btn_class: "btn--light-outline"
 ---
 # The Team
 
@@ -100,6 +118,8 @@ feature_row9:
 {% include feature_row id="feature_row3" type="left" %}
 {% include feature_row id="feature_row4" type="left" %}
 {% include feature_row id="feature_row5" type="left" %}
+{% include feature_row id="feature_row10" type="left" %}
+{% include feature_row id="feature_row11" type="left" %}
 ---
 # MSc Students
 
@@ -107,7 +127,7 @@ feature_row9:
 {% include feature_row id="feature_row6" type="left" %}
 {% include feature_row id="feature_row7" type="left" %}
 ---
-# MEng Students
+# Alumni
 
 
 {% include feature_row id="feature_row8" type="left" %}
