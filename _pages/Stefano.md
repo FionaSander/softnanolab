@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive
 permalink: theteam/stefano/
 author_profile: false
 sidebar:
