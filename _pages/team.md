@@ -118,7 +118,6 @@ feature_row11:
     btn_label: "More about my projects"
     btn_class: "btn--primary btn--small"
 ---
-# The Team
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row" type="left" %}
