@@ -121,8 +121,8 @@ feature_row11:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row" type="left" %}
----
-## PhD Students
+
+# PhD Students
 
 
 {% include feature_row id="feature_row2" type="left" %}
@@ -132,13 +132,13 @@ feature_row11:
 {% include feature_row id="feature_row10" type="left" %}
 {% include feature_row id="feature_row11" type="left" %}
 ---
-## MSc Students
+# MSc Students
 
 
 {% include feature_row id="feature_row6" type="left" %}
 {% include feature_row id="feature_row7" type="left" %}
 ---
-## Alumni
+# Alumni
 
 
 {% include feature_row id="feature_row8" type="left" %}
