@@ -33,7 +33,7 @@ feature_row3:
     title: "Sara Bandera"
     excerpt: 'Sara is currently doing her PhD in Geotechnical Engineering. She obtained her Laurea Magistrale in Civil Enginnering in 2017 at Università di Pavia.'
     btn_label: "More about my projects"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--primary"
 feature_row4:
   - url: https://FionaSander.github.io/softnanolab/theteam/fiona/
     image_path: /assets/images/fiona_resized.jpg
@@ -42,7 +42,7 @@ feature_row4:
     height: "450"
     title: "Fiona Sander"
     excerpt: 'Fiona obtained her BEng in Composite Engineering in Germany being funded by a scholarship of Airbus Operations GmbH in 2017. She then finished her MSc at Imperial College London Materials Science and Engineering. She is currently doing a PhD funded by the Materials Department of Imperial College  in the field of Liquid Crystal Elastomers.'
-    btn_class: "btn--light-outline"
+    btn_class: "btn--primary"
 feature_row5:
   - url: https://FionaSander.github.io/softnanolab/theteam/kaiye/
     image_path: /assets/images/kaiye_resized.jpg
@@ -52,7 +52,7 @@ feature_row5:
     title: "Kaiye Xie"
     excerpt: 'Kaiye received his bachelor degree in Polymeric Materials Science, then continues his Msc study in Imperial College, under supervision of Dr. Stefano Angioletti-Uberti. Currently he is doing PhD in the same group, with the topic of simulating nanocomposite bioadhesives.'
     btn_label: "More about my projects"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--primary"
 feature_row6:
   - url: https://FionaSander.github.io/softnanolab/theteam/william/
     image_path: /assets/images/will_resized.jpg
@@ -62,7 +62,7 @@ feature_row6:
     title: "William Morton"
     excerpt: 'William is currently doing his MSc in Materials Science and Engineering at Imperial College London focussing on xxx. In October he will start a PhD also at Imperial College London.'
     btn_label: "More about my projects"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--primary"
 feature_row7:
   - url: https://FionaSander.github.io/softnanolab/theteam/shuang/
     image_path: /assets/images/shuang_resized.jpg
@@ -74,7 +74,7 @@ feature_row7:
     height: "450"
     excerpt: 'Shuang is doing an MSc in Materials Science and Engineering at Imperial College London.'
     btn_label: "More about my projects"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--primary"
 feature_row8:
   - url: https://FionaSander.github.io/softnanolab/theteam/yeong/
     image_path: /assets/images/lucas_resized.jpg
@@ -84,7 +84,7 @@ feature_row8:
     title: "Yuong Kim (Lucas) Ung"
     excerpt: 'Lucas is doing an MSc in Materials Science and Engineering at Imperial College London.'
     btn_label: "More about my projects"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--primary"
 feature_row9:
   - url: https://FionaSander.github.io/softnanolab/theteam/jan/
     image_path: /assets/images/jan_resized.jpg
@@ -94,7 +94,7 @@ feature_row9:
     title: "Jan Kraszewski"
     excerpt: 'Jan is doing an MSc in Materials Science and Engineering at Imperial College London.'
     btn_label: "More about my projects"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--primary"
 feature_row10:
   - url: https://FionaSander.github.io/softnanolab/theteam/jan/
     image_path: /assets/images/jan_resized.jpg
@@ -104,7 +104,7 @@ feature_row10:
     title: "Sotiris Samatas"
     excerpt: 'Sotiris is doing a PhD.'
     btn_label: "More about my projects"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--primary"
 feature_row11:
   - url: https://FionaSander.github.io/softnanolab/theteam/jan/
     image_path: /assets/images/jan_resized.jpg
@@ -114,7 +114,7 @@ feature_row11:
     title: "Mohamed Abdelbar"
     excerpt: 'Mohamedis doing a PhD.'
     btn_label: "More about my projects"
-    btn_class: "btn--light-outline"
+    btn_class: "btn--primary"
 ---
 # The Team
 
