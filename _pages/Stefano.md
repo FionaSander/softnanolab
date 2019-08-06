@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: home
 permalink: theteam/stefano/
-author_profile: true
+author_profile: false
 sidebar:
   - title: ""
     image: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
