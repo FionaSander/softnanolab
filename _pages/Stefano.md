@@ -1,5 +1,6 @@
 ---
 layout: archive
+classes: wide
 permalink: theteam/stefano/
 author_profile: false
 sidebar:
