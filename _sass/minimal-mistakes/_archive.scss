@@ -131,7 +131,7 @@
     /* extend grid elements to the right */
 
     @include breakpoint($large) {
-      margin-right: -0.5 * $right-sidebar-width-narrow;
+      margin-right: -1 * $right-sidebar-width-narrow;
     }
 
     @include breakpoint($x-large) {
@@ -145,7 +145,7 @@
 
   @include breakpoint($small) {
     float: left;
-    width: span(5 of 10);
+    width: span(7 of 10);
 
     &:nth-child(2n + 1) {
       clear: both;
