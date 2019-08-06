@@ -1,6 +1,5 @@
 ---
-layout: single
-classes: wide
+layout: home
 permalink: theteam/stefano/
 author_profile: false
 sidebar:
