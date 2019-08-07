@@ -11,6 +11,24 @@ feature_row:
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: "assets/images/clay2.png"
     alt: "blabla"
+feature_row3:
+  - image_path: /assets/images/clay_particles.jpg 
+    alt: "Clay"
+    title: "Clay"
+    excerpt: "what is this about"
+    url: https://fionasander.github.io/softnanolab/research/
+    btn_class: "btn--light-outline"
+  - image_path: /assets/images/forwebpage.png
+    alt: "Hydrogel"
+    title: "Hydrogel"
+    excerpt: "what is this about"
+    url: https://fionasander.github.io/softnanolab/research/
+    btn_class: "btn--light-outline"
+  - image_path: /assets/images/chitinrods.jpeg
+    title: "Liquid crystals"
+    excerpt: "what is this about"
+    url: https://fionasander.github.io/softnanolab/research/
+    btn_class: "btn--light-outline"
 ---
 
 
@@ -25,6 +43,6 @@ This research aims to improve the understanding of the response of clay to appli
 
 
 
-{% include feature_row id="feature_row" layout="half" caption="This is a half gallery layout example." %}
+{% include feature_row id="feature_row3" layout="half" caption="This is a half gallery layout example." %}
 
 
