@@ -1,7 +1,8 @@
 ---
 title: "SoftNanoLab"
 layout: single
-class: wide
+classes: wide
+date: today
 permalink: /
   overlay_color: "#000"
   overlay_filter: "0.5"
