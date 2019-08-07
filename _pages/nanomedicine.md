@@ -1,7 +1,7 @@
 ---
 title: "Nanomedicine"
 layout: single
-permalink: nanomedicine/
+permalink: research/nanomedicine/
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
