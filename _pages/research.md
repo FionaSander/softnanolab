@@ -32,7 +32,7 @@ feature_row3:
 ---
 
 
-
+{% include feature_row id="feature_row2" type="left" %}
 
 ### Fundamental Analysis of the Influence of Structure on Clay Behaviour
 
@@ -42,7 +42,5 @@ Clay is the most abundant type of soil on the Earth’s surface. According to th
 This research aims to improve the understanding of the response of clay to applied loads and deformations by explicitly simulating the interactions between three-dimensional clay particles using the Molecular Dynamics (MD) technique. In this project, clay particles are represented by flat ellipsoids interacting via the Gay-Berne (GB) potential (modified form of the Lennard-Jones potential for aspherical particles).
 
 
-
-{% include feature_row id="feature_row3" layout="half" caption="This is a half gallery layout example." %}
 
 
