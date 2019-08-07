@@ -24,18 +24,18 @@ feature_row3:
     alt: "Nanomedicine"
     title: "Nanomedicine"
     excerpt: "what is this about"
-    url: https://fionasander.github.io/softnanolab/research/
+    url: https://fionasander.github.io/softnanolab/research/nanomedicine/
     btn_class: "btn--light-outline"
   - image_path: /assets/images/clay_particles.jpg 
     alt: "Tunable self-assembly and bio-inspired materials"
     title: "Tunable self-assembly and bio-inspired materials"
     excerpt: "what is this about"
-    url: https://fionasander.github.io/softnanolab/research/
+    url: https://fionasander.github.io/softnanolab/research/bioinspiredmaterials/
     btn_class: "btn--light-outline"
   - image_path: /assets/images/nanoreactor.png
     title: "Other main collaborations"
     excerpt: "what is this about"
-    url: https://fionasander.github.io/softnanolab/research/
+    url: https://fionasander.github.io/softnanolab/research/collaborations/
     btn_class: "btn--light-outline"
 ---
 
