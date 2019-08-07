@@ -1,7 +1,7 @@
 ---
 title: "Collaborations"
 layout: single
-permalink: collaborations/
+permalink: research/collaborations/
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
