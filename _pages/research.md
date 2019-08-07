@@ -1,9 +1,9 @@
 ---
 title: "Research"
-layout: home
+layout: archive
 classes: wide
 permalink: research/
-gallery:
+feature_row:
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: "assets/images/clay1.png"
     cpation: "nice one"
@@ -25,6 +25,6 @@ This research aims to improve the understanding of the response of clay to appli
 
 
 
-{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
+{% include feature_row id="feature_row" layout="half" caption="This is a half gallery layout example." %}
 
 
