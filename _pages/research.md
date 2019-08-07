@@ -1,8 +1,16 @@
 ---
 title: "Research"
-layout: splash
+layout: archive
 classes: wide
 permalink: research/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/opal.jpg
+  caption: ""
+excerpt: ""
+intro: 
+  - excerpt: ''
 feature_row:
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: "assets/images/clay1.png"
