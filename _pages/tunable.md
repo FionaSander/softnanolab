@@ -1,7 +1,7 @@
 ---
 title: "Tunable self-assembly and bioinspired materials"
 layout: single
-permalink: bioinspiredmaterials/
+permalink: research/bioinspiredmaterials/
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
