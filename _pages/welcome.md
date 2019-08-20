@@ -66,9 +66,11 @@ feature_row5:
   - url: https://fionasander.github.io/softnanolab/research/
     btn_label: "Read more about our exciting projects on the research page"
     btn_class: "btn"
-
+feature_row6:
+  - image_path: "/assets/images/IMG_1733.jpeg"
+    excerpt: 'Congratulations to Kaiye and Fiona who graduated from the MSc in Advanced Materials Science and Engineering at Imperial College and continue doing PhDs in the SoftNanoLab group.'
 ---
-
+   
 
 {% include feature_row id="intro" type="center" %}
 
@@ -81,5 +83,14 @@ So-called 'Soft Matter' encompasses a wide range of systems, from nanoparticles 
 
 
 {% include feature_row id="feature_row2" type="left" %}
+
+---
+# News
+
+## 08/05/2019 
+{% include feature_row id="feature_row" type="right" %}
+
+
+---
 
 
