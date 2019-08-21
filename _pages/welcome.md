@@ -68,7 +68,7 @@ feature_row5:
     btn_class: "btn"
 feature_row6:
   - image_path: "/assets/images/IMG_1733.jpeg"
-    excerpt: 'Congratulations to Kaiye and Fiona who graduated from the MSc in Advanced Materials Science and Engineering at Imperial College and continue doing PhDs in the SoftNanoLab group.'
+    excerpt: '<strong>Congratulations to Kaiye and Fiona who graduated from the MSc in Advanced Materials Science and Engineering at Imperial College and continue doing PhDs in the SoftNanoLab group. - 08/05/2019'
     
 ---
    
@@ -88,7 +88,6 @@ So-called 'Soft Matter' encompasses a wide range of systems, from nanoparticles 
 ---
 # News
 
-## 08/05/2019 
 {% include feature_row id="feature_row6" type="right" %}
 
 
