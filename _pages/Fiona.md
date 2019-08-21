@@ -1,6 +1,6 @@
 ---
 title: "Fiona Sander"
-layout: single
+layout: home
 classes: wide
 permalink: theteam/fiona/
 author_profile: false
