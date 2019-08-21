@@ -6,7 +6,7 @@ permalink: theteam/fiona/
 author_profile: false
 sidebar:
   - title: "title"
-    image: assets/images/debesh.jpeg
+    image: assets/images/fiona_resized.jpg
     text: "text"
 
 ---
