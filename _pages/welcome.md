@@ -68,7 +68,7 @@ feature_row5:
     btn_class: "btn"
 feature_row6:
   - image_path: "/assets/images/IMG_1733.jpeg"
-    excerpt: '<<strong> Congratulations to Kaiye and Fiona> 
+    excerpt: '<strong> Congratulations to Kaiye and Fiona</strong>
   who graduated from the MSc in Advanced Materials Science and Engineering at Imperial College and continue doing PhDs in the SoftNanoLab group. - 08/05/2019'
     
 ---
