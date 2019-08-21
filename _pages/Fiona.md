@@ -11,8 +11,6 @@ sidebar:
 
 ---
 
-# Fiona Sander
-
 PhD student in the field of Liquid Crystal Polymer materials for sensoring applications
 ## Current Projects and Research
 ---
