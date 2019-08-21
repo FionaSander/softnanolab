@@ -10,8 +10,6 @@ sidebar:
     text: "text"
 ---
 
-# Mohamed Abdelbar
-
 PhD student 
 ## Current Projects and Research
 ---
