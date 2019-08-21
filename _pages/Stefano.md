@@ -8,7 +8,6 @@ sidebar:
     image: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     text: ""
 ---
-# Dr. Stefano Angioletti-Uberti
 
 Lecturer in Theory and Simulation of Materials
 ## Current Projects and Research
