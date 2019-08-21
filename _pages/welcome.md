@@ -31,11 +31,9 @@ gallery:
     excerpt: "This is also quite cool."
 feature_row2:
   - image_path: "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
-    image_caption: 'Video of the month: <a href="https://fionasander.github.io/softnanolab/research/">Gold nanoparticle</a> simulation blablabla by <a href="https://fionasander.github.io/softnanolab/theteam/william/">William Morton</a>'
+    image_caption: 'Video of the month: <a href="https://fionasander.github.io/softnanolab/research/">Gold nanoparticle</a> simulation blablabla - <small><em> by <a href="https://fionasander.github.io/softnanolab/theteam/william/">William Morton</a> </small></small>'
     excerpt: ''
     url: "#test-link"
-    btn_label: ""
-    btn_class: "btn--info"
 feature_row3:
   - image_path: /assets/images/clay_particles.jpg 
     alt: "Clay"
