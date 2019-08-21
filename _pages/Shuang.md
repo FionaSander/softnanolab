@@ -10,8 +10,6 @@ sidebar:
     text: "text"
 ---
 
-# Shuang xx
-
 MSc Student
 ## Current Projects and Research
 ---
