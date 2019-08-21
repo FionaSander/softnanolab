@@ -10,8 +10,6 @@ sidebar:
     text: "text"
 ---
 
-# Debesh Mandal
-
 PhD student 
 ## Current Projects and Research
 ---
