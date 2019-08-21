@@ -12,7 +12,19 @@ gallery:
     image_path: /assets/images/Kaiye_project.png
 ---
 
-Kaiyes research and stuff
+# Kaiye Xie
 
+PhD student 
+## Current Projects and Research
+---
 
 {% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
+
+## Publications
+---
+
+## Awards
+---
+
+
+
