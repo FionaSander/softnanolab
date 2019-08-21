@@ -69,7 +69,7 @@ feature_row5:
 feature_row6:
   - image_path: "/assets/images/IMG_1733.jpeg"
     excerpt: '<strong> Congratulations to Kaiye and Fiona</strong>
-  who graduated from the MSc in Advanced Materials Science and Engineering at Imperial College and continue doing PhDs in the SoftNanoLab group. <small><em>- 08/05/2019</em></small>'
+  who graduated from the MSc in Advanced Materials Science and Engineering at Imperial College and continue doing PhDs in the SoftNanoLab group. <small><em>- 08th May 2019</em></small>'
     
 ---
    
@@ -78,7 +78,7 @@ feature_row6:
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/group_picture_resized.jpeg){: .align-left} 
 So-called 'Soft Matter' encompasses a wide range of systems, from nanoparticles to proteins, from membranes to synthetic polymers. In general, soft materials are highly responsive and their behaviour can be tuned by changing their local environment. At the SoftNanoLab, we are interested in using a combination of theory, computer simulations and experiments to unravel the design principles that allow to obtain a specific response, tayloring it towards a specific application. From systems that can selectively deliver drugs only to specific targets to polymers-based biosensors that change colour upon the presence of certain molecules, from nanoreactors that can enhance specific reactions to polymers that can glue tissues together, our group is willing to push the boundaries of materials science to discover the materials of tomorrow.
-{% include feature_row id="feature_row5" %}
+<a href="https://fionasander.github.io/softnanolab/research/">Read more about our exciting projects on the research page</a>
 {% include figure image_path="/assets/images/imagesforwebsite2.eps" %}
 
 
