@@ -84,7 +84,7 @@ So-called 'Soft Matter' encompasses a wide range of systems, from nanoparticles 
 
 
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="center" %}
 
 ---
 # News
