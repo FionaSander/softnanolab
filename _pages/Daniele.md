@@ -9,3 +9,16 @@ sidebar:
     image: assets/images/Danielevisco.jpeg
     text: "text"
 ---
+
+# Daniele Visco
+
+PhD Student in the Department of Chemistry
+## Current Projects and Research
+---
+
+
+## Publications
+---
+
+## Awards
+---
