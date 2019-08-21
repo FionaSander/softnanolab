@@ -9,3 +9,15 @@ sidebar:
     image: assets/images/yeong_resized.jpg
     text: "text"
 ---
+
+# Yeong Ung (Lucas) Kim
+
+MEng student
+## Current Projects and Research
+---
+
+## Publications
+---
+
+## Awards
+---
