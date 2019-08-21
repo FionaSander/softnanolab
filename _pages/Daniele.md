@@ -10,8 +10,6 @@ sidebar:
     text: "text"
 ---
 
-# Daniele Visco
-
 PhD Student in the Department of Chemistry
 ## Current Projects and Research
 ---
