@@ -98,7 +98,7 @@ feature_row9:
     btn_label: "More about my projects"
     btn_class: "btn--primary btn--small"
 feature_row10:
-  - url: https://FionaSander.github.io/softnanolab/theteam/jan/
+  - url: https://FionaSander.github.io/softnanolab/theteam/sotiris/
     image_path: /assets/images/jan_resized.jpg
     alt: "Sotiris Samatas"
     width: "450" 
@@ -108,13 +108,23 @@ feature_row10:
     btn_label: "More about my projects"
     btn_class: "btn--primary btn--small"
 feature_row11:
-  - url: https://FionaSander.github.io/softnanolab/theteam/jan/
+  - url: https://FionaSander.github.io/softnanolab/theteam/mohamed/
     image_path: /assets/images/jan_resized.jpg
     alt: "Mohamed Abdelbar"
     width: "450" 
     height: "450"
     title: "Mohamed Abdelbar"
-    excerpt: 'Mohamedis doing a PhD.'
+    excerpt: 'Mohamed is doing a PhD.'
+    btn_label: "More about my projects"
+    btn_class: "btn--primary btn--small"
+feature_row12:
+  - url: https://FionaSander.github.io/softnanolab/theteam/daniele/
+    image_path: /assets/images/Danielevisco.jpeg
+    alt: "Daniele Visco"
+    width: "450" 
+    height: "450"
+    title: "Daniele is doing something else."
+    excerpt: 'Daniele is doing something else.'
     btn_label: "More about my projects"
     btn_class: "btn--primary btn--small"
 ---
@@ -131,6 +141,7 @@ feature_row11:
 {% include feature_row id="feature_row5" type="left" %}
 {% include feature_row id="feature_row10" type="left" %}
 {% include feature_row id="feature_row11" type="left" %}
+{% include feature_row id="feature_row12" type="left" %}
 
 # MSc Students
 
