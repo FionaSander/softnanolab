@@ -5,6 +5,9 @@ classes: wide
 permalink: theteam/fiona/
 author_profile: false
 sidebar:
+  - title: "title"
+    image: assets/images/debesh.jpeg
+    text: "text"
 
 ---
 
