@@ -12,8 +12,6 @@ gallery:
     image_path: /assets/images/Kaiye_project.png
 ---
 
-# Kaiye Xie
-
 PhD student 
 ## Current Projects and Research
 ---
