@@ -10,8 +10,6 @@ sidebar:
     text: "text"
 ---
 
-# Yeong Ung (Lucas) Kim
-
 MEng student
 ## Current Projects and Research
 ---
