@@ -10,8 +10,6 @@ sidebar:
     text: "text"
 ---
 
-# Sotiris Samatas
-
 PhD student 
 ## Current Projects and Research
 ---
