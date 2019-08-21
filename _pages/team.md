@@ -118,7 +118,7 @@ feature_row11:
     btn_label: "More about my projects"
     btn_class: "btn--primary btn--small"
 feature_row12:
-  - url: https://FionaSander.github.io/softnanolab/theteam/sotiris/
+  - url: https://FionaSander.github.io/softnanolab/theteam/daniele/
     image_path: /assets/images/Danielevisco.jpeg
     alt: "Daniele Visco"
     width: "450" 
