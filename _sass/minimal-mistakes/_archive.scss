@@ -237,13 +237,13 @@
   font-size: 1.125em;
 
   @include breakpoint($small) {
-    float: center;
+    float: left;
     margin-bottom: 0;
     width: span(10 of 12);
 
     &:nth-child(3n + 1) {
       clear: both;
-      margin-left: 0;
+      margin-left: 20px;
     }
 
     &:nth-child(3n + 2) {
