@@ -17,8 +17,6 @@ gallery:
     alt: "blabla"
 ---
 
-# Sara Bandera
-
 PhD student
 Started: October 2017
 Supervisors: Prof. Catherine O’Sullivan, Dr. Stefano Angioletti-Uberti, Dr. Paul Tangney
