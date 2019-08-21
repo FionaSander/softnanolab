@@ -13,7 +13,6 @@ feature_row:
    - caption: "nanoparticle"
    - width: 400px 
 ---
-# William Morton
 
 MSc student
 ## Current Projects and Research
