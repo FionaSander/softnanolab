@@ -9,3 +9,15 @@ sidebar:
     image: assets/images/jan_resized.jpg
     text: "text"
 ---
+
+# Jan xx
+
+MEng student
+## Current Projects and Research
+---
+
+## Publications
+---
+
+## Awards
+---
