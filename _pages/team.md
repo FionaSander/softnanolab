@@ -22,7 +22,7 @@ feature_row2:
     width: "450" 
     height: "450"
     title: "Debesh Mandal"
-    excerpt: 'Debesh started his PhD in the Department of Materials in 2017 after finishing his MEnd degree in Materials Science and Engineering also in the Materials Departmen of Imperial College. He is working on his project in collaboration with Theoni Georgiou. The aim of his project is the investigation of the use of cationic star polymers as gene delivery vectors.'
+    excerpt: 'Debesh started his PhD in the Department of Materials in 2017 after finishing his MEnd degree in Materials Science and Engineering also in the Materials Departmen of Imperial College. The aim of his project is the investigation of the use of cationic star polymers as gene delivery vectors.'
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 feature_row3:
@@ -34,7 +34,7 @@ feature_row3:
     title: "Sara Bandera"
     excerpt: 'Sara is currently doing her PhD in Geotechnical Engineering. She obtained her Laurea Magistrale in Civil Enginnering in 2017 at Università di Pavia. Her research project is focussing on the analysis of the influence of structure on clay behaviour for which she is using a Molecular Dynamics approach.'
     btn_label: "More about my projects"
-    btn_class: "btn--primary btn--small"
+    btn_class: "btn--inverse btn--small"
 feature_row4:
   - url: https://FionaSander.github.io/softnanolab/theteam/fiona/
     image_path: /assets/images/fiona_resized.jpg
@@ -42,9 +42,9 @@ feature_row4:
     width: "450" 
     height: "450"
     title: "Fiona Sander"
-    excerpt: 'Fiona started her PhD in the Materials Department of Imperial College after finishing her MSc in Advanced Material Science and Engineering also at Imperial College London. From 2013 to 2017 she obtained her BEng in Composite Materials Engineering in Germany while being funded by a 4 year scholarship of Airbus Operations GmbH. She is currently  wokring on liquid crystal elastomers and their use for molecular sensoring.'
+    excerpt: 'Fiona started her PhD in the Materials Department of Imperial College after finishing her MSc in Advanced Material Science and Engineering also at Imperial College London. From 2013 to 2017 she obtained her BEng in Composite Materials Engineering in Germany while being funded by a 4 year scholarship of Airbus Operations GmbH. She is currently  working on liquid crystal elastomers and their use for molecular sensoring.'
     btn_label: "More about my projects"
-    btn_class: "btn--primary btn--small"
+    btn_class: "btn--inverse btn--small"
 feature_row5:
   - url: https://FionaSander.github.io/softnanolab/theteam/kaiye/
     image_path: /assets/images/kaiye_resized.jpg
@@ -52,9 +52,9 @@ feature_row5:
     width: "450" 
     height: "450"
     title: "Kaiye Xie"
-    excerpt: 'Kaiye received his bachelor degree in Polymeric Materials Science, then continues his Msc study in Imperial College, under supervision of Dr. Stefano Angioletti-Uberti. Currently he is doing PhD in the same group, with the topic of simulating nanocomposite bioadhesives.'
+    excerpt: 'Kaiye is doing his PhD in the Materials Department concentrating on the simulation of nanocomposite bioadhesives. Before starting his PhD in 2018 he received his bachelor degree in Polymeric Materials Science from the Beijing University of Chemical Technology and then continued his studies at Imperial College in the frame of the MSc in Advanced Materials Science and Engineering.'
     btn_label: "More about my projects"
-    btn_class: "btn--primary btn--small"
+    btn_class: "btn--inverse btn--small"
 feature_row6:
   - url: https://FionaSander.github.io/softnanolab/theteam/william/
     image_path: /assets/images/will_resized.jpg
@@ -62,9 +62,9 @@ feature_row6:
     width: "450" 
     height: "450"
     title: "William Morton"
-    excerpt: 'William is currently doing his MSc in Materials Science and Engineering at Imperial College London focussing on xxx. In October he will start a PhD also at Imperial College London.'
+    excerpt: 'William is currently doing his MSc in Materials Science and Engineering at Imperial College London focussing on xxx. he received his BSc from xxx. In October he will start a PhD also at Imperial College London within the group of Dr Fang Xie.'
     btn_label: "More about my projects"
-    btn_class: "btn--primary btn--small"
+    btn_class: "btn--inverse btn--small"
 feature_row7:
   - url: https://FionaSander.github.io/softnanolab/theteam/shuang/
     image_path: /assets/images/shuang_resized.jpg
@@ -74,9 +74,9 @@ feature_row7:
     title: "Shuang Zhao"
     width: "450" 
     height: "450"
-    excerpt: 'Shuang is doing an MSc in Materials Science and Engineering at Imperial College London.'
+    excerpt: 'Shuang is doing an MSc in Materials Science and Engineering at Imperial College London. Before this she received her BSc in xxx from xxx in 2018.'
     btn_label: "More about my projects"
-    btn_class: "btn--primary btn--small"
+    btn_class: "btn--inverse btn--small"
 feature_row8:
   - url: https://FionaSander.github.io/softnanolab/theteam/yeong/
     image_path: /assets/images/lucas_resized.jpg
@@ -84,9 +84,9 @@ feature_row8:
     width: "450" 
     height: "450"
     title: "Yuong Kim (Lucas) Ung"
-    excerpt: 'Lucas is doing an MSc in Materials Science and Engineering at Imperial College London.'
+    excerpt: 'Lucas did his MEng final year project in Materials Science and Engineering within the SoftNanoLab group. The focus of his work was on xxx.'
     btn_label: "More about my projects"
-    btn_class: "btn--primary btn--small"
+    btn_class: "btn--inverse btn--small"
 feature_row9:
   - url: https://FionaSander.github.io/softnanolab/theteam/jan/
     image_path: /assets/images/jan_resized.jpg
@@ -94,9 +94,9 @@ feature_row9:
     width: "450" 
     height: "450"
     title: "Jan Kraszewski"
-    excerpt: 'Jan is doing an MSc in Materials Science and Engineering at Imperial College London.'
+    excerpt: 'Jan finished his MEng Materials Science and Engineering final year project within the SoftNanoLab group. He worked on xxx.'
     btn_label: "More about my projects"
-    btn_class: "btn--primary btn--small"
+    btn_class: "btn--inverse btn--small"
 feature_row10:
   - url: https://FionaSander.github.io/softnanolab/theteam/sotiris/
     image_path: /assets/images/jan_resized.jpg
@@ -104,9 +104,9 @@ feature_row10:
     width: "450" 
     height: "450"
     title: "Sotiris Samatas"
-    excerpt: 'Sotiris is doing a PhD.'
+    excerpt: 'Sotiris is starting his PhD in the SoftNanoLab group in October as part of his CDT in Theory and Simulation of Materials at Imperial College.'
     btn_label: "More about my projects"
-    btn_class: "btn--primary btn--small"
+    btn_class: "btn--inverse btn--small"
 feature_row11:
   - url: https://FionaSander.github.io/softnanolab/theteam/mohamed/
     image_path: /assets/images/jan_resized.jpg
@@ -116,17 +116,17 @@ feature_row11:
     title: "Mohamed Abdelbar"
     excerpt: 'Mohamed is doing a PhD.'
     btn_label: "More about my projects"
-    btn_class: "btn--primary btn--small"
+    btn_class: "btn--inverse btn--small"
 feature_row12:
   - url: https://FionaSander.github.io/softnanolab/theteam/daniele/
     image_path: /assets/images/Danielevisco.jpeg
     alt: "Daniele Visco"
     width: "450" 
     height: "450"
-    title: "Daniele is doing something else."
-    excerpt: 'Daniele is doing something else.'
+    title: "Daniele Visco"
+    excerpt: 'Daniele is currently doing an MRes within the Institute for Molecular Science and Engineering. Previously he obtained his degree on Materials Engineering from Politecnico di Milano. He will start his PhD within the SoftNanoLab in October on the theory of targeted drug delivery.'
     btn_label: "More about my projects"
-    btn_class: "btn--primary btn--small"
+    btn_class: "btn--inverse btn--small"
 ---
 
 {% include feature_row id="intro" type="center" %}
