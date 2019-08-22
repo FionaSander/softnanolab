@@ -11,7 +11,7 @@ feature_row:
     image_path: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     alt: "Dr. Stefano Angioletti-Uberti"
     title: "Dr. Stefano Angioletti-Uberti"
-    excerpt: "BSc and MSc in Materials Science at Universita' degli Studi di Milano-Bicocca. PhD at Imperial College London in Materials Science. From 2010 to 2013 Research Asscoiate at Univeristy of Cambridge working on development of theory and simulations to describe DNA-coated colloids and their self-assembly. Alexander-vom-Humboldt Fellow at Hemholtz Zentrum Berlin from 2013 to 2015 in development of theoretical models for protein adsorption on nanoparticles and describtion of kinetic processes in nanoreactors. 2015 to present Professor for Soft Matter at Beijing University of Chemical Technology. 2016 to present Lecturer for Theory and Simulation of Materials at Imperial College London."
+    excerpt: "Since 2016 Stefano is holding the position of Lecturer for Theory and Simulation of Materials at Imperial College London. He recieved his BSc and MSc in Materials Science from Universita' degli Studi di Milano-Bicocca in Milano and continued with a PhD at Imperial College London also in Materials Science. From 2010 to 2013 he then worked as a Research Asscoiate at Univeristy of Cambridge working on development of theory and simulations to describe DNA-coated colloids and their self-assembly. From 2013 to 2015 he got awarded an Alexander-vom-Humboldt Fellowship and worked at the Hemholtz Zentrum Berlin on the development of theoretical models for protein adsorption on nanoparticles and describtion of kinetic processes in nanoreactors. Since 2015 Stefano also holds a Professorship for Soft Matter at Beijing University of Chemical Technology."
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
     btn_size: "btn--small"
@@ -22,9 +22,9 @@ feature_row2:
     width: "450" 
     height: "450"
     title: "Debesh Mandal"
-    excerpt: 'Currently PhD Student in the Department of Materials working on xxx. He obtained his MEng in Materials Science and Engineering at Imperial College in 2017. '
+    excerpt: 'Debesh started his PhD in the Department of Materials in 2017 after finishing his MEnd degree in Materials Science and Engineering also in the Materials Departmen of Imperial College. He is working on his project in collaboration with Theoni Georgiou. The aim of his project is the investigation of the use of cationic star polymers as gene delivery vectors.'
     btn_label: "More about my projects"
-    btn_class: "btn--primary btn--small"
+    btn_class: "btn--inverse btn--small"
 feature_row3:
   - url: https://FionaSander.github.io/softnanolab/theteam/sara/
     image_path: /assets/images/Sara_profile_picture.jpg
@@ -32,7 +32,7 @@ feature_row3:
     width: "450" 
     height: "450"
     title: "Sara Bandera"
-    excerpt: 'Sara is currently doing her PhD in Geotechnical Engineering. She obtained her Laurea Magistrale in Civil Enginnering in 2017 at Università di Pavia.'
+    excerpt: 'Sara is currently doing her PhD in Geotechnical Engineering. She obtained her Laurea Magistrale in Civil Enginnering in 2017 at Università di Pavia. Her research project is focussing on the analysis of the influence of structure on clay behaviour for which she is using a Molecular Dynamics approach.'
     btn_label: "More about my projects"
     btn_class: "btn--primary btn--small"
 feature_row4:
@@ -42,7 +42,7 @@ feature_row4:
     width: "450" 
     height: "450"
     title: "Fiona Sander"
-    excerpt: 'Fiona obtained her BEng in Composite Engineering in Germany being funded by a scholarship of Airbus Operations GmbH in 2017. She then finished her MSc at Imperial College London Materials Science and Engineering. She is currently doing a PhD funded by the Materials Department of Imperial College  in the field of Liquid Crystal Elastomers.'
+    excerpt: 'Fiona started her PhD in the Materials Department of Imperial College after finishing her MSc in Advanced Material Science and Engineering also at Imperial College London. From 2013 to 2017 she obtained her BEng in Composite Materials Engineering in Germany while being funded by a 4 year scholarship of Airbus Operations GmbH. She is currently  wokring on liquid crystal elastomers and their use for molecular sensoring.'
     btn_label: "More about my projects"
     btn_class: "btn--primary btn--small"
 feature_row5:
