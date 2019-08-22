@@ -91,7 +91,7 @@ feature_row7:
 # News
 
 {% include feature_row id="feature_row6" type="right" %}
-{% include feature_row id="feature_row7" type="left" %}
+{% include feature_row id="feature_row7" type="center" %}
 
 ---
 
