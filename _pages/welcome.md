@@ -93,6 +93,9 @@ feature_row7:
 {% include feature_row id="feature_row6" type="right" %}
 {% include feature_row id="feature_row7" type="center" %}
 
+<p><strong> Congratulations to Lucas and Jan</strong>
+  who finished their MEng in Materials Science. <small> <em>- 01st April 2019</em> </small></p>
+
 ---
 
 
