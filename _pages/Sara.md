@@ -32,7 +32,7 @@ gallery:
     </div>
 </div>  
 
-<p class="tab"> PhD student in Geotechnical Engineering since 2017 <br />
+<p style="margin-left: 40px> PhD student in Geotechnical Engineering since 2017 <br />
     
   <strong>Supervisors:</strong> Prof. Catherine O’Sullivan, Dr. Stefano Angioletti-Uberti, Dr. Paul Tangney <br />
   
