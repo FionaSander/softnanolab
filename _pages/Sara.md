@@ -1,7 +1,7 @@
 ---
 title: "Sara Bandera"
 layout: home
-class: wide
+classes: wide
 permalink: theteam/sara/
 author_profile: false
 sidebar:
@@ -31,6 +31,15 @@ gallery:
 </blockquote>
     </div>
 </div>  
+
+<p class="tab"> PhD student in Geotechnical Engineering since 2017 <br />
+    
+  <strong>Supervisors:</strong> Prof. Catherine O’Sullivan, Dr. Stefano Angioletti-Uberti, Dr. Paul Tangney <br />
+  
+  
+   <strong>Funding:</strong> The Leverhulme Trust <br />
+  </p>
+
 
 
 
