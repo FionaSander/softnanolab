@@ -11,10 +11,10 @@ header:
   caption: ""
 excerpt: "Soft Matter Nanotechnology Laboratory at Imperial College London"
 intro: 
-  - excerpt: '<p style="text-align:justify;"> So-called "Soft Matter" encompasses a wide range of systems, from nanoparticles to proteins, from membranes to synthetic polymers. In general, soft materials are highly responsive and their behaviour can be tuned by changing their local environment. At the SoftNanoLab, we are interested in using a combination of theory, computer simulations and experiments to unravel the design principles that allow to obtain a specific response, tayloring it towards a specific application. From systems that can selectively deliver drugs only to specific targets to polymers-based biosensors that change colour upon the presence of certain molecules, from nanoreactors that can enhance specific reactions to polymers that can glue tissues together, our group is willing to push the boundaries of materials science to discover the materials of tomorrow. </p>'
+  - excerpt: '<small><p style="text-align:justify;"> So-called "Soft Matter" encompasses a wide range of systems, from nanoparticles to proteins, from membranes to synthetic polymers. In general, soft materials are highly responsive and their behaviour can be tuned by changing their local environment. At the SoftNanoLab, we are interested in using a combination of theory, computer simulations and experiments to unravel the design principles that allow to obtain a specific response, tayloring it towards a specific application. From systems that can selectively deliver drugs only to specific targets to polymers-based biosensors that change colour upon the presence of certain molecules, from nanoreactors that can enhance specific reactions to polymers that can glue tissues together, our group is willing to push the boundaries of materials science to discover the materials of tomorrow. </p></small>'
     url: https://fionasander.github.io/softnanolab/research/
     btn_label: "Read more about our exciting projects on the research page"
-    btn_class: "btn--inverse btn--small"
+    btn_class: "btn--inverse"
 gallery:
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: /assets/images/star.png
