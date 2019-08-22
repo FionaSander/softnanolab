@@ -18,6 +18,22 @@ gallery:
     alt: "blabla"
 ---
 
+  <div style="text-align: center;">
+    <div style="display: inline-block; text-align: left;">
+<blockquote title="Blockquote title">
+  <p> PhD student in Geotechnical Engineering since 2017 <br />
+    
+  <strong>Supervisors:</strong> Prof. Catherine O’Sullivan, Dr. Stefano Angioletti-Uberti, Dr. Paul Tangney <br />
+  
+  
+   <strong>Funding:</strong> The Leverhulme Trust <br />
+  </p>
+</blockquote>
+    </div>
+</div>  
+
+
+
 PhD student
 Started: October 2017
 Supervisors: Prof. Catherine O’Sullivan, Dr. Stefano Angioletti-Uberti, Dr. Paul Tangney
