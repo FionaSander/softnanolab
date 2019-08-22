@@ -1,6 +1,7 @@
 ---
 title: "Sara Bandera"
 layout: home
+class: wide
 permalink: theteam/sara/
 author_profile: false
 sidebar:
