@@ -71,8 +71,7 @@ feature_row6:
     excerpt: '<strong> Congratulations to Kaiye and Fiona</strong>
   who graduated from the MSc in Advanced Materials Science and Engineering at Imperial College and continue doing PhDs in the SoftNanoLab group. <small> <em>- 08th May 2019</em> </small>'
 feature_row7:
-  - image_path: "/assets/images/IMG_1733.jpeg"
-    excerpt: '<strong> Congratulations to Lucas and Jan</strong>
+  - excerpt: '<strong> Congratulations to Lucas and Jan</strong>
   who finished their MEng in Materials Science. <small> <em>- 01st April 2019</em> </small>'
     
 ---
