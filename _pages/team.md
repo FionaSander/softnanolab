@@ -104,7 +104,7 @@ feature_row10:
     width: "450" 
     height: "450"
     title: "Sotiris Samatas"
-    excerpt: 'Sotiris is starting his PhD in the SoftNanoLab group in October as part of his CDT in Theory and Simulation of Materials at Imperial College.'
+    excerpt: 'Sotiris is currently a PhD at the University of Barcelona and will join us in October to work on the theory of protein cross-linking of hairs.'
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 feature_row11:
@@ -114,7 +114,7 @@ feature_row11:
     width: "450" 
     height: "450"
     title: "Mohamed Abdelbar"
-    excerpt: 'Mohamed is doing a PhD.'
+    excerpt: 'Mohamed is starting his PhD in the SoftNanoLab group in October as part of his CDT in Theory and Simulation of Materials at Imperial College. '
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 feature_row12:
@@ -124,7 +124,7 @@ feature_row12:
     width: "450" 
     height: "450"
     title: "Daniele Visco"
-    excerpt: 'Daniele is currently doing an MRes within the Institute for Molecular Science and Engineering. Previously he obtained his degree on Materials Engineering from Politecnico di Milano. He will start his PhD within the SoftNanoLab in October on the theory of targeted drug delivery.'
+    excerpt: 'Daniele is currently doing an MRes within the Institute for Molecular Science and Engineering. Previously he obtained his degree on Materials Engineering from Politecnico di Milano. He will start his PhD on the theory of targeted drug delivery within the SoftNanoLab in October.'
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 ---
