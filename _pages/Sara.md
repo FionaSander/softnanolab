@@ -5,9 +5,9 @@ classes: wide
 permalink: theteam/sara/
 author_profile: false
 sidebar:
-  - title: "title"
+  - title: ""
     image: assets/images/Sara_profile_picture.jpg
-    text: "text"
+    text: ""
 gallery:
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: "assets/images/clay1.png"
