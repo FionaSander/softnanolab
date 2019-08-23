@@ -10,13 +10,7 @@ sidebar:
     text: "text"
 ---
 
-PhD Student in the Department of Chemistry
-## Current Projects and Research
----
-
-
-## Publications
----
-
-## Awards
----
+<p style="margin-left: 40px"> MRes Student in the Department of Chemistry since 2018 <br /> 
+    
+  <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti <br />
+  
