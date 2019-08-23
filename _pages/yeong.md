@@ -10,12 +10,7 @@ sidebar:
     text: "text"
 ---
 
-MEng student
-## Current Projects and Research
----
-
-## Publications
----
-
-## Awards
----
+<p style="margin-left: 40px"> MEng student in Materials Science since 2015 <br /> 
+    
+  <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti <br />
+  
