@@ -85,8 +85,6 @@ feature_row7:
 
 
 
-{% include feature_row id="feature_row2" type="center" %}
-
 ---
 # News
 
