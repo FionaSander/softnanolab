@@ -66,8 +66,7 @@ feature_row6:
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 feature_row7:
-  - url: https://FionaSander.github.io/softnanolab/theteam/shuang/
-    image_path: /assets/images/shuang_resized.jpg
+-   image_path: /assets/images/shuang_resized.jpg
     width: "450" 
     height: "450"
     alt: "Shuang Zhao"
@@ -78,8 +77,7 @@ feature_row7:
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 feature_row8:
-  - url: https://FionaSander.github.io/softnanolab/theteam/yeong/
-    image_path: /assets/images/lucas_resized.jpg
+  - image_path: /assets/images/lucas_resized.jpg
     alt: "Yuong Kim Ung"
     width: "450" 
     height: "450"
@@ -88,8 +86,7 @@ feature_row8:
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 feature_row9:
-  - url: https://FionaSander.github.io/softnanolab/theteam/jan/
-    image_path: /assets/images/jan_resized.jpg
+  - image_path: /assets/images/jan_resized.jpg
     alt: "Jan Kraszewski"
     width: "450" 
     height: "450"
