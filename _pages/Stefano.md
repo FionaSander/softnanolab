@@ -11,9 +11,6 @@ sidebar:
 
 # Dr Stefano Angioletti-Uberti
 
-## Current Projects and Research
-
-
 <p style="margin-left: 40px"> Lecturer in Theory and Simulation of Materials at Imperial College London <br /> 
     
   Professor for Soft Matter at Beijing University of Chemical Technology  <br />
