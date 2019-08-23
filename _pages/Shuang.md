@@ -10,12 +10,8 @@ sidebar:
     text: "text"
 ---
 
-MSc Student
-## Current Projects and Research
----
+<p style="margin-left: 40px"> MSc student in Materials Science since 2018 <br /> 
+    
+  <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti<br />
+  
 
-## Publications
----
-
-## Awards
----
