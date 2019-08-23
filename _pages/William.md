@@ -1,5 +1,6 @@
 ---
-layout: single
+title: "William Morton"
+layout: home
 classes: wide
 permalink: theteam/william/
 author_profile: false
