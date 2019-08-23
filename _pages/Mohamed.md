@@ -9,13 +9,8 @@ sidebar:
     image: assets/images/jan_resized.jpg
     text: "text"
 ---
+<p style="margin-left: 40px"> MSc student in Materials Science since 2018 <br /> 
+    
+  <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti <br />
+  
 
-PhD student 
-## Current Projects and Research
----
-
-## Publications
----
-
-## Awards
----
