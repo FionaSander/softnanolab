@@ -1,5 +1,6 @@
 ---
-layout: archive
+title: "Dr. Stefano Angioletti-Uberti"
+layout: home
 classes: wide
 permalink: theteam/stefano/
 author_profile: false
@@ -8,8 +9,6 @@ sidebar:
     image: assets/images/Dr Stefano Angioletti-Uberti 002 - Nov 2016-1.jpg
     text: ""
 ---
-
-# Dr Stefano Angioletti-Uberti
 
 <p style="margin-left: 40px"> Lecturer in Theory and Simulation of Materials at Imperial College London <br /> 
     
