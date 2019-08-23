@@ -12,17 +12,13 @@ gallery:
     image_path: /assets/images/Kaiye_project.png
 ---
 
-PhD student 
+<p style="margin-left: 40px"> PhD student in Materials Science since 2018 <br /> 
+    
+  <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti <br />
+  
+  </p>
 ## Current Projects and Research
----
-
-{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
-
-## Publications
----
-
-## Awards
----
+<p style="margin-left: 40px" align="justify">  <strong>Simulation of nanocomposite bioadhesives</strong> <br /> </p>
 
 
 
