@@ -11,13 +11,15 @@ sidebar:
 
 ---
 
-PhD student in the field of Liquid Crystal Polymer materials for sensoring applications
+<p style="margin-left: 40px"> PhD student in Materials Science since January 2019 <br /> 
+    
+  <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti, Dr. Theoni K. Georgiou <br />
+  
+  
+   <strong>Funding:</strong> Department of Materials Imperial College London Scholarship <br />
+  </p>
 ## Current Projects and Research
----
-
-## Publications
----
-
-## Awards
----
-
+<p style="margin-left: 40px" align="justify">  <strong>Liquid Crystal Elastomers for molecular sensoring applications</strong> <br /> As their name suggests Liquid Crystal Elastomers combine properties of both liquid crystals and elastomers resulting in unique properties which offer possible application in fields ranging from soft robotics and medical applications to highly sensitive sensors. Liquid crystals show changes of optical properties even upon small changes in their environment which makes them highly relevant for use in sensors. In combination with elastomers completely new mechanical properties arise which enable mechanical actuation upon certain stimuli with neglectable energy cost amplyfying extremely small changes to a macroscopic level. 
+  
+  
+  The project is focussing on the use of stimuli-responsive polymers in combination with the liquid crystals which are also highly stimuli rsponsive to factors such as temperature or pH change. In the literature only a small range of different polymers and possible combination of liquid crystal and polymer responsitivity has been explored. Therefore the exploration of the use of responsive polymers in combination with liquid crystals is of high interest whereas a focus is laid upon molecular sensoring in order to detect specific molecules. This can be of high interest for example in analysis of water qualities in an easy, fast and affordable manner which could help ensuring access to clean water also in remote areas.  </p>
