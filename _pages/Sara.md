@@ -8,14 +8,6 @@ sidebar:
   - title: ""
     image: assets/images/Sara_profile_picture.jpg
     text: ""
-gallery:
-  - url: https://fionasander.github.io/softnanolab/research/
-    image_path: "assets/images/clay1.png"
-    cpation: "nice one"
-    excerpt: "This is very interesting."
-  - url: https://fionasander.github.io/softnanolab/research/
-    image_path: "assets/images/clay2.png"
-    alt: "blabla"
 ---
 
 <p style="margin-left: 40px"> PhD student in Geotechnical Engineering since 2017 <br /> 
