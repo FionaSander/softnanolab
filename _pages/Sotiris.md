@@ -10,12 +10,11 @@ sidebar:
     text: "text"
 ---
 
-PhD student 
+<p style="margin-left: 40px"> PhD student in Materials Science from October 2019 <br /> 
+    
+  <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti <br />
+  
+  </p>
 ## Current Projects and Research
----
+<p style="margin-left: 40px" align="justify">  <strong> Simulation of cross-linking between proteins in hair</strong> <br />   </p>
 
-## Publications
----
-
-## Awards
----
