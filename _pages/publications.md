@@ -15,7 +15,7 @@ intro:
 ---
 
 ## 2019
-   * S. Bandera , C. O’Sullivan , S. Angioletti-Uberti, P. Tangney, 2019, An evaluation of contact models for particle-scale simulation of clay, ISSN: 2555-0403
+   * S. Bandera , C. O’Sullivan , S. Angioletti-Uberti, P. Tangney <a> href="https://www.e3s-conferences.org/articles/e3sconf/abs/2019/18/e3sconf_isg2019_14001/e3sconf_isg2019_14001.html" <q>An evaluation of contact models for particle-scale simulation of clay</q></a> <strong> E3S Web of Conferences, 92 (2019), 14001 </strong>, An evaluation of contact models for particle-scale simulation of clay, ISSN: 2555-0403
    * Mitchell P, Tommasone S, Angioletti-Uberti S, Bowen J, Mendes PMet al., Precise generation of selective surface-confined glycoprotein recognition sites, ACS Applied Bio Materials, ISSN: 2576-6422
    * Angioletti-Uberti S, 2019, Understanding the Self-Assembly of DNA-Coated Colloids via Theory and Simulations, Frontiers of Nanoscience, Pages: 87-123
    * Moncho-Jordá A, Germán-Bellod A, Angioletti-Uberti S, Adroher-Benítez I, Dzubiella Jet al., 2019, Nonequilibrium uptake kinetics of molecular cargo into hollow hydrogels tuned by electrosteric interactions, ACS Nano, Vol: 13, Pages: 1603-1616, ISSN: 
