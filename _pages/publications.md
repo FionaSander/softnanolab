@@ -15,7 +15,7 @@ intro:
 ---
 * <p style="font-size:19px">
  S. Bandera , C. O’Sullivan , S. Angioletti-Uberti, P. Tangney <q><a href="https://www.e3s-conferences.org/articles/e3sconf/abs/2019/18/e3sconf_isg2019_14001/e3sconf_isg2019_14001.html">An evaluation of contact models for particle-scale simulation of clay</a></q> <strong> E3S Web of Conferences, 92 (2019), 14001 </strong>, ISSN: 2555-0403
-* P. Mitchell, S. Tommasone, S. Angioletti-Uberti, J. Bowen,P.M. Mendes et al.  <q><a href="https://pubs.acs.org/doi/10.1021/acsabm.9b00289">Precise generation of selective surface-confined glycoprotein recognition sites</a></q>  , <strong>ACS Applied Bio Materials</strong>, ISSN: 2576-6422
+* <p style="font-size:19px"> P. Mitchell, S. Tommasone, S. Angioletti-Uberti, J. Bowen,P.M. Mendes et al.  <q><a href="https://pubs.acs.org/doi/10.1021/acsabm.9b00289">Precise generation of selective surface-confined glycoprotein recognition sites</a></q>  , <strong>ACS Applied Bio Materials</strong>, ISSN: 2576-6422
 * Angioletti-Uberti S, 2019, Understanding the Self-Assembly of DNA-Coated Colloids via Theory and Simulations, Frontiers of Nanoscience, Pages: 87-123
 * Moncho-Jordá A, Germán-Bellod A, Angioletti-Uberti S, Adroher-Benítez I, Dzubiella Jet al., 2019, Nonequilibrium uptake kinetics of molecular cargo into hollow hydrogels tuned by electrosteric interactions, <strong>ACS Nano</strong>, Vol: 13, Pages: 1603-1616, ISSN: 
 * Xu X, Angioletti-Uberti S, Lu Y, Dzubiella J, Ballauff Met al., 2018, Interaction of proteins with polyelectrolytes: comparison of theory to experiment, <strong>Langmuir</strong>, ISSN: 0743-7463
@@ -36,7 +36,7 @@ intro:
 * Angioletti-Uberti S, Varilly P, Mognetti BM, Frenkel Det al., 2014, Mobile Linkers on DNA-Coated Colloids: Valency without Patches, <strong>Physical Review Letters</strong>, Vol: 113, ISSN: 1079-7114
 * bf Angioletti-Uberti BS, Ballauff M, Dzubiella J, 2014, Dynamic density functional theory of protein adsorption on polymer coated nanoparticles, <strong>Soft Matter</strong>, Vol: 10, Pages: 7932-7945, ISSN: 1744-683X
 * Martinez-Veracoechea FJ, Mognetti BM, Angioletti-Uberti S, Varilly P, Frenkel D, Dobnikar Jet al., 2014, Designing stimulus-sensitive colloidal walkers, <strong>Soft Matter</strong>, Vol: 10, Pages: 3463-3470, ISSN: 1744-6848
-* Wei Q, Becherer T, bf Angioletti-Uberti BS, Dzubiella J, Wischke C, Neffe AT, Lendlein A, Ballauff M, Haag Ret al., 2014, “Protein Interactions with Polymer Surfaces and Biomaterials”, <strong> Angewandte Chemie International Edition </strong>, Vol: 53, Pages: 8004-8031 </p>
+* Wei Q, Becherer T, bf Angioletti-Uberti BS, Dzubiella J, Wischke C, Neffe AT, Lendlein A, Ballauff M, Haag Ret al., 2014, “Protein Interactions with Polymer Surfaces and Biomaterials”, <strong> Angewandte Chemie International Edition </strong>, Vol: 53, Pages: 8004-8031 
 
 
 
