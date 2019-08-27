@@ -5,9 +5,9 @@ classes: wide
 permalink: theteam/daniele/
 author_profile: false
 sidebar:
-  - title: "title"
+  - title: ""
     image: assets/images/Danielevisco.jpeg
-    text: "text"
+    text: ""
 ---
 
 <p style="margin-left: 40px"> MRes Student in the Department of Chemistry since 2018 <br /> 
