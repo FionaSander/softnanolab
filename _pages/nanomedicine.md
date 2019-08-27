@@ -11,7 +11,7 @@ excerpt: ""
 intro: 
   - excerpt: ''
 feature_row:
-  - image_path: "/assets/images/IMG_1733.jpeg"
+  - image_path: "/assets/images/Kaiye_project.png"
 ---
 
    * Theory of multivalent interactions and applications to targeted drug delivery ( S.A-U, Daniele Visco. Collaborators: Prof. Giuseppe Battaglia, UCL; Prof. Bortolo Mognetti, Free University of Bruxelles )
