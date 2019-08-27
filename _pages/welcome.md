@@ -11,10 +11,9 @@ header:
   caption: ""
 excerpt: "Soft Matter Nanotechnology Laboratory at Imperial College London"
 intro: 
-  - excerpt: '<p style="text-align:justify;"> So-called <strong>"Soft Matter"</strong> encompasses a wide range of systems, from <strong>nanoparticles to proteins, from membranes to synthetic polymers</strong>. In general, soft materials are <strong>highly responsive</strong> and their behaviour can be tuned by changing their local environment. At the SoftNanoLab, we are interested in using <strong>a combination of theory, computer simulations and experiments</strong> to unravel the design principles that allow to obtain a specific response, tayloring it towards a specific application. From nanoparticles that can <strong>selectively deliver drugs only to specific targets</strong> to polymers-based <strong>biosensors that change colour upon the presence of certain molecules</strong> or <strong>glues for biological tissues</strong>, our group is willing to push the boundaries of materials science to discover the materials of tomorrow. </p>'
-    url: https://fionasander.github.io/softnanolab/research/
-    btn_label: "Read more about our projects on the research page"
-    btn_class: "btn"
+  - excerpt: '<p style="text-align:justify;"> So-called <strong>"Soft Matter"</strong> encompasses a wide range of systems, from <strong>nanoparticles to proteins, from membranes to synthetic polymers</strong>. In general, soft materials are <strong>highly responsive</strong> and their behaviour can be tuned by changing their local environment. At the SoftNanoLab, we are interested in using <strong>a combination of theory, computer simulations and experiments</strong> to unravel the design principles that allow to obtain a specific response, tayloring it towards a specific application. From nanoparticles that can <strong>selectively deliver drugs only to specific targets</strong> to polymers-based <strong>biosensors that change colour upon the presence of certain molecules</strong> or <strong>glues for biological tissues</strong>, our group is willing to push the boundaries of materials science to discover the materials of tomorrow. <br /> <br />
+<a href="https://fionasander.github.io/softnanolab/research/"> Read more about our projects on the research page... </a>
+</p>'
 gallery:
   - url: https://fionasander.github.io/softnanolab/research/
     image_path: /assets/images/star.png
