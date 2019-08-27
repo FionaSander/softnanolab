@@ -17,7 +17,7 @@ feature_row:
 ---
 * <p style="font-size:19px"> <strong> Theory of multivalent interactions and applications to targeted drug delivery </strong> <em>(S.A-U, Daniele Visco. Collaborators: Prof. Giuseppe Battaglia, UCL; Prof. Bortolo Mognetti, Free University of Bruxelles)</em></p>
 
-<p style="font-size:19px; margin-left: 40px"> bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+<p style="font-size:19px; margin-left: 40px"> bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla</p>
   
 * <p style="font-size:19px"> <strong> Nanoparticles and polymers as bioglues</strong> <em>(S. A-U, Kaiye Xie, William Morton. Collaborators: Nicola Molinari SEAS, Harvard University)</em></p>
 
