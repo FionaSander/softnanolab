@@ -106,7 +106,7 @@ feature_row10:
     btn_class: "btn--inverse btn--small"
 feature_row11:
   - url: https://FionaSander.github.io/softnanolab/theteam/mohamed/
-    image_path: /assets/images/jan_resized.jpg
+    image_path: /assets/images/jan_resize.jpg
     alt: "Mohamed Abdelbar"
     width: "450" 
     height: "450"
