@@ -81,7 +81,7 @@ feature_row7:
 
 {% include figure image_path="assets/images/imagesforwebsite_210819_2.eps" %}
 
-
+<img src="{{ site.url }}{{ site.baseurl }}assets/images/imagesforwebsite_210819_2.eps" alt="" class="full">
 
 ---
 # News
