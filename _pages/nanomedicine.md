@@ -20,7 +20,7 @@ feature_row:
 * <p style="font-size:19px"> Nanoparticles and polymers as bioglues <em>(Members: S. A-U, Kaiye Xie, William Morton. Collaborators: Nicola Molinari SEAS, Harvard University)</em></p>
 * <p style="font-size:19px"> Biosensing and DNA detection <em>(S.A-U. collaborators: Alexis Belessiotis, Materials; Dr. Lorenzo Di Michele, Department of Chemistry @ Imperial; Dr. Roberta Lanfranco, Department of Chemistry @ University of Cambridge)</em></p>
 * <p style="font-size:19px"> Cationic polymers for gene delivery <em>(S. A-U, Debesh Mandal)</em></p>
-* <p style="font-size:19px"> Modelling Hydrogels degradation <em>(S.A-U. Debesh Mandal. Collaborators: Prof. Rafael Roa, University of Malaga)<em></p>
+* <p style="font-size:19px"> Modelling Hydrogels degradation <em>(S.A-U. Debesh Mandal. Collaborators: Prof. Rafael Roa, University of Malaga)<em>
 
 {% include feature_row id="feature_row" type= "center" %}
 
