@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layout: single
+layout: splash
 classes: wide
 permalink: publications/
 date: today
