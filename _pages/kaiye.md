@@ -18,7 +18,7 @@ gallery:
   
   </p>
 ## Current Projects and Research
-<p style="margin-left: 40px" align="justify">  <strong>Simulation of nanocomposite bioadhesives</strong> <br /> </p>
+<p style="margin-left: 40px" align="justify">  <a href="https://fionasander.github.io/softnanolab/research/nanomedicine/"><strong>Simulation of nanocomposite bioadhesives</strong> </a> <br /> </p>
 
 
 
