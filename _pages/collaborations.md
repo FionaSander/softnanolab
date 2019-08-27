@@ -1,6 +1,6 @@
 ---
 title: "Collaborations"
-layout: splash
+layout: single
 classes: wide
 permalink: research/collaborations/
 header:
