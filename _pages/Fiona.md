@@ -5,9 +5,9 @@ classes: wide
 permalink: theteam/fiona/
 author_profile: false
 sidebar:
-  - title: "title"
+  - title: ""
     image: assets/images/fiona_resized.jpg
-    text: "text"
+    text: ""
 
 ---
 
