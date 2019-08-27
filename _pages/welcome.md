@@ -1,6 +1,6 @@
 ---
 title: "SoftNanoLab"
-layout: splash
+layout: single
 classes: wide
 permalink: /
 date: today
