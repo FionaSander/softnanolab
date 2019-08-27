@@ -5,9 +5,9 @@ classes: wide
 permalink: theteam/sotiris/
 author_profile: false
 sidebar:
-  - title: "title"
+  - title: ""
     image: assets/images/jan_resized.jpg
-    text: "text"
+    text: ""
 ---
 
 <p style="margin-left: 40px"> PhD student in Materials Science from October 2019 <br /> 
