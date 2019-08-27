@@ -18,14 +18,14 @@ header:
   <div style="text-align: center;">
     <div style="display: inline-block; text-align: left;">
 <blockquote title="Blockquote title">
-  <p> <strong>Email:</strong> <a href="mailto:sangiole@imperial.ac.uk" style="text-decoration:none;">s.angioletti-uberti07@imperial.ac.uk</span></a> <br />
+  <p> <strong>Email:</strong> <a href="mailto:sangiole@imperial.ac.uk"> s.angioletti-uberti07@imperial.ac.uk </a> <br />
     
   <strong>Phone:</strong> +44 (0)20 7594 7351 <br />
   
   
    <strong>Adress:</strong> Imperial College London, South Kensington Campus, London SW7 2AZ <br />
    
-   <strong>Personal website:</strong> <a href="https://www.imperial.ac.uk/people/s.angioletti-uberti07" style="text-decoration:none;"><span style="color:blue">www.imperial.ac.uk/people/s.angioletti-uberti07</span></a>
+   <strong>Personal website:</strong> <a href="https://www.imperial.ac.uk/people/s.angioletti-uberti07">www.imperial.ac.uk/people/s.angioletti-uberti07</a>
   </p>
 </blockquote>
     </div>
