@@ -11,7 +11,7 @@ header:
 
 ---
 
-## Applications from researchers and prospective postgraduate students are always welcome and can be submitted via email. 
+## Applications from researchers and prospective postgraduate students are always welcome and  <br /> can be submitted via email. 
 {: .text-center}
 
   
