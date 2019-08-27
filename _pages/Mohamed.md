@@ -5,9 +5,9 @@ classes: wide
 permalink: theteam/mohamed/
 author_profile: false
 sidebar:
-  - title: "title"
+  - title: ""
     image: assets/images/jan_resized.jpg
-    text: "text"
+    text: ""
 ---
 <p style="margin-left: 40px"> MSc student in Materials Science since 2018 <br /> 
     
