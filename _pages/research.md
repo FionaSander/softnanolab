@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: archive
+layout: splash
 classes: wide
 permalink: research/
 header:
