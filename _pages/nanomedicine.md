@@ -15,8 +15,6 @@ feature_row:
   - image_path: "/assets/images/Kaiye_project.png"
   - excerpt: '<p style="font-size:14px"> Simulation of the use of starpolymers for bioglues <em> (by Kaiye Xie) </em></p>'
 ---
-## Topics of research in the field of Nanomedicine
-
 * <p style="font-size:19px"> Theory of multivalent interactions and applications to targeted drug delivery <em>(S.A-U, Daniele Visco. Collaborators: Prof. Giuseppe Battaglia, UCL; Prof. Bortolo Mognetti, Free University of Bruxelles)</em></p>
 * <p style="font-size:19px"> Nanoparticles and polymers as bioglues <em>(Members: S. A-U, Kaiye Xie, William Morton. Collaborators: Nicola Molinari SEAS, Harvard University)</em></p>
 * <p style="font-size:19px"> Biosensing and DNA detection <em>(S.A-U. collaborators: Alexis Belessiotis, Materials; Dr. Lorenzo Di Michele, Department of Chemistry @ Imperial; Dr. Roberta Lanfranco, Department of Chemistry @ University of Cambridge)</em></p>
