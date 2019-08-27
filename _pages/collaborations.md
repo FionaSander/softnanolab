@@ -11,7 +11,7 @@ excerpt: ""
 intro: 
   - excerpt: ''
 feature_row:
-  - image_path: "/assets/images/protein_adsorption"
+  - image_path: "/assets/images/protein_adsorption.png"
   - excerpt: '<p style="font-size:14px"> Hard-core PMMA nanoparticle coated with a cross-linked polymer network of PNIPAM immersed in a protein solution (green and red spheres) <em>(by Stefano Angioletti-Uberti)</em></p>'
 ---
 
