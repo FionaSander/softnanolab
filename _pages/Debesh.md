@@ -16,5 +16,5 @@ sidebar:
   
   </p>
 ## Current Projects and Research
-<p style="margin-left: 40px" align="justify">  <strong>Researching cationic star polymers for gene delivery</strong> <br /> The project aims to interlink computer simulations with laboratory experiments to design star polymers with enhanced transfection efficiency. Finally, machine learning techniques will be used to predict the behaviour of these materials to further streamline the design process.  </p>
+<p style="margin-left: 40px" align="justify"> <a href="https://fionasander.github.io/softnanolab/research/nanomedicine/">  <strong>Researching cationic star polymers for gene delivery</strong> </a> <br /> The project aims to interlink computer simulations with laboratory experiments to design star polymers with enhanced transfection efficiency. Finally, machine learning techniques will be used to predict the behaviour of these materials to further streamline the design process.  </p>
 
