@@ -1,6 +1,7 @@
 ---
 title: "Tunable self-assembly and bioinspired materials"
 layout: single
+classes: wide
 permalink: research/bioinspiredmaterials/
 header:
   overlay_color: "#000"
@@ -18,7 +19,7 @@ feature_row:
 
 * <p style="font-size:19px"> Tuning the transition of liquid crystal elastomers (S.A-U, Fiona Sander. Collaborators: Dr. Theoni Georgiou, Materials)</p>
 * <p style="font-size:19px"> Design principles for low-friction polymer brushes as a synthetic analogue of cartilage (S.A-U, Mohamed Abdelbar, Shuang Zhao)</p>
-* <p style="font-size:19px"> How do proteins cross link hairs? (S.A-U, Sotiris. Collaborators: Prof. Daniele Dini, Mech Eng)</p>
+* <p style="font-size:19px"> How do proteins cross-link hairs? (S.A-U, Sotiris. Collaborators: Prof. Daniele Dini, Mech Eng)</p>
 * <p style="font-size:19px"> Linking the self-assembly of clays to texture and mechanical properties (S.A-U, Sara Bandera. Collaborators: Prof. Catherine O’Sullivan, Civil Engineering; Dr. Paul Tangney, Materials)</p>
 
 {% include feature_row id="feature_row" type= "center" %}
