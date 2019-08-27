@@ -13,7 +13,7 @@ intro:
   - excerpt: ''
 feature_row:
   - image_path: "/assets/images/Kaiye_project.png"
-  - excerpt: '<p style="font-size:12px"> Simulation of the use of starpolymers for bioglues <em> (by Kaiye Xie) </em></p>'
+  - excerpt: '<p style="font-size:14px"> Simulation of the use of starpolymers for bioglues <em> (by Kaiye Xie) </em></p>'
 ---
 ## Topics of research in the field of Nanomedicine
 
