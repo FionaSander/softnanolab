@@ -79,8 +79,7 @@ feature_row7:
 {% include feature_row id="intro" type= "center" %}
 
 
-{% include figure image_path="softnanolab/assets/images/imagesforwebsite_210819_2.eps" %}
-
+{% include figure image_path="assets/images/imagesforwebsite_210819_2.eps" %}
 
 
 
