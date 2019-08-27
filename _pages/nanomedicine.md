@@ -1,6 +1,6 @@
 ---
 title: "Nanomedicine"
-layout: splash
+layout: single
 classes: wide
 permalink: research/nanomedicine/
 header:
