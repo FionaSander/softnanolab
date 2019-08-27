@@ -5,9 +5,9 @@ classes: wide
 permalink: theteam/debesh/
 author_profile: false
 sidebar:
-  - title: "title"
+  - title: ""
     image: assets/images/debesh.jpeg
-    text: "text"
+    text: ""
 ---
 
 <p style="margin-left: 40px"> PhD student in Materials Science since 2017 <br /> 
