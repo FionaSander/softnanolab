@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Recent Publications"
 layout: splash
 permalink: publications/
 date: today
