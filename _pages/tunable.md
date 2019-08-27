@@ -1,6 +1,6 @@
 ---
 title: "Tunable self-assembly and bioinspired materials"
-layout: splash
+layout: single
 classes: wide
 permalink: research/bioinspiredmaterials/
 header:
