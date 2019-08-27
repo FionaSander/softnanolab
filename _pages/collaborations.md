@@ -1,6 +1,7 @@
 ---
 title: "Collaborations"
 layout: single
+classes: wide
 permalink: research/collaborations/
 header:
   overlay_color: "#000"
