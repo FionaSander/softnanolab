@@ -20,6 +20,6 @@ feature_row:
 * Cationic polymers for gene delivery ( S. A-U, Debesh Mandal )
 * Modelling Hydrogels degradation  ( S.A-U. Debesh Mandal. Collaborators: Prof. Rafael Roa, University of Malaga)
 
-{% include feature_row id="intro" type= "center" %}
+{% include feature_row id="feature_row" type= "center" %}
 
 
