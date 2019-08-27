@@ -16,7 +16,7 @@ feature_row:
   - excerpt: '<p style="font-size:14px"> Simulation of the use of starpolymers for bioglues <em> (by Kaiye Xie) </em></p>'
 ---
 * <p style="font-size:19px"> <strong> Theory of multivalent interactions and applications to targeted drug delivery </strong> <em>(S.A-U, Daniele Visco. Collaborators: Prof. Giuseppe Battaglia, UCL; Prof. Bortolo Mognetti, Free University of Bruxelles)</em></p>
-      *
+      * bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 * <p style="font-size:19px"> <strong> Nanoparticles and polymers as bioglues</strong> <em>(S. A-U, Kaiye Xie, William Morton. Collaborators: Nicola Molinari SEAS, Harvard University)</em></p>
       *
 * <p style="font-size:19px"> <strong> Biosensing and DNA detection</strong> <em>(S.A-U. collaborators: Alexis Belessiotis, Materials; Dr. Lorenzo Di Michele, Department of Chemistry @ Imperial; Dr. Roberta Lanfranco, Department of Chemistry @ University of Cambridge)</em></p>
