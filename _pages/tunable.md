@@ -15,8 +15,6 @@ feature_row:
   - image_path: "/assets/images/clay_sarabandera.eps"
   - excerpt: '<p style="font-size:14px"> Simulation of self-assembly of clay particles(represented by flat ellipsoids) interacting via the Gay-Berne potential <em>(by Sara Bandera)</em></p>'
 ---
-## Topics of research from bioinspired materials to tunable self-assembly processes
-
 * <p style="font-size:19px"> Tuning the transition of liquid crystal elastomers (S.A-U, Fiona Sander. Collaborators: Dr. Theoni Georgiou, Materials)</p>
 * <p style="font-size:19px"> Design principles for low-friction polymer brushes as a synthetic analogue of cartilage (S.A-U, Mohamed Abdelbar, Shuang Zhao)</p>
 * <p style="font-size:19px"> How do proteins cross-link hairs? (S.A-U, Sotiris Samatas. Collaborators: Prof. Daniele Dini, Mech. Eng.)</p>
