@@ -4,9 +4,9 @@ layout: home
 permalink: theteam/kaiye/
 author_profile: false
 sidebar:
-  - title: "title"
+  - title: ""
     image: assets/images/kaiye_resized.jpg
-    text: "text"
+    text: ""
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/Kaiye_project.png
@@ -14,7 +14,7 @@ gallery:
 
 <p style="margin-left: 40px"> PhD student in Materials Science since 2018 <br /> 
     
-  <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti <br />
+  <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti, Dr. Theoni Georgiou <br />
   
   </p>
 ## Current Projects and Research
