@@ -12,6 +12,7 @@ intro:
   - excerpt: ''
 ---
 
-* Kinetics of catalysis in polymer-based nanoreactors ( S.A-U, with Prof. Joachim Dzubiella, University of Freiburg; Prof. Rafael Roa, University of Malaga; Prof. Francesco Piazza, University of Orleans; Prof. Michael Ballauff, Humboldt University of Berlin)
-* Release kinetics of drugs from nanoparticles ( S.A-U, with Prof. Joachim Dzubiella, University of Freiburg; Prof. Arturo Moncho, University of Granada; Prof. Francesco Piazza, University of Orleans)
-* Protein adsorption on nanoparticles and surfaces ( S.A-U, with Prof. Joachim Dzubiella, University of Freiburg; Prof. Michael Ballauff, Humboldt University of Berlin)
+* <p style="font-size:19px"> Kinetics of catalysis in polymer-based nanoreactors <em>(S.A-U, with Prof. Joachim Dzubiella, University of Freiburg; Prof. Rafael Roa, University of Malaga; Prof. Francesco Piazza, University of Orleans; Prof. Michael Ballauff, Humboldt University of Berlin)</em></p>
+* <p style="font-size:19px"> Release kinetics of drugs from nanoparticles <em>(S.A-U, with Prof. Joachim Dzubiella, University of Freiburg; Prof. Arturo Moncho, University of Granada; Prof. Francesco Piazza, University of Orleans)</em></p>
+* <p style="font-size:19px"> Protein adsorption on nanoparticles and surfaces <em>(S.A-U, with Prof. Joachim Dzubiella, University of Freiburg; Prof. Michael Ballauff, Humboldt University of Berlin)</em></p>
+
