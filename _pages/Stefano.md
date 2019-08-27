@@ -28,8 +28,3 @@ Most recent publications:
 * <p style="font-size:19px"> Moncho-Jordá A, Germán-Bellod A, Angioletti-Uberti S, Adroher-Benítez I, Dzubiella Jet al. <q><a href="https://pubs.acs.org/doi/10.1021/acsnano.8b07609">Nonequilibrium uptake kinetics of molecular cargo into hollow hydrogels tuned by electrosteric interactions</a></q>, <strong>ACS Nano 13 (2019), 2</strong>, 1603-1616
 * <p style="font-size:19px"> Xu X, Angioletti-Uberti S, Lu Y, Dzubiella J, Ballauff Met al. <q><a href="https://www.ncbi.nlm.nih.gov/pubmed/30095921">Interaction of proteins with polyelectrolytes: comparison of theory to experiment</a></q>, <strong>Langmuir 35 (2019), 16 </strong>, 5373-5391, ISSN: 0743-7463
 * <p style="font-size:19px"> <a href="https://fionasander.github.io/softnanolab/publications/"> see more publications... </a>
-
-
-
-## Awards
-
