@@ -84,7 +84,7 @@ feature_row8:
 
 <img src="assets/images/imagesforwebsite210819_2.png" alt="" width="100%" height="auto">
 
-<p style="font-size:14px"> left:xxxx right: (upper image) xxx; (lower image) xxx. </p>
+<p style="font-size:12px"> left:xxxx right: (upper image) xxx; (lower image) xxx. </p>
 
 
 
