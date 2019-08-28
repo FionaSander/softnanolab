@@ -79,7 +79,7 @@ feature_row7:
 {% include feature_row id="intro" type= "center" %}
 
 
-<img src="assets/images/imagesforwebsite_210819_2.eps" alt="" width="100%">
+<img src="assets/images/imagesforwebsite_210819_2.eps" alt="" width="100%" height="auto">
 
 ---
 # News
