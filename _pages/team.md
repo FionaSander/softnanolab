@@ -176,4 +176,5 @@ feature_row12:
 <figure>
   <img src="assets/images/jan_resized.jpg" alt="Jan Kraszewski" width="25%" height="auto" >
   <img src="assets/images/lucas_resized.jpg" alt="Yuong Kim (Lucas) Ung" width="25%" height="auto" >
+  <img src="assets/images/imagesforwebsite210819_2.png" alt="" width="100%" height="auto">
 </figure>
