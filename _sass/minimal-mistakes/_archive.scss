@@ -405,7 +405,7 @@
   &--four {
     position: relative;
     margin-bottom: 2em;
-    font-size: 1.125em;
+    font-size: 1em;
 
      @include breakpoint($small) {
       float: left;
