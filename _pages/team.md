@@ -172,7 +172,7 @@ feature_row12:
 
 # Alumni
 
-
+{% include feature_row id="feature_row8" type="four" %}
 
 <div>  <img src="/softnanolab/assets/images/jan_resized.jpg" caption="Jan Kraszewski" style="text-align:center;" alt="Jan Kraszewski" width="25%" height="auto"> Jan </div>
 <div>  <img src="/softnanolab/assets/images/lucas_resized.jpg" caption="Yuong Kim (Lucas) Ung" alt="Yuong Kim (Lucas) Ung" width="25%" height="auto" > Lucas </div>
