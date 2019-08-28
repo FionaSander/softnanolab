@@ -65,6 +65,16 @@ feature_row6:
     excerpt: 'William is currently doing his MSc in Materials Science and Engineering at Imperial College London focussing on xxx. he received his BSc from xxx. In October he will start a PhD also at Imperial College London within the group of Dr Fang Xie.'
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
+-   image_path: /assets/images/shuang_resized.jpg
+    width: "450" 
+    height: "450"
+    alt: "Shuang Zhao"
+    title: "Shuang Zhao"
+    width: "450" 
+    height: "450"
+    excerpt: 'Shuang is doing an MSc in Materials Science and Engineering at Imperial College London. Before this she received her BSc in xxx from xxx in 2018.'
+    btn_label: "More about my projects"
+    btn_class: "btn--inverse btn--small"
 feature_row7:
 -   image_path: /assets/images/shuang_resized.jpg
     width: "450" 
@@ -148,14 +158,17 @@ feature_row12:
 {% include feature_row id="feature_row11" type="left" %}
 {% include feature_row id="feature_row12" type="left" %}
 
-# MSc Students
 
 
-{% include feature_row id="feature_row6" type="left" %}
-{% include feature_row id="feature_row7" type="left" %}
 
 # Alumni
 
 ## Former MEng Students
 
 {% include feature_row id="feature_row8" type="four" %}
+
+## Former MSc Students
+
+{% include feature_row id="feature_row6" type="four" %}
+
+
