@@ -11,8 +11,6 @@ sidebar:
 ---
 
 <p style="margin-left: 40px"> Lecturer in Theory and Simulation of Materials at Imperial College London <br /> 
-    
-  Professor for Soft Matter at Beijing University of Chemical Technology  <br />
   
   </p>
 ## Current Projects and Research
