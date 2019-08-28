@@ -86,6 +86,8 @@ feature_row7:
 #responsive-image {  width: 100%;  height: auto; } 
 <img src="assets/images/imagesforwebsite_210819_2.eps" id="responsive-image"> 
 
+<img src="assets/images/imagesforwebsite_210819_2.eps" alt="" width="100%">
+
 ---
 # News
 
