@@ -62,7 +62,7 @@ feature_row6:
     width: "450" 
     height: "450"
     title: "William Morton"
-    excerpt: 'William is currently doing his MSc in Materials Science and Engineering at Imperial College London focussing on xxx. he received his BSc from xxx. In October he will start a PhD also at Imperial College London within the group of Dr Fang Xie.'
+    excerpt: 'PhD Student in the group of Dr. Fang Xie at Imperial College London from October 2019'
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
   - image_path: /assets/images/shuang_resized.jpg
@@ -72,7 +72,7 @@ feature_row6:
     title: "Shuang Zhao"
     width: "450" 
     height: "450"
-    excerpt: 'Shuang is doing an MSc in Materials Science and Engineering at Imperial College London. Before this she received her BSc in xxx from xxx in 2018.'
+    excerpt: ''
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 feature_row7:
@@ -83,7 +83,7 @@ feature_row7:
     title: "Shuang Zhao"
     width: "450" 
     height: "450"
-    excerpt: 'Shuang is doing an MSc in Materials Science and Engineering at Imperial College London. Before this she received her BSc in xxx from xxx in 2018.'
+    excerpt: ''
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 feature_row8:
