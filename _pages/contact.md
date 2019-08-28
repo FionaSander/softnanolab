@@ -25,7 +25,7 @@ header:
   
    <strong>Adress:</strong> Imperial College London, South Kensington Campus, London SW7 2AZ <br />
    
-   <strong>Personal website:</strong> <a href="https://www.imperial.ac.uk/people/s.angioletti-uberti07">www.imperial.ac.uk/people/s.angioletti-uberti07</a>
+   <strong>Personal website:</strong> <a href="https://www.imperial.ac.uk/people/s.angioletti-uberti07">Stefano Angioletti-Uberti</a>
   </p>
 </blockquote>
     </div>
