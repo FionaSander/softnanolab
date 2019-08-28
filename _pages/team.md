@@ -174,6 +174,6 @@ feature_row12:
 
 
 
-<div  <img src="/softnanolab/assets/images/jan_resized.jpg" caption="Jan Kraszewski" alt="Jan Kraszewski" width="25%" height="auto" > > Jan </div>
-<div  <img src="/softnanolab/assets/images/lucas_resized.jpg" caption="Yuong Kim (Lucas) Ung" alt="Yuong Kim (Lucas) Ung" width="25%" height="auto" > > Lucas </div>
+<div>  <img src="/softnanolab/assets/images/jan_resized.jpg" caption="Jan Kraszewski" alt="Jan Kraszewski" width="25%" height="auto" > Jan </div>
+<div>  <img src="/softnanolab/assets/images/lucas_resized.jpg" caption="Yuong Kim (Lucas) Ung" alt="Yuong Kim (Lucas) Ung" width="25%" height="auto" > Lucas </div>
 
