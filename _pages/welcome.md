@@ -72,6 +72,9 @@ feature_row6:
 feature_row7:
   - excerpt: '<strong> Congratulations to Lucas and Jan</strong>
   who finished their MEng in Materials Science. <small> <em>- 01st April 2019</em> </small>'
+feature_row8: 
+  - excerpt: 'image describing something'
+  - excerpt: 'upper image: xxx; lower image: xxx'
     
 ---
    
@@ -80,6 +83,9 @@ feature_row7:
 
 
 <img src="assets/images/imagesforwebsite210819_2.png" alt="" width="100%" height="auto">
+{% include feature_row id="feature_row8" type= "left" %}
+
+
 
 ---
 # News
