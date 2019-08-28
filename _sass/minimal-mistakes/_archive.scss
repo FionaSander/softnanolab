@@ -426,6 +426,11 @@
         clear: none;
         margin-left: gutter(of 12);
       }
+     
+      &:nth-child(3n + 4) {
+        clear: none;
+        margin-left: gutter(of 12);
+      }
 
       .feature__item-teaser {
         max-height: 200px;
