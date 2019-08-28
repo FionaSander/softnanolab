@@ -79,13 +79,6 @@ feature_row7:
 {% include feature_row id="intro" type= "center" %}
 
 
-{% include figure image_path="assets/images/imagesforwebsite_210819_2.eps" %}
-
-<img src="assets/images/imagesforwebsite_210819_2.eps" alt="" class="wide">
-
-#responsive-image {  width: 100%;  height: auto; } 
-<img src="assets/images/imagesforwebsite_210819_2.eps" id="responsive-image"> 
-
 <img src="assets/images/imagesforwebsite_210819_2.eps" alt="" width="100%">
 
 ---
