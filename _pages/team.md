@@ -52,7 +52,7 @@ feature_row5:
     width: "450" 
     height: "450"
     title: "Kaiye Xie"
-    excerpt: 'Kaiye is doing his PhD in the Materials Department concentrating on the simulation of nanocomposite bioadhesives. Before starting his PhD in 2018 he received his bachelor degree in Polymeric Materials Science from the Beijing University of Chemical Technology and then continued his studies at Imperial College in the frame of the MSc in Advanced Materials Science and Engineering.'
+    excerpt: 'Kaiye is doing his PhD in the Materials Department concentrating on the simulation of nanocomposite bioadhesives.'
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 feature_row6:
