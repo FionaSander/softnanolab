@@ -82,7 +82,7 @@ feature_row8:
     width: "450" 
     height: "450"
     title: "Yuong Kim (Lucas) Ung"
-    excerpt: 'Former MEng student'
+    excerpt: ''
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
   - image_path: /assets/images/jan_resized.jpg
@@ -90,7 +90,7 @@ feature_row8:
     width: "450" 
     height: "450"
     title: "Jan Kraszewski"
-    excerpt: 'Former MEng student'
+    excerpt: ''
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 feature_row9:
@@ -156,8 +156,6 @@ feature_row12:
 
 # Alumni
 
+## Former MEng Students
+
 {% include feature_row id="feature_row8" type="four" %}
-
-<div>  <img src="/softnanolab/assets/images/jan_resized.jpg" caption="Jan Kraszewski" style="text-align:center;" alt="Jan Kraszewski" width="25%" height="auto"> Jan </div>
-<div>  <img src="/softnanolab/assets/images/lucas_resized.jpg" caption="Yuong Kim (Lucas) Ung" alt="Yuong Kim (Lucas) Ung" width="25%" height="auto" > Lucas </div>
-
