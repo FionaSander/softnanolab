@@ -12,10 +12,10 @@ excerpt: ""
 intro: 
   - excerpt: ''
 ---
-* <p style="font-size:90%">
+* <p style="font-size:100%">
  S. Bandera , C. O’Sullivan , S. Angioletti-Uberti, P. Tangney <q><a href="https://www.e3s-conferences.org/articles/e3sconf/abs/2019/18/e3sconf_isg2019_14001/e3sconf_isg2019_14001.html">An evaluation of contact models for particle-scale simulation of clay</a></q> <strong> E3S Web of Conferences, 92 (2019), 14001 </strong>, 1-6, ISSN: 2555-0403
 * <p style="font-size:1vw"> P. Mitchell, S. Tommasone, S. Angioletti-Uberti, J. Bowen,P.M. Mendes et al.  <q><a href="https://pubs.acs.org/doi/10.1021/acsabm.9b00289">Precise generation of selective surface-confined glycoprotein recognition sites</a></q>  , <strong>ACS Applied Bio Materials, 2 (2019)</strong>, 2617-2623, ISSN: 2576-6422
-* <p style="font-size:100%"> Angioletti-Uberti S <q><a href="https://www.sciencedirect.com/science/article/pii/B9780081023020000055">Understanding the Self-Assembly of DNA-Coated Colloids via Theory and Simulations</a></q>, <strong>Frontiers of Nanoscience, 13 (2019)</strong>, 87-123
+* <p style="font-size:90%"> Angioletti-Uberti S <q><a href="https://www.sciencedirect.com/science/article/pii/B9780081023020000055">Understanding the Self-Assembly of DNA-Coated Colloids via Theory and Simulations</a></q>, <strong>Frontiers of Nanoscience, 13 (2019)</strong>, 87-123
 * <p style="font-size:19px"> Moncho-Jordá A, Germán-Bellod A, Angioletti-Uberti S, Adroher-Benítez I, Dzubiella Jet al. <q><a href="https://pubs.acs.org/doi/10.1021/acsnano.8b07609">Nonequilibrium uptake kinetics of molecular cargo into hollow hydrogels tuned by electrosteric interactions</a></q>, <strong>ACS Nano 13 (2019), 2</strong>, 1603-1616
 * <p style="font-size:19px"> Xu X, Angioletti-Uberti S, Lu Y, Dzubiella J, Ballauff Met al. <q><a href="https://www.ncbi.nlm.nih.gov/pubmed/30095921">Interaction of proteins with polyelectrolytes: comparison of theory to experiment</a></q>, <strong>Langmuir 35 (2019), 16 </strong>, 5373-5391, ISSN: 0743-7463
 * <p style="font-size:19px"> Angioletti-Uberti S, Ballauff M, Dzubiella J <q><a href="https://www.tandfonline.com/doi/abs/10.1080/00268976.2018.1467056">Competitive adsorption of multiple proteins to nanoparticles: the Vroman effect revisited</a></q>,<strong> Molecular Physics 116 (2018), 21</strong>, 3154-3163, ISSN: 0026-8976
