@@ -16,9 +16,8 @@ sidebar:
 ## Current Projects and Research
 <p style="margin-left: 40px" align="justify"> My research group focuses in applying Statistical Mechanics and various numerical techniques such as Monte Carlo and Molecular Dynamics simulations to study Soft Matter systems and their applications. Broadly speaking, the main aim is to understand how to tune a materials behaviour by coating it with different ligands, both of synthetic and biological origin. Among the various applications studied, important research themes are the self-assembly of functional structure exploiting ligand-receptor based interactions, catalysis in polymer-based Nanoreactors and nanoparticle and polymers for drug delivery and biosensing applications.</p>
 
-## Publications
+## Recent Publications
 
-Recent publications:
 * <p style="font-size:80%">
  S. Bandera , C. O’Sullivan , S. Angioletti-Uberti, P. Tangney <q><a href="https://www.e3s-conferences.org/articles/e3sconf/abs/2019/18/e3sconf_isg2019_14001/e3sconf_isg2019_14001.html">An evaluation of contact models for particle-scale simulation of clay</a></q> <strong> E3S Web of Conferences, 92 (2019), 14001 </strong>, 1-6, ISSN: 2555-0403
 * <p style="font-size:80%"> P. Mitchell, S. Tommasone, S. Angioletti-Uberti, J. Bowen,P.M. Mendes et al.  <q><a href="https://pubs.acs.org/doi/10.1021/acsabm.9b00289">Precise generation of selective surface-confined glycoprotein recognition sites</a></q>  , <strong>ACS Applied Bio Materials, 2 (2019)</strong>, 2617-2623, ISSN: 2576-6422
