@@ -174,6 +174,6 @@ feature_row12:
 
 
 
-  <img src="/softnanolab/assets/images/jan_resized.jpg" alt="Jan Kraszewski" width="25%" height="auto" >
-  <img src="/softnanolab/assets/images/lucas_resized.jpg" alt="Yuong Kim (Lucas) Ung" width="25%" height="auto" >
+  <img src="/softnanolab/assets/images/jan_resized.jpg" title="Jan Kraszewski" alt="Jan Kraszewski" width="25%" height="auto" >
+  <img src="/softnanolab/assets/images/lucas_resized.jpg" title="Yuong Kim (Lucas) Ung" alt="Yuong Kim (Lucas) Ung" width="25%" height="auto" >
 
