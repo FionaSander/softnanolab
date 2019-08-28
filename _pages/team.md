@@ -82,7 +82,7 @@ feature_row8:
     width: "450" 
     height: "450"
     title: "Yuong Kim (Lucas) Ung"
-    excerpt: ''
+    excerpt: 'Former MEng student'
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
   - image_path: /assets/images/jan_resized.jpg
@@ -90,7 +90,7 @@ feature_row8:
     width: "450" 
     height: "450"
     title: "Jan Kraszewski"
-    excerpt: ''
+    excerpt: 'Former MEng student'
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 feature_row9:
