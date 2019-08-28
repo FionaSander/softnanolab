@@ -433,9 +433,8 @@
       }
 
       .feature__item-teaser {
-        max-height: 200px;
         overflow: hidden;
-        height: same-as-width;
+        height: 0;
       }
     }
   }
