@@ -173,4 +173,4 @@ feature_row12:
 # Alumni
 
 
-{% include feature_row id="feature_row8" class="third" %}
+{% include feature_row id="feature_row8" class="fourth" %}
