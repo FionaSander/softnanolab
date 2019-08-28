@@ -176,6 +176,6 @@ feature_row12:
 {% include feature_row id="feature_row8" class="fourth" %}
 
 <figure>
-  <img src="/assets/images/jan_resized.jpg" alt="Jan Kraszewski" width="304" >
-  <img src="/assets/images/lucas_resized.jpg" alt="Yuong Kim (Lucas) Ung" width="304" >
+  <img src="/assets/images/jan_resized.jpg" alt="Jan Kraszewski" width="25%" >
+  <img src="/assets/images/lucas_resized.jpg" alt="Yuong Kim (Lucas) Ung" width="25%" >
 </figure>
