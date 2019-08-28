@@ -157,4 +157,4 @@ feature_row12:
 # Alumni
 
 
-{% include feature_row id="feature_row8" type="left" %}
+{% include feature_row id="feature_row8" %}
