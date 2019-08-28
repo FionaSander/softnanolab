@@ -83,7 +83,8 @@ feature_row8:
 
 
 <img src="assets/images/imagesforwebsite210819_2.png" alt="" width="100%" height="auto">
-{% include feature_row id="feature_row8" type= "left" %}
+
+<p style="font-size:14px"> left:xxxx right: (upper image) xxx; (lower image) xxx. </p>
 
 
 
