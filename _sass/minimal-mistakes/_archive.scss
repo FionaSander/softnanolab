@@ -433,8 +433,9 @@
       }
 
       .feature__item-teaser {
-        max-height: 50px;
+        max-height: 200px;
         overflow: hidden;
+        height: width;
       }
     }
   }
