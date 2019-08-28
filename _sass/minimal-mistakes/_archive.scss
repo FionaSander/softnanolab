@@ -410,7 +410,7 @@
      @include breakpoint($small) {
       float: left;
       margin-bottom: 0;
-      width: span(3 of 12);
+      width: span(2.8 of 12);
 
       &:nth-child(3n + 1) {
         clear: both;
@@ -419,17 +419,17 @@
 
       &:nth-child(3n + 2) {
         clear: none;
-        margin-left: gutter(of 12);
+        margin-left: gutter(0.2 of 12);
       }
 
       &:nth-child(3n + 3) {
         clear: none;
-        margin-left: gutter(of 12);
+        margin-left: gutter(0.2 of 12);
       }
      
       &:nth-child(3n + 4) {
         clear: none;
-        margin-left: gutter(of 12);
+        margin-left: gutter(0.2 of 12);
       }
 
       .feature__item-teaser {
