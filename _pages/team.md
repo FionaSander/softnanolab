@@ -93,6 +93,22 @@ feature_row8:
     excerpt: 'Jan finished his MEng Materials Science and Engineering final year project within the SoftNanoLab group. He worked on xxx.'
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
+  - image_path: /assets/images/lucas_resized.jpg
+    alt: "Yuong Kim Ung"
+    width: "450" 
+    height: "450"
+    title: "Yuong Kim (Lucas) Ung"
+    excerpt: 'Lucas did his MEng final year project in Materials Science and Engineering within the SoftNanoLab group. The focus of his work was on xxx.'
+    btn_label: "More about my projects"
+    btn_class: "btn--inverse btn--small"
+  - image_path: /assets/images/jan_resized.jpg
+    alt: "Jan Kraszewski"
+    width: "450" 
+    height: "450"
+    title: "Jan Kraszewski"
+    excerpt: 'Jan finished his MEng Materials Science and Engineering final year project within the SoftNanoLab group. He worked on xxx.'
+    btn_label: "More about my projects"
+    btn_class: "btn--inverse btn--small"
 feature_row9:
   - image_path: /assets/images/jan_resized.jpg
     alt: "Jan Kraszewski"
