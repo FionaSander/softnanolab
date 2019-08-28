@@ -10,7 +10,7 @@ sidebar:
     text: ""
 ---
 
-<p style="margin-left: 40px"> MRes Student in the Department of Chemistry since 2018 <br /> 
+<p style="margin-left: 40px; font-size:90%"> MRes Student in the Department of Chemistry since 2018 <br /> 
     
   <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti <br />
   
