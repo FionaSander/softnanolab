@@ -18,7 +18,7 @@ sidebar:
   
    <strong>Funding:</strong> Department of Materials Imperial College London Scholarship <br />
    
-   <strong>E-mail:</strong> fiona.sander17@imperial.ac.uk <br />
+   <strong>E-mail:</strong> <a href="mailto:fiona.sander17@imperial.ac.uk">fiona.sander17@imperial.ac.uk </a> <br />
    
   </p>
 ## Current Projects and Research
