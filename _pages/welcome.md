@@ -15,22 +15,15 @@ intro:
 <a href="https://fionasander.github.io/softnanolab/research/"> Read more about our projects on the research page... </a>
 </p>'
 gallery:
-  - url: https://fionasander.github.io/softnanolab/research/
-    image_path: /assets/images/star.png
-    cpation: "nice one"
-    alt: "blabla"
-    title: "There should be a title here "
-    excerpt: "This is very interesting."
-  - url: https://fionasander.github.io/softnanolab/research/
-    image_path: /assets/images/protein.png
-    alt: "blabla"
-    title: "blabla"
-    excerpt: "This is really cool."
-  - url: https://fionasander.github.io/softnanolab/research/
-    image_path: /assets/images/temperature.jpeg
-    alt: "blabla"
-    title: "blabla"
-    excerpt: "This is also quite cool."
+  - image_path: /assets/images/welcomeimage1.png
+    capation: ""
+    alt: ""
+    title: ""
+    excerpt: ""
+  - image_path: /assets/images/welcomeimage2.png
+    alt: ""
+    title: ""
+    excerpt: ""
 feature_row2:
   - image_path: "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"
     image_caption: 'Video of the month: <a href="https://fionasander.github.io/softnanolab/research/">Gold nanoparticle</a> simulation blablabla - <small><em> by <a href="https://fionasander.github.io/softnanolab/theteam/william/">William Morton</a>'
@@ -81,6 +74,7 @@ feature_row8:
 
 {% include feature_row id="intro" type= "center" %}
 
+{% include gallery id="gallery" class="half" %}
 
 <img src="assets/images/imagesforwebsite210819_2.png" alt="" width="100%" height="auto">
 
