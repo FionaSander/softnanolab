@@ -15,12 +15,12 @@ intro:
 <a href="https://fionasander.github.io/softnanolab/research/"> Read more about our projects on the research page... </a>
 </p>'
 gallery:
-  - image_path: /assets/images/welcomeimage1.png
+  - image_path: /assets/images/welcomeimage1.pdf
     capation: ""
     alt: ""
     title: ""
     excerpt: ""
-  - image_path: /assets/images/welcomeimage2.png
+  - image_path: /assets/images/welcomeimage2.pdf
     alt: ""
     title: ""
     excerpt: ""
