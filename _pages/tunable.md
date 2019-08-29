@@ -13,10 +13,10 @@ intro:
   - excerpt: ''
 feature_row:
   - image_path: "/assets/images/clay_sarabandera.png"
-  - excerpt: '<p style="font-size:60%"> Simulation of self-assembly of clay particles(represented by flat ellipsoids) interacting via the Gay-Berne potential. <em>(by Sara Bandera)</em></p>'
+  - excerpt: '<p style="font-size:80%"> Simulation of self-assembly of clay particles(represented by flat ellipsoids) interacting via the Gay-Berne potential. <em>(by Sara Bandera)</em></p>'
 feature_row2:
   - image_path: "/assets/images/LCs_selfassembly.png"
-  - excerpt: '<p style="font-size:60%"> Self-assembly of liquid crystals upon reduction of temperature using the python package LAMMPS with the Gay-Berne potential to describe interaction between particles. <em>(by Fiona Sander)</em></p>'
+  - excerpt: '<p style="font-size:80%"> Self-assembly of liquid crystals upon reduction of temperature using the python package LAMMPS with the Gay-Berne potential to describe interaction between particles. <em>(by Fiona Sander)</em></p>'
 ---
 * <p style="font-size:80%"> <strong> Tuning the transition of liquid crystal elastomers </strong> <em>(S.A-U, Fiona Sander. Collaborators: Dr. Theoni Georgiou, Materials)</em></p>
 
