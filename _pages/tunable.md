@@ -24,6 +24,7 @@ feature_row2:
 
 * <p style="font-size:80%"> <strong> Design principles for low-friction polymer brushes as a synthetic analogue of cartilage </strong> <em>(S.A-U, Mohamed Abdelbar, Shuang Zhao)</em></p>
 * <p style="font-size:80%"> <strong>How do proteins cross-link hairs?</strong> <em>(S.A-U, Sotiris Samatas. Collaborators: Prof. Daniele Dini, Mech. Eng.)</em></p>
+
 * <p style="font-size:80%"> <strong>Linking the self-assembly of clays to texture and mechanical properties</strong> <em>(S.A-U, Sara Bandera. Collaborators: Prof. Catherine O’Sullivan, Civil Engineering; Dr. Paul Tangney, Materials)</em></p>
 
   <p style="font-size:80%; margin-left:40px"> The project aims to improve the understanding of the response of clay to applied loads and deformations by explicitly simulating the interactions between three-dimensional clay particles using the Molecular Dynamics (MD) technique. Clay is challenging to study because the influence of the structure including particle arrangement and inter-particle forces on its behaviour cannot be neglected like in cohesionless materials such as sand. In this project, clay particles are represented by flat ellipsoids interacting via the Gay-Berne (GB) potential which is a modified form of the Lennard-Jones potential for aspherical particles. </p> 
