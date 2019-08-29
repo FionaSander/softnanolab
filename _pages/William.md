@@ -5,9 +5,9 @@ classes: wide
 permalink: theteam/william/
 author_profile: false
 sidebar:
-  - title: "title"
+  - title: ""
     image: assets/images/will_resized.jpg
-    text: "text"
+    text: ""
 feature_row:
    - image_path: /assets/images/william_research.png
    - alt: "this is a placeholder image"
