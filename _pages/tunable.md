@@ -23,7 +23,6 @@ feature_row2:
   <p style="font-size:80%; margin-left:40px"> Liquid crystal elastomers combine stimuli-responsivity of liquid crystals with the mechanical properties of elastomers resulting in unique opto-mechanical coupling phenomena and new mechanical properties. The research project is focussing on the use of stimuli-responsive polymers in combination with the already responsive liquid crystals in order to explore possible dual-responsivity and use of these materials for molecular sensoring.</p> {% include feature_row id="feature_row2" type= "center" %}
 
 * <p style="font-size:80%"> <strong> Design principles for low-friction polymer brushes as a synthetic analogue of cartilage </strong> <em>(S.A-U, Mohamed Abdelbar, Shuang Zhao)</em></p>
-* <p style="font-size:80%"> <strong>How do proteins cross-link hairs?</strong> <em>(S.A-U, Sotiris Samatas. Collaborators: Prof. Daniele Dini, Mech. Eng.)</em></p>
 
 * <p style="font-size:80%"> <strong>Linking the self-assembly of clays to texture and mechanical properties</strong> <em>(S.A-U, Sara Bandera. Collaborators: Prof. Catherine O’Sullivan, Civil Engineering; Dr. Paul Tangney, Materials)</em></p>
 
