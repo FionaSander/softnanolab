@@ -154,7 +154,6 @@ feature_row12:
 {% include feature_row id="feature_row3" type="left" %}
 {% include feature_row id="feature_row4" type="left" %}
 {% include feature_row id="feature_row5" type="left" %}
-{% include feature_row id="feature_row10" type="left" %}
 {% include feature_row id="feature_row11" type="left" %}
 {% include feature_row id="feature_row12" type="left" %}
 
