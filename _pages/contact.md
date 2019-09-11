@@ -14,7 +14,7 @@ header:
 ## Applications from researchers and prospective postgraduate students are always <br /> welcome and can be submitted via email. 
 {: .text-center}
 
-### Open Projects
+## Open Projects
 * <p style="font-size:80%"> <strong>How do proteins cross-link hairs?</strong> <em>(Collaborators: Prof. Daniele Dini, Mechanical Engineering Imperial College London)</em></p>
 
   <div style="text-align: center;">
