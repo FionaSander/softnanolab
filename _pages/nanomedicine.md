@@ -40,6 +40,8 @@ feature_row2:
 *  <p style="font-size:80%"> <strong> Modelling Hydrogels degradation</strong> <em>(S.A-U. Debesh Mandal. Collaborators: Prof. Rafael Roa, University of Malaga)<em>
   
   <p style="font-size:80%; margin-left:40px"> All around the world various types of hydrogels are being developed as carriers for drugs. In particular, hydrogels can be synthesised to have different degradation rates, important for the controlled released of drugs in the body that should match the ideal pharmacokinetics required for therapy. In this research line, our goal is to describe degradation as a chemical reaction and thus use concepts developed in the theoretical treatment of catalysis in solution to describe how the degradation process is affected by environmental and intrinsic parameters, e.g. the presence of different salt ions, the concentration and type of enzymes present and the overall pH, just to cite a few relevant examples. </p>
+  
+
 
 
 
