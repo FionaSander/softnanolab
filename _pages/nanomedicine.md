@@ -28,7 +28,12 @@ feature_row:
   <p style="font-size:80%; margin-left:40px"> DNA can be used as a barcode to identify the presence of specific organisms. For this reason, the ability to detect the presence of specific sequences with high selectivity is important for the development of diagnostic tools and in particular for the detection of both bacterial and viral infection. This research line is dedicated to the application of coarse-grained modelling and polymer physics principles for the design of such tools, and their experimental validation through collaborations with the experimental groups of Dr. Di Michele. </p> 
 
 * <p style="font-size:80%"> <strong> Cationic polymers for gene delivery</strong> <em>(S. A-U, Debesh Mandal)</em></p>
+
+  <p style="font-size:80%; margin-left:40px"> Cationic (star) polymer can be used to make complexes with DNA, shedding the latter from enzymes that would otherwise degrade it as well as helping shuttling it through the cellular membrane. In this project, we use coarse-grained simulations to determine the link between the architecture of these polymers and the formation of complexes with DNA, with the overall goal to understand how to tune such complexes for enhanced transfection efficiency, an important factor for all sorts of genetic therapies. </p>
+
 *  <p style="font-size:80%"> <strong> Modelling Hydrogels degradation</strong> <em>(S.A-U. Debesh Mandal. Collaborators: Prof. Rafael Roa, University of Malaga)<em>
+  
+  <p style="font-size:80%; margin-left:40px"> All around the world various types of hydrogels are being developed as carriers for drugs. In particular, hydrogels can be synthesised to have different degradation rates, important for the controlled released of drugs in the body that should match the ideal pharmacokinetics required for therapy. In this research line, our goal is to describe degradation as a chemical reaction and thus use concepts developed in the theoretical treatment of catalysis in solution to describe how the degradation process is affected by environmental and intrinsic parameters, e.g. the presence of different salt ions, the concentration and type of enzymes present and the overall pH, just to cite a few relevant examples. </p>
 
 
 
