@@ -14,10 +14,16 @@ intro:
 feature_row:
   - image_path: "/assets/images/Kaiye_project.png"
   - excerpt: '<p style="font-size:14px"> Simulation of the use of starpolymers for bioglues <em> (by Kaiye Xie) </em></p>'
+feature_row2:
+  - image_path: "/assets/images/Screenshot 2019-09-05 at 17.32.07.png"
+  - excerpt: '<p style="font-size:14px"> Schematic representation of a multivalent nanoparticle binding to a cell membrane <em> (by Stefano Angioletti-Uberti) </em></p>'
 ---
+
+
+
 * <p style="font-size:80%"> <strong> Theory of multivalent interactions and applications to targeted drug delivery </strong> <em>(S.A-U, Daniele Visco. Collaborators: Prof. Giuseppe Battaglia, UCL; Prof. Bortolo Mognetti, Free University of Bruxelles)</em></p>
 
-  <p style="font-size:80%; margin-left:40px"> Multivalency is the ability of certain molecular constructs to interact by forming multiple ligand-receptor bonds. This does not only increase the overall strength of the interaction, but more importantly provides a potential way to embed such construct with binding selectivity in different scenarios where classical, i.e. monovalent, drugs would not work, think for example chemotherapy. This research line is dedicated to i) Build and explore different statistical mechanical models as well as computational algorithms to generally describe multivalent interactions and ii) use such models to determine the optimal conditions for the design of multivalent binding constructs, in particular in terms of increasing the selectivity towards specific target. In this regard, we where recently able, in collaboration with the Battaglia group at UCL, to show that our modelling strategy can correctly describe the experimentally observed behaviour of ligand functionalised nanoparticles in binding different cancer cell lines. You can find the open source version of our paper under <a href="https://chemrxiv.org/articles/Design_principles_for_precision_targeting/5647969">this link.</a> </p> 
+  <p style="font-size:80%; margin-left:40px"> Multivalency is the ability of certain molecular constructs to interact by forming multiple ligand-receptor bonds. This does not only increase the overall strength of the interaction, but more importantly provides a potential way to embed such construct with binding selectivity in different scenarios where classical, i.e. monovalent, drugs would not work, think for example chemotherapy. This research line is dedicated to i) Build and explore different statistical mechanical models as well as computational algorithms to generally describe multivalent interactions and ii) use such models to determine the optimal conditions for the design of multivalent binding constructs, in particular in terms of increasing the selectivity towards specific target. In this regard, we where recently able, in collaboration with the Battaglia group at UCL, to show that our modelling strategy can correctly describe the experimentally observed behaviour of ligand functionalised nanoparticles in binding different cancer cell lines. You can find the open source version of our paper under <a href="https://chemrxiv.org/articles/Design_principles_for_precision_targeting/5647969">this link.</a> </p> {% include feature_row id="feature_row2" type= "center" %}
 
 * <p style="font-size:80%"> <strong> Nanoparticles and polymers as bioglues</strong> <em>(S. A-U, Kaiye Xie, William Morton. Collaborators: Nicola Molinari SEAS, Harvard University)</em></p>
   
