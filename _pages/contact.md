@@ -12,6 +12,7 @@ header:
 ---
 
 ## Applications from researchers and prospective postgraduate students are always <br /> welcome and can be submitted via email. 
+---
 {: .text-center}
 
 ## Open Projects
