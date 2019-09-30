@@ -13,4 +13,5 @@ sidebar:
     
   <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti <br />
   
+The articular cartilage found covering the ends of bones in the synovial joints of mammals exhibit exceptional tribological properties, giving a low friction response () even when subjected to normal loads exceeding 100 atm. The goal of this project is to use coarse-grained molecular dynamics in order to study the system focusing on the architecture of the polymers on the surface and thus provide rational design principles for cartilage analogues.
 
