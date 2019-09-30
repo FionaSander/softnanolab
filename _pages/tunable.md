@@ -17,12 +17,17 @@ feature_row:
 feature_row2:
   - image_path: "/assets/images/LCs_selfassembly.png"
   - excerpt: '<p style="font-size:80%"> Self-assembly of liquid crystals upon reduction of temperature using the python package LAMMPS with the Gay-Berne potential to describe the interaction between particles. <em>(by Fiona Sander)</em></p>'
+feature_row3:
+  - image_path: "/assets/images/mohamed_softnanolab.png"
+  - excerpt: '<p style="font-size:80%"> Low-friction polymer brushes as a synthetic analogue of cartilage. <em>(by Mohamed Abdelbar)</em></p>'
 ---
 * <p style="font-size:80%"> <strong> Tuning the transition of liquid crystal elastomers </strong> <em>(S.A-U, Fiona Sander. Collaborators: Dr. Theoni Georgiou, Materials)</em></p>
 
   <p style="font-size:80%; margin-left:40px"> Liquid crystal elastomers combine stimuli-responsivity of liquid crystals with the mechanical properties of elastomers resulting in unique opto-mechanical coupling phenomena and new mechanical properties. The research project is focussing on the use of stimuli-responsive polymers in combination with the already responsive liquid crystals in order to explore possible dual-responsivity and use of these materials for molecular sensoring.</p> {% include feature_row id="feature_row2" type= "center" %}
 
 * <p style="font-size:80%"> <strong> Design principles for low-friction polymer brushes as a synthetic analogue of cartilage </strong> <em>(S.A-U, Mohamed Abdelbar, Shuang Zhao)</em></p>
+
+{% include feature_row id="feature_row3" type= "center" %}
 
 * <p style="font-size:80%"> <strong>Linking the self-assembly of clays to texture and mechanical properties</strong> <em>(S.A-U, Sara Bandera. Collaborators: Prof. Catherine O’Sullivan, Civil Engineering; Dr. Paul Tangney, Materials)</em></p>
 
