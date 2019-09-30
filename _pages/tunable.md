@@ -18,7 +18,7 @@ feature_row2:
   - image_path: "/assets/images/LCs_selfassembly.png"
   - excerpt: '<p style="font-size:80%"> Self-assembly of liquid crystals upon reduction of temperature using the python package LAMMPS with the Gay-Berne potential to describe the interaction between particles. <em>(by Fiona Sander)</em></p>'
 feature_row3:
-  - image_path: "/assets/images/mohamed_softnanolab.png"
+  - image_path: "/assets/images/Mohamed_softnanolab.png"
   - excerpt: '<p style="font-size:80%"> Low-friction polymer brushes as a synthetic analogue of cartilage. <em>(by Mohamed Abdelbar)</em></p>'
 ---
 * <p style="font-size:80%"> <strong> Tuning the transition of liquid crystal elastomers </strong> <em>(S.A-U, Fiona Sander. Collaborators: Dr. Theoni Georgiou, Materials)</em></p>
