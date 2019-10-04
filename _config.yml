@@ -240,6 +240,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 
 # Archives
@@ -292,6 +293,4 @@ defaults:
       comments: # true
       share: true
       related: true
-      
- plugins:
-  - jekyll-seo-tag
+
