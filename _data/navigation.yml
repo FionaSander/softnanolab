@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "The Team"
-    url: /theteam/
+    url: https://www.softnanolab.org/theteam/
   - title: "Research"
-    url: /research/
+    url: https://www.softnanolab.org/research/
   - title: "Publications"
-    url: /publications/
+    url: https://www.softnanolab.org/publications/
   - title: "Contact"
-    url: /contact/
+    url: https://www.softnanolab.org/contact/
