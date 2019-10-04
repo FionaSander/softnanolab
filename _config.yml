@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "SoftNanoLab"
-subtitle:                : "Softmatter Nanotechnology Laboratory"
+subtitle                 : "Softmatter Nanotechnology Laboratory"
 title_separator          : "-"
 name                     : "Stefano Angioletti-Uberti"
 description              : "Computational Softmatter Nanotechnology at Imperial College London"
