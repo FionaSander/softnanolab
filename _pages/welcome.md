@@ -63,8 +63,9 @@ feature_row6:
     excerpt: '<strong> Congratulations to Kaiye and Fiona</strong>
   who graduated from the MSc in Advanced Materials Science and Engineering at Imperial College and continue doing PhDs in the SoftNanoLab group. Congratulations also to <strong> Lucas and Jan </strong> who finished their MEng degree in the Materials department in April and are now off to apply their knowledge outside of Imperial. <small> <em>- 08th May 2019</em> </small>'
 feature_row7:
-  - excerpt: '<strong> Congratulations to Lucas and Jan</strong>
-  who finished their MEng in Materials Science. <small> <em>- 01st April 2019</em> </small>'
+  - image_path: "/assets/images/SoftNanoLab_christmas_lunch_2019.jpg"
+    excerpt: 'A slightly different <strong> Christmas lunch </strong>
+  this year @Haidilao. <small> <em>- 10th December 2019</em> </small>'
 feature_row8: 
   - excerpt: 'image describing something'
   - excerpt: 'upper image: xxx; lower image: xxx'
@@ -86,6 +87,9 @@ feature_row8:
 For the latest news about our research follow us also on Twitter @softnanolab!
 
 {% include feature_row id="feature_row6" type="right" %}
+
+{% include feature_row id="feature_row7" type="right" %}
+
 
 
 ---
