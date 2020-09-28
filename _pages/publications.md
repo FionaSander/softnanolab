@@ -14,11 +14,11 @@ intro:
 ---
 
 * <p style="font-size:80%">
- X Tiaohe, S. Angioletti-Uberti, and G. Battaglia <q><a href="https://www.pnas.org/content/117/16/8719">On the design of precision nanomedicines</a></q> <strong> Sience Advances, 6 (2020),  </strong>, eaat0919
+ X Tiaohe, S. Angioletti-Uberti, and G. Battaglia <q><a href="https://www.pnas.org/content/117/16/8719">On the design of precision nanomedicines</a></q> <strong> Sience Advances, 6 (2020)  </strong>, eaat0919
 * <p style="font-size:80%">
- T. Curk, C.A. Brackley, J.D. Farrell, Z. Xing, D. Joshi, S. Direito, U. Bren, S. Angioletti-Uberti, J. Dobnikar, E. Eiser, D. Frenkel, and R.J. Allen <q><a href="https://www.pnas.org/content/117/16/8719">Computational design of probes to detect bacterial genomes by multivalent binding</a></q> <strong> PNAS, 117 (2020),  </strong>, 8719–8726
+ T. Curk, C.A. Brackley, J.D. Farrell, Z. Xing, D. Joshi, S. Direito, U. Bren, S. Angioletti-Uberti, J. Dobnikar, E. Eiser, D. Frenkel, and R.J. Allen <q><a href="https://www.pnas.org/content/117/16/8719">Computational design of probes to detect bacterial genomes by multivalent binding</a></q> <strong> PNAS, 117 (2020) </strong>, 8719–8726
 * <p style="font-size:80%">
- S. Angioletti-Uberti <q><a href="http://dx.doi.org/10.1007/s00396-020-04662-z">On the interpretation of kinetics and thermodynamics probed by single-molecule experiments</a></q> <strong> Colloid and Polymer Science, 298 (2020),  </strong>, 819-827
+ S. Angioletti-Uberti <q><a href="http://dx.doi.org/10.1007/s00396-020-04662-z">On the interpretation of kinetics and thermodynamics probed by single-molecule experiments</a></q> <strong> Colloid and Polymer Science, 298 (2020) </strong>, 819-827
 * <p style="font-size:80%">
  S. Bandera , C. O’Sullivan , S. Angioletti-Uberti, P. Tangney <q><a href="https://www.e3s-conferences.org/articles/e3sconf/abs/2019/18/e3sconf_isg2019_14001/e3sconf_isg2019_14001.html">An evaluation of contact models for particle-scale simulation of clay</a></q> <strong> E3S Web of Conferences, 92 (2019), 14001 </strong>, 1-6, ISSN: 2555-0403
 * <p style="font-size:80%"> P. Mitchell, S. Tommasone, S. Angioletti-Uberti, J. Bowen,P.M. Mendes et al.  <q><a href="https://pubs.acs.org/doi/10.1021/acsabm.9b00289">Precise generation of selective surface-confined glycoprotein recognition sites</a></q>  , <strong>ACS Applied Bio Materials, 2 (2019)</strong>, 2617-2623, ISSN: 2576-6422
