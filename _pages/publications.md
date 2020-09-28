@@ -14,7 +14,7 @@ intro:
 ---
 
 * <p style="font-size:80%">
- X Tiaohe, S. Angioletti-Uberti, and G. Battaglia <q><a href="https://www.pnas.org/content/117/16/8719">On the design of precision nanomedicines</a></q> <strong> Sience Advances, 6 (2020)  </strong>, eaat0919
+ X Tiaohe, S. Angioletti-Uberti, and G. Battaglia <q><a href="https://advances.sciencemag.org/content/6/4/eaat0919">On the design of precision nanomedicines</a></q> <strong> Science Advances, 6 (2020)  </strong>, eaat0919
 * <p style="font-size:80%">
  T. Curk, C.A. Brackley, J.D. Farrell, Z. Xing, D. Joshi, S. Direito, U. Bren, S. Angioletti-Uberti, J. Dobnikar, E. Eiser, D. Frenkel, and R.J. Allen <q><a href="https://www.pnas.org/content/117/16/8719">Computational design of probes to detect bacterial genomes by multivalent binding</a></q> <strong> PNAS, 117 (2020) </strong>, 8719–8726
 * <p style="font-size:80%">
