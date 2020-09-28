@@ -83,6 +83,8 @@ feature_row8:
 ---
 # News
 
+For the latest news about our research follow us also on Twitter @softnanolab!
+
 {% include feature_row id="feature_row6" type="right" %}
 
 
