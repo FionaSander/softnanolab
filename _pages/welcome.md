@@ -71,7 +71,6 @@ feature_row8:
     excerpt: 'Read about our newest publication in Nature Communications on  <a href="https://devicematerialscommunity.nature.com/posts/combinatorial-entropy-behaviour-leads-to-range-selective-binding-in-ligand-receptor-interactions">combinatorial entropy behaviour in ligand receptor interactions</a>. <small> <em>- 06th October 2020</em> </small>'
     
 ---
----
 <strong>For the latest news about our research follow us also on Twitter <a href="https://twitter.com/SoftNanoLab1">@SoftNanoLab1</a>!</strong> 
 
 ---   
