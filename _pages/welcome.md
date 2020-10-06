@@ -67,7 +67,7 @@ feature_row7:
     excerpt: 'A slightly different <strong> Christmas lunch </strong>
   this year @Haidilao. <small> <em>- 10th December 2019</em> </small>'
 feature_row8: 
-  - image_path: "/assets/images/combinatorial_entropy_blog.jpg"
+  - image_path: "/assets/images/combinatorial_entropy_blog.png"
     excerpt: 'Read about our newest publication in Nature Communications on  <a href="https://devicematerialscommunity.nature.com/posts/combinatorial-entropy-behaviour-leads-to-range-selective-binding-in-ligand-receptor-interactions">combinatorial entropy behaviour in ligand receptor interactions</a>. <small> <em>- 06th October 2020</em> </small>'
     
 ---
