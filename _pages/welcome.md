@@ -82,7 +82,7 @@ feature_row8:
 
 <p style="font-size:12px"> <em>(a)</em> Binding of a multivalent nanoparticle (blue sphere, ligands in red) to a cell surface (pink) expressing certain receptors (<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.068001">see article here</a>). <em>(b)</em> Degree of crystallinity as a function of density and temperature in DNA-Coated Colloids (<a href="https://www.nature.com/articles/nmat3314">see article here</a>); <em>(c)</em> Schematic of the X–X′ colloidal surfaces at three temperatures. (<a href="https://www.nature.com/articles/nmat3314">see article here</a>). </p>
 
-
+---
 
 # News
 
