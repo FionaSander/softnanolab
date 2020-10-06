@@ -14,7 +14,9 @@ intro:
 ---
 
 * <p style="font-size:80%">
- X Tiaohe, S. Angioletti-Uberti, and G. Battaglia <q><a href="https://advances.sciencemag.org/content/6/4/eaat0919">On the design of precision nanomedicines</a></q>, <strong> Science Advances, 6 (2020)  </strong>, eaat0919
+M. Liu, A. Apriceno, M. Sipin, E. Scarpa, L. Rodriguez-Arco, A. Poma, G. Marchello, G. Battaglia and S. Angioletti-Uberti <q><a href="https://www.nature.com/articles/s41467-020-18603-5.epdf?sharing_token=1NLgSGMXLSszbezI0GQcVdRgN0jAjWel9jnR3ZoTv0MF7vMqVnbfOSoT28tcrcNEHYJsytim7sNLqwmM5F4RrwiE8teWv_HVelblNyGstyf9bET3OjxEY0SgRSE012jJ5UxtAGJXqRP5f8QHT5b5AIdAWOfVlswMyEmPZb51ubE%3D">Combinatorial entropy behaviour leads to range selective binding in ligand-receptor interactions</a></q>, <strong> Nature Communications, 11 (2020)  </strong>, 4836
+* <p style="font-size:80%">
+ X Tiaohe, S. Angioletti-Uberti and G. Battaglia <q><a href="https://advances.sciencemag.org/content/6/4/eaat0919">On the design of precision nanomedicines</a></q>, <strong> Science Advances, 6 (2020)  </strong>, eaat0919
 * <p style="font-size:80%">
  T. Curk, C.A. Brackley, J.D. Farrell, Z. Xing, D. Joshi, S. Direito, U. Bren, S. Angioletti-Uberti, J. Dobnikar, E. Eiser, D. Frenkel, and R.J. Allen <q><a href="https://www.pnas.org/content/117/16/8719">Computational design of probes to detect bacterial genomes by multivalent binding</a></q>, <strong> PNAS, 117 (2020) </strong>, 8719–8726
 * <p style="font-size:80%">
