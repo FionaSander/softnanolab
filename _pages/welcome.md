@@ -67,8 +67,8 @@ feature_row7:
     excerpt: 'A slightly different <strong> Christmas lunch </strong>
   this year @Haidilao. <small> <em>- 10th December 2019</em> </small>'
 feature_row8: 
-  - excerpt: 'image describing something'
-  - excerpt: 'upper image: xxx; lower image: xxx'
+  - image_path: "/assets/images/combinatorial_entropy_blog.jpg"
+    excerpt: 'Read about our newest publication in Nature Communications on  <a href="https://devicematerialscommunity.nature.com/posts/combinatorial-entropy-behaviour-leads-to-range-selective-binding-in-ligand-receptor-interactions">combinatorial entropy behaviour in ligand receptor interactions</a>. <small> <em>- 06th October 2020</em> </small>'
     
 ---
    
@@ -84,7 +84,9 @@ feature_row8:
 ---
 # News
 
-For the latest news about our research follow us also on Twitter @softnanolab!
+For the latest news about our research follow us also on Twitter @softnanolab1!
+
+{% include feature_row id="feature_row8" type="right" %}
 
 {% include feature_row id="feature_row7" type="right" %}
 
