@@ -142,6 +142,16 @@ feature_row12:
     excerpt: 'Daniele is currently doing an MRes within the Institute for Molecular Science and Engineering. Previously he obtained his degree on Materials Engineering from Politecnico di Milano. He will start his PhD on the theory of targeted drug delivery within the SoftNanoLab in October.'
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
+feature_row13:
+  - url: https://FionaSander.github.io/softnanolab/theteam/shanil/
+    image_path: /assets/images/shanil_headshot.png
+    alt: "Shanil Panara"
+    width: "450" 
+    height: "450"
+    title: "Shanil Panara"
+    excerpt: 'Shanil is a 4th Year Materials Science & Engineering MEng student and is working on his masters project the SoftNanoLab group under the supervision of Dr. Stefano A-U and Debesh. In the summer of 2020, he completed a UROP (Undergraduate Research Opportunity Placement) within this group. This work focused on autonomously designing and generating 2D DNA Origami nanostructures. During his masters project in 2020, he aims to continue this work and also implement a high-throughput pipeline for coarse-grained DNA simulations and their analysis.'
+    btn_label: "More about my projects"
+    btn_class: "btn--inverse btn--small"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -158,6 +168,9 @@ feature_row12:
 {% include feature_row id="feature_row12" type="left" %}
 
 
+# MEng Students
+
+{% include feature_row id="feature_row13" type="left" %}
 
 
 # Alumni
