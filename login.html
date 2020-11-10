@@ -1,0 +1,39 @@
+---
+layout: home
+author_profile: true
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head> </head>
+  <body class="body">
+    <div class="container">
+      <header class="header">
+        <h1>Jekyll Auth<span>No servers required.</span></h1>
+      </header>
+      <div class="content center">
+        <!-- login form -->
+        <h6 class="error" id="password-error" style="color:red"><strong></strong></h6>
+        <form method="POST">
+          <label for="password">Password</label>
+          <input
+            class="u-full-width"
+            type="password"
+            placeholder="password"
+            name="aerobatic-password"
+            id="aerobatic-password"
+          />
+          <input class="button-primary" type="submit" value="Submit" />
+        </form>
+        <!-- /form -->
+      </div>
+    </div>
+    <!-- /container -->
+    <!-- JS -->
+    <script>
+      if (/fail=1/.test(location.search)) {
+        document.getElementById('password-error').innerHTML = 'Incorrect Password';
+      }
+    </script>
+  </body>
+</html>
