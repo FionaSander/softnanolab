@@ -1,7 +1,7 @@
 ---
 title: "Group Documents"
 layout: splash
-permalink: contact/
+permalink: files/
 date: 2019-03-28
 header:
   overlay_color: "#000"
