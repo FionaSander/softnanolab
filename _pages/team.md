@@ -56,15 +56,6 @@ feature_row5:
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
 feature_row6:
-  - url: https://FionaSander.github.io/softnanolab/theteam/william/
-    image_path: /assets/images/will_resized.jpg
-    alt: "William S. Morton"
-    width: "450" 
-    height: "450"
-    title: "William Morton"
-    excerpt: 'PhD Student in the group of Dr. Fang Xie at Imperial College London from October 2019'
-    btn_label: "More about my projects"
-    btn_class: "btn--inverse btn--small"
   - image_path: /assets/images/shuang_resized.jpg
     width: "450" 
     height: "450"
@@ -152,6 +143,16 @@ feature_row13:
     excerpt: 'Shanil is a 4th Year Materials Science & Engineering MEng student and is working on his masters project the SoftNanoLab group under the supervision of Dr. Stefano A-U and Debesh. In the summer of 2020, he completed a UROP (Undergraduate Research Opportunity Placement) within this group. This work focused on autonomously designing and generating 2D DNA Origami nanostructures. During his masters project in 2020, he aims to continue this work and also implement a high-throughput pipeline for coarse-grained DNA simulations and their analysis.'
     btn_label: "More about my projects"
     btn_class: "btn--inverse btn--small"
+feature_row14:
+  - url: https://FionaSander.github.io/softnanolab/theteam/william/
+    image_path: /assets/images/will2.jpg
+    alt: "William S. Morton"
+    width: "450" 
+    height: "450"
+    title: "William Morton"
+    excerpt: 'William started his PhD in the Materials Department of Imperial College after finishing his MSc in Advanced Material Science and Engineering also at Imperial College London. From 2014 to 2018 he obtained his BEng in Materials Science and Engineering at Purdue University, with a minor in Global Engineering. He is currently working on plasmonic biosensing with his main supervisor, Fang Xie.'
+    btn_label: "More about my projects"
+    btn_class: "btn--inverse btn--small"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -166,6 +167,7 @@ feature_row13:
 {% include feature_row id="feature_row5" type="left" %}
 {% include feature_row id="feature_row11" type="left" %}
 {% include feature_row id="feature_row12" type="left" %}
+{% include feature_row id="feature_row14" type="left" %}
 
 
 # MEng Students

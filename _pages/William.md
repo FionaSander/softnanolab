@@ -6,7 +6,7 @@ permalink: theteam/william/
 author_profile: false
 sidebar:
   - title: ""
-    image: assets/images/will_resized.jpg
+    image: assets/images/will2.jpg
     text: ""
 feature_row:
    - image_path: /assets/images/william_research.png
@@ -15,13 +15,18 @@ feature_row:
    - width: 400px 
 ---
 
-<p style="margin-left: 40px; font-size:90%"> MSc student in Materials Science since 2018 <br /> 
+<p style="margin-left: 40px; font-size:90%"> PhD student in Materials Science since October 2019 <br /> 
     
-  <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti <br />
+  <strong>Supervisors:</strong> Dr. Stefano Angioletti-Uberti, Dr. Fang Xie<br />
+  
+  
+   <strong>Funding:</strong> Department of Materials Imperial College London Scholarship <br />
+   
+   <strong>E-mail:</strong> <a href="mailto:william.morton16@imperial.ac.uk">william.morton16@imperial.ac.uk </a> <br />
   
   </p>
 ## Current Projects and Research
-<p style="margin-left: 40px; font-size:90%" align="justify">  <strong>Effects of Nanoparticle Surface Features on Gel-Gel Adhesion</strong> <br /> There  are  already  systems  designed  to  adhere  two  hydrogels,  whether  they  have  similar  or mismatched lattices. Experiments have even been done to show that nanoparticles are successful at  adhering  hydrogels,  and  promoting  wound  healing.  This  project  does  not aim  to  find  a  new phenomenon  that  can  be  used  to  promote  wound  healing  but  instead  attempts  to  explain  the physics behind how just one aspect of it can be enhanced. Although these adherents already exist, a  deeper  physical  understanding  is  necessary  to  utilise  this  technology.  Determining  the interplay  between  surfaces  of  nanoparticles  and  hydrogel  properties  can  help  to  improve adhesion or even allow for more widespread use throughout the body One ratio from this project could be the key to creating a variety of wound healing systems for surgeons and the rest of the world to use. Imagine an era where timely access to medical attention is not as critical for the treatment of open wounds, because a small medical kit containing a nanoparticle spray can help to  keep  a  hydrogel  plaster  in  place:  minimal  blood  loss,  lower  chances  of  infection,  and  a hydrated area that is more prone to healing. The described research aims to help others create, in the long term, this widely available system that sounds inspired by science fiction. </p>
+<p style="margin-left: 40px; font-size:90%" align="justify">  <strong>Biosensing Capabilities of Plasmonic Systems</strong> <br /> The use of plasmonic materials for fluorescent biosensing has been exemplified countless times over the last two decades. Small improvements are made as new nano-fabrication techniques are implemented, but most support the same argument: Plasmonic metals increase fluorescent signals. As large scale manufacturing becomes more feasible and cost-effective, it is now crucial to determine which factors are necessary. The goal of this work is to use Fourier difference time domain (FDTD) and Green's Dyadic Function (GDF) modelling to predict the success of a given substrate on fluorescence enhancement. Modelled data is verified using patterned thin films, electron energy loss spectroscopy, photoluminescence, and flurophore conjugated AFM tips. Together a system is developed that can predict (i) deviations in biosensor concentration measurements, (ii) optimal positioning of flurophores, and (iii) possibilities for dual mode imaging. When used in combination with Bayesian statistics and optimisation algorithms, pivotal design questions can be answered that have so far been taken for granted. For example: Is the best approach for a plasmonic biosensor truly to reach the highest enhancement? Or does this result in large deviations that bring large errors into identifying a specific concentration? By addressing this problem now, before widespread implementation, research backed decisions can be made about the validity of individual structures as biosensors.    </p>
 
 
 
